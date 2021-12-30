@@ -715,9 +715,9 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w74540908.m3u8
 
 
 
-#EXTINF:-1, tvg-logo=" TNT ESPORTES 1 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1, tvg-logo=" TNT ESPORTES 5 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-#EXTINF:-1, tvg-logo=" TNT ESPORTES 7 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1, tvg-logo=" TNT ESPORTES 8 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:-1, tvg-logo=" BAND SPORTS HD https://d1wwtskvr1r98k.cloudfront.net/22d48d4e768648da93b637a3bfc65b18/index_2.m3u8
-#EXTINF:-1, tvg-logo ESTÁDIO TV HD https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo=" TNT ESPORTES 1 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo=" TNT ESPORTES 5 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo=" TNT ESPORTES 7 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo=" TNT ESPORTES 8 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo=" BAND SPORTS HD https://d1wwtskvr1r98k.cloudfront.net/22d48d4e768648da93b637a3bfc65b18/index_2.m3u8
+#EXTINF:-1 tvg-logo ESTÁDIO TV HD https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
