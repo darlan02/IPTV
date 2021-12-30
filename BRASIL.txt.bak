@@ -251,10 +251,243 @@ REDE CANAIS
  
 #EXTINF: -1 tvg-id = "A&E" tvg-name = "A&E" tvg-logo = "https://cdn.freebiesupply.com/images/large/2x/ae-logo-black-and-white.png" group-title = "Canais | REDE CANAIS", A&E
 http://50.7.34.155:2200/BR/MTV_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3Dnull3D%3Fmd5
+ 
+#EXTINF: -1 tvg-id = "AMC" tvg-name = "AMC" tvg-logo = "http://www.beamovieextra.com/wp-content/uploads/2016/08/AMC-logo.png" group-title = "Canais | REDE CANAIS", AMC
+https://m3u9.ml/b/hls1/amc.m3u8?mu3zAQc9HC3GbwJq=8BW75ItqaZNunSvNwxqIIA&3U1G7qaTxrPbalZnEx=1640876744
+ 
+ 
+#EXTINF: -1 tvg-id = "ANIMAL PLANET" tvg-name = "ANIMAL PLANET" tvg-logo = "https://i.imgur.com/ulm2CYS.jpeg" group-title = "Canais | REDE CANAIS", ANIMAL PLANET
+https://m3u9.ml/b/hls1/animalplanet.m3u8?mu3zAQc9HC3GbwJq=60w2l76IzCF6QmevLw90fw&3U1G7qaTxrPbalZnEx=1640877169
+ 
 
 
-###########################################
-BRASIL
+
+
+
+#EXTINF:-1 ,GLOBO MINAS HD
+http://jserverstv.xyz:80/Altair/Altair/139719
+#EXTINF:-1 ,GLOBO MINAS HD
+http://jserverstv.xyz:80/Altair/Altair/139720
+#EXTINF:-1 ,GLOBO MINAS HD
+http://jserverstv.xyz:80/Altair/Altair/139721
+#EXTINF:-1 ,GLOBO MINAS SD
+http://jserverstv.xyz:80/Altair/Altair/139722
+#EXTINF:-1 ,GLOBO NACIONAL
+http://jserverstv.xyz:80/Altair/Altair/139723
+#EXTINF:-1 ,GLOBO NORDESTE FHD
+http://jserverstv.xyz:80/Altair/Altair/139724
+#EXTINF:-1 ,GLOBO NORDESTE HD
+http://jserverstv.xyz:80/Altair/Altair/139725
+#EXTINF:-1 ,GLOBO NORDESTE SD
+http://jserverstv.xyz:80/Altair/Altair/139727
+#EXTINF:-1 ,GLOBO NSC FLORIANOPOLIS
+http://jserverstv.xyz:80/Altair/Altair/139728
+#EXTINF:-1 ,GLOBO PETROLINA
+http://jserverstv.xyz:80/Altair/Altair/139729
+#EXTINF:-1 ,GLOBO RBS FHD
+http://jserverstv.xyz:80/Altair/Altair/139731
+#EXTINF:-1 ,GLOBO RBS PORTO ALEGRE SD
+http://jserverstv.xyz:80/Altair/Altair/139733
+#EXTINF:-1 ,GLOBO RECIFE
+http://jserverstv.xyz:80/Altair/Altair/139735
+#EXTINF:-1 ,GLOBO RIBEIRAO PRETO
+http://jserverstv.xyz:80/Altair/Altair/139736
+#EXTINF:-1 ,GLOBO RIBEIRAO PRETO SD
+http://jserverstv.xyz:80/Altair/Altair/139737
+#EXTINF:-1 ,GLOBO RIO GRANDE DO NORTE SD
+http://jserverstv.xyz:80/Altair/Altair/139738
+#EXTINF:-1 ,GLOBO RJ FHD
+http://jserverstv.xyz:80/Altair/Altair/139740
+#EXTINF:-1 ,GLOBO RJ HD
+http://jserverstv.xyz:80/Altair/Altair/139741
+#EXTINF:-1 ,GLOBO RJ HD
+http://jserverstv.xyz:80/Altair/Altair/139742
+#EXTINF:-1 ,GLOBO RJ SD
+http://jserverstv.xyz:80/Altair/Altair/139743
+#EXTINF:-1 ,GLOBO RPC MARINGA FHD
+http://jserverstv.xyz:80/Altair/Altair/139744
+#EXTINF:-1 ,GLOBO RPC TV
+http://jserverstv.xyz:80/Altair/Altair/139745
+#EXTINF:-1 ,GLOBO RPC TV CURITIBA HD
+http://jserverstv.xyz:80/Altair/Altair/139746
+#EXTINF:-1 ,GLOBO SJ DO RIO PRETO SD
+http://jserverstv.xyz:80/Altair/Altair/139747
+#EXTINF:-1 ,Globo Sergipe HD
+http://jserverstv.xyz:80/Altair/Altair/139748
+#EXTINF:-1 ,GLOBO SOROCABA
+http://jserverstv.xyz:80/Altair/Altair/139749
+#EXTINF:-1 ,GLOBO SOROCABA SD
+http://jserverstv.xyz:80/Altair/Altair/139750
+#EXTINF:-1 ,GLOBO SP
+http://jserverstv.xyz:80/Altair/Altair/139751
+#EXTINF:-1 ,GLOBO SP FHD
+http://jserverstv.xyz:80/Altair/Altair/139752
+#EXTINF:-1 ,GLOBO SP FHD
+http://jserverstv.xyz:80/Altair/Altair/139753
+#EXTINF:-1 ,GLOBO SP HD
+http://jserverstv.xyz:80/Altair/Altair/139754
+#EXTINF:-1 ,GLOBO SP HD
+http://jserverstv.xyz:80/Altair/Altair/139755
+#EXTINF:-1 ,GLOBO SP SD
+http://jserverstv.xyz:80/Altair/Altair/139756
+#EXTINF:-1 ,GLOBO TRIBUNA SANTOS FHD
+http://jserverstv.xyz:80/Altair/Altair/139757
+#EXTINF:-1 ,GLOBO TV MIRANTE MA
+http://jserverstv.xyz:80/Altair/Altair/139758
+#EXTINF:-1 ,GLOBO TV VANGUARDA SJ DOS CAMPOS SD
+http://jserverstv.xyz:80/Altair/Altair/139759
+#EXTINF:-1 ,GLOBO VERDES MARES
+http://jserverstv.xyz:80/Altair/Altair/139761
+#EXTINF:-1 ,GLOBO VERDES MARES FORTALEZA
+http://jserverstv.xyz:80/Altair/Altair/139762
+#EXTINF:-1 ,GLOBO VERDES MARES FORTALEZA SD
+http://jserverstv.xyz:80/Altair/Altair/139763
+#EXTINF:-1 ,GLOBO VERDES MARES HD
+http://jserverstv.xyz:80/Altair/Altair/139764
+#EXTINF:-1 ,GLOBO VITORIA
+http://jserverstv.xyz:80/Altair/Altair/139765
+#EXTINF:-1 ,GLOBOTV TRIBUNA SANTOS SD
+http://jserverstv.xyz:80/Altair/Altair/139767
+#EXTINF:-1 ,TV TEM SOROCABA
+http://jserverstv.xyz:80/Altair/Altair/139769
+#EXTINF:-1 ,ANIMAL PLANET FHD
+http://jserverstv.xyz:80/Altair/Altair/139770
+#EXTINF:-1 ,ANIMAL PLANET HD
+http://jserverstv.xyz:80/Altair/Altair/139771
+#EXTINF:-1 ,ANIMAL PLANET SD
+http://jserverstv.xyz:80/Altair/Altair/139772
+#EXTINF:-1 ,DISCOVERY CHANNEL FHD
+http://jserverstv.xyz:80/Altair/Altair/139773
+#EXTINF:-1 ,DISCOVERY CHANNEL HD
+http://jserverstv.xyz:80/Altair/Altair/139774
+#EXTINF:-1 ,DISCOVERY CHANNEL HD
+http://jserverstv.xyz:80/Altair/Altair/139775
+#EXTINF:-1 ,DISCOVERY CHANNEL SD
+http://jserverstv.xyz:80/Altair/Altair/139776
+#EXTINF:-1 ,DISCOVERY HOME & HEALTH FHD
+http://jserverstv.xyz:80/Altair/Altair/139777
+#EXTINF:-1 ,DISCOVERY HOME & HEALTH HD
+http://jserverstv.xyz:80/Altair/Altair/139778
+#EXTINF:-1 ,DISCOVERY HOME & HEALTH SD
+http://jserverstv.xyz:80/Altair/Altair/139779
+#EXTINF:-1 ,DISCOVERY SCIENCE FHD
+http://jserverstv.xyz:80/Altair/Altair/139780
+#EXTINF:-1 ,DISCOVERY SCIENCE HD
+http://jserverstv.xyz:80/Altair/Altair/139781
+#EXTINF:-1 ,DISCOVERY SCIENCE SD
+http://jserverstv.xyz:80/Altair/Altair/139782
+#EXTINF:-1 ,DISCOVERY THEATER FHD
+http://jserverstv.xyz:80/Altair/Altair/139783
+#EXTINF:-1 ,DISCOVERY THEATER HD
+http://jserverstv.xyz:80/Altair/Altair/139784
+#EXTINF:-1 ,DISCOVERY THEATER SD
+http://jserverstv.xyz:80/Altair/Altair/139785
+#EXTINF:-1 ,DISCOVERY TLC FHD
+http://jserverstv.xyz:80/Altair/Altair/139786
+#EXTINF:-1 ,DISCOVERY TLC HD
+http://jserverstv.xyz:80/Altair/Altair/139787
+#EXTINF:-1 ,DISCOVERY TLC SD
+http://jserverstv.xyz:80/Altair/Altair/139788
+#EXTINF:-1 ,DISCOVERY TURBO FHD
+http://jserverstv.xyz:80/Altair/Altair/139789
+#EXTINF:-1 ,DISCOVERY TURBO HD
+http://jserverstv.xyz:80/Altair/Altair/139790
+#EXTINF:-1 ,DISCOVERY TURBO SD
+http://jserverstv.xyz:80/Altair/Altair/139791
+#EXTINF:-1 ,DISCOVERY WORLD FHD
+http://jserverstv.xyz:80/Altair/Altair/139792
+#EXTINF:-1 ,DISCOVERY WORLD HD
+http://jserverstv.xyz:80/Altair/Altair/139793
+#EXTINF:-1 ,DISCOVERY WORLD SD
+http://jserverstv.xyz:80/Altair/Altair/139794
+#EXTINF:-1 ,DOG TV
+http://jserverstv.xyz:80/Altair/Altair/139795
+#EXTINF:-1 ,FISH TV FHD
+http://jserverstv.xyz:80/Altair/Altair/139796
+#EXTINF:-1 ,FISH TV HD
+http://jserverstv.xyz:80/Altair/Altair/139797
+#EXTINF:-1 ,FISH TV SD
+http://jserverstv.xyz:80/Altair/Altair/139798
+#EXTINF:-1 ,H2 FHD
+http://jserverstv.xyz:80/Altair/Altair/139799
+#EXTINF:-1 ,H2 HD
+http://jserverstv.xyz:80/Altair/Altair/139800
+#EXTINF:-1 ,H2 SD
+http://jserverstv.xyz:80/Altair/Altair/139801
+#EXTINF:-1 ,HGTV  SD
+http://jserverstv.xyz:80/Altair/Altair/139802
+#EXTINF:-1 ,HGTV FHD
+http://jserverstv.xyz:80/Altair/Altair/139803
+#EXTINF:-1 ,HGTV HD
+http://jserverstv.xyz:80/Altair/Altair/139804
+#EXTINF:-1 ,HISTORY CHANNEL FHD
+http://jserverstv.xyz:80/Altair/Altair/139805
+#EXTINF:-1 ,HISTORY CHANNEL HD
+http://jserverstv.xyz:80/Altair/Altair/139806
+#EXTINF:-1 ,HISTORY CHANNEL SD
+http://jserverstv.xyz:80/Altair/Altair/139807
+#EXTINF:-1 ,ID - INVESTIGAÇÃO DISCOVERY FHD
+http://jserverstv.xyz:80/Altair/Altair/139808
+#EXTINF:-1 ,ID - INVESTIGAÇÃO DISCOVERY HD
+http://jserverstv.xyz:80/Altair/Altair/139809
+#EXTINF:-1 ,NATGEO WILD FHD
+http://jserverstv.xyz:80/Altair/Altair/139811
+#EXTINF:-1 ,NATGEO WILD HD
+http://jserverstv.xyz:80/Altair/Altair/139812
+#EXTINF:-1 ,NATGEO WILD SD
+http://jserverstv.xyz:80/Altair/Altair/139813
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC FHD
+http://jserverstv.xyz:80/Altair/Altair/139814
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC HD
+http://jserverstv.xyz:80/Altair/Altair/139815
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC SD
+http://jserverstv.xyz:80/Altair/Altair/139816
+#EXTINF:-1 ,TRU TV
+http://jserverstv.xyz:80/Altair/Altair/139817
+#EXTINF:-1 ,Padrinhos Mágicos
+http://jserverstv.xyz:80/Altair/Altair/139818
+#EXTINF:-1 ,101 Dalmatas
+http://jserverstv.xyz:80/Altair/Altair/139819
+#EXTINF:-1 ,3 palavrinhas
+http://jserverstv.xyz:80/Altair/Altair/139820
+#EXTINF:-1 ,A Formiga Atômica
+http://jserverstv.xyz:80/Altair/Altair/139821
+#EXTINF:-1 ,A Grande Família
+http://jserverstv.xyz:80/Altair/Altair/139822
+#EXTINF:-1 ,A hora do rock
+http://jserverstv.xyz:80/Altair/Altair/139823
+#EXTINF:-1 ,A Mansão Foster Para Amigos
+http://jserverstv.xyz:80/Altair/Altair/139824
+#EXTINF:-1 ,A PANTERA COR DE ROSA
+http://jserverstv.xyz:80/Altair/Altair/139825
+#EXTINF:-1 ,a pequena sereia
+http://jserverstv.xyz:80/Altair/Altair/139826
+#EXTINF:-1 ,a praça e nossa
+http://jserverstv.xyz:80/Altair/Altair/139827
+#EXTINF:-1 ,A Vaca e o Frango
+http://jserverstv.xyz:80/Altair/Altair/139828
+#EXTINF:-1 ,A Vila
+http://jserverstv.xyz:80/Altair/Altair/139829
+#EXTINF:-1 ,A.Casa.do.Mickey.Mouse
+http://jserverstv.xyz:80/Altair/Altair/139830
+#EXTINF:-1 ,A.Guarda.do.Lea
+http://jserverstv.xyz:80/Altair/Altair/139831
+#EXTINF:-1 ,A.Lenda.De.Korra
+http://jserverstv.xyz:80/Altair/Altair/139832
+#EXTINF:-1 ,Aladdin
+http://jserverstv.xyz:80/Altair/Altair/139833
+#EXTINF:-1 ,ALF o ETeimoso
+http://jserverstv.xyz:80/Altair/Altair/139834
+#EXTINF:-1 ,aline barro
+http://jserverstv.xyz:80/Altair/Altair/139835
+#EXTINF:-1 ,American Dad
+http://jserverstv.xyz:80/Altair/Altair/139836
+#EXTINF:-1 ,Angry Birds
+http://jserverstv.xyz:80/Altair/Altair/139837
+#EXTINF:-1 ,Apenas Um Show
+http://jserverstv.xyz:80/Altair/Altair/139838
+#EXTINF:-1 ,Arnold
+http://jserverstv.xyz:80/Altair/Altair/139839
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DXwyj7S.png" group-title="BRAZIL",98 Live
