@@ -388,6 +388,8 @@ http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 
 ############################## NOVA REDE 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y0wCbnf/TVs-ONLINE-SERV-4.png",[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
 
 #EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png"TELECINE ACTION SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://fonteangelusiptv.com:25461/Carol123/Carol123/855992
