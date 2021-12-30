@@ -1,18 +1,28 @@
 #EXTM3U
  
 #################################################### TV Aberta
+
+#EXTINF: -1 tvg-id = "GLOBO" tvg-logo = "https://imgur.com/Sgpzemb.png" group-title = "Canais | ABERTO", GLOBO
+https://liv11octhd.stblauncher.com/live/5756_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+
+
+#EXTINF: -1 tvg-id = "SBT SP" tvg-name = "SBT SP" tvg-logo = "https://imgur.com/E0VqV6w.png" group-title = "Canais | ABERTO", SBT 
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+
+
+#EXTINF: -1 tvg-id = "BAND" tvg-logo = "https://imgur.com/hC23vJ1.png" group-title = "Canais | ABERTO", BAND SP
+http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w578294036.m3u8
+ 
+#EXTINF: -1 tvg-id = "RECORD SP" tvg-name = "RECORD SP" tvg-logo = "https://i.imgur.com/mQo0UoK.png" group-title = "Canais | ABERTO", RECORD SP 
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-b.m3u8
+
  
 #EXTINF: -1 tvg-id = "CANAL 29" tvg-logo = "" group-title = "Canais | ABERTO", CANAL 29
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1957782403.m3u8
  
 #EXTINF: -1 tvg-id = "conectv" tvg-logo = "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/454924e01d06c3bc20131e8514187305.webp" group-title = "Canais | ABERTO", conectv
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
- 
-#EXTINF: -1 tvg-id = "CBN" tvg-logo = "https://s2.glbimg.com/tYIPZR7NT6S0rfGhY-VrGA2af-I=/285x285/https://s2.glbimg.com/cL9lvpEaI-IyfHdrZzjiAZicOEw=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/E/v/sHXBC2QYeINnC54QI0kQ/cbn-sp-700x700-logo-branca.png" group-title = "Canais | ABERTO", CBN
-https://live-as-11-37.video.globo.com/d/m/s/hls-cbnsp24ha/hls-cbnsp24ha_2359/playlist.m3u8
- 
-#EXTINF: -1 tvg-id = "GLOBO PLAY" tvg-logo = "https://i.imgur.com/hqUiip9.png" group-title = "Canais | ABERTO", GLOBO PLAY
-https://live-ancdn-05.video.globo.com/d/s/hls-globo-imp/hls-globo-imp_2359/playlist.m3u8https://live-ancdn-05.video.globo.com/d/s/hls-globo-imp/hls-globo-imp_2359/playlist.m3u8
+
  
 #EXTINF: -1 tvg-id = "TV CULTURA" tvg-logo = "https://i.imgur.com/FSMTaN1.png" group-title = "Canais | ABERTO", TV CULTURA
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1120193815.m3u8
@@ -34,19 +44,7 @@ http://50.7.34.155:2200/BR/Globo_HD_RJ-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3
  
 #EXTINF: -1 tvg-id = "GLOBO RPC" tvg-logo = "https://imgur.com/Sgpzemb.png" group-title = "Canais | ABERTO", GLOBO RPC
 http://45.226.83.14:80/live/RPCHD/720p.m3u8
- 
-#EXTINF: -1 tvg-id = "GLOBO" tvg-logo = "https://imgur.com/Sgpzemb.png" group-title = "Canais | ABERTO", GLOBO
-https://liv11octhd.stblauncher.com/live/5756_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
- 
- 
-#EXTINF: -1 tvg-id = "SBT SP" tvg-name = "SBT SP" tvg-logo = "https://imgur.com/E0VqV6w.png" group-title = "Canais | ABERTO", SBT 
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
- 
-#EXTINF: -1 tvg-id = "BAND" tvg-logo = "https://imgur.com/hC23vJ1.png" group-title = "Canais | ABERTO", BAND SP
-http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w578294036.m3u8
- 
-#EXTINF: -1 tvg-id = "RECORD SP" tvg-name = "RECORD SP" tvg-logo = "https://i.imgur.com/mQo0UoK.png" group-title = "Canais | ABERTO", RECORD SP 
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-b.m3u8
+  
  
 #EXTINF: -1 tvg-id = "RECORD RJ" tvg-name = "RECORD RJ" tvg-logo = "https://i.imgur.com/mQo0UoK.png" group-title = "Canais | ABERTO", RECORD RJ
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_480_av-b.m3u8
@@ -245,16 +243,14 @@ http://50.7.34.155:2201/BR/Studio_Universal_HD-br/tracks-v1a1/mono.m3u8?token=fw
 http://50.7.34.155:2201/BR/Universal_TV_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3Dm%3D%3Fd5
  
  
-######################################## 
-REDE CANAIS
+############################### ######## REDE CANAIS 
  
  
 #EXTINF: -1 tvg-id = "A&E" tvg-name = "A&E" tvg-logo = "https://cdn.freebiesupply.com/images/large/2x/ae-logo-black-and-white.png" group-title = "Canais | REDE CANAIS", A&E
 http://50.7.34.155:2200/BR/MTV_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3Dnull3D%3Fmd5
 
 
-##########################################
-BRASIL
+############################## #################### BRASIL
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DXwyj7S.png" group-title="BRAZIL",98 Live
