@@ -1118,11 +1118,2049 @@ http://77.247.109.86:8000/a/willene/live/32568.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjo
 #EXTINF:-1 tvg-name="VIVA (3)" group-title="Brazil" tvg-logo="https://vjackson.info/live/logo?channel=22319",VIVA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://77.247.109.86:8000/a/willene/live/22319.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ== 
-http://77.247.109.86:8000/a/willene/live/32573.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ== 
-http://77.247.109.86:8000/a/willene/live/50099.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ== 
 #EXTINF:-1 tvg-name="WARNER CHANNEL (3)" group-title="Brazil" tvg-logo="https://vjackson.info/live/logo?channel=22321",WARNER CHANNEL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://77.247.109.86:8000/a/willene/live/22321.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ== 
 #EXTINF:-1 tvg-name="WARNER CHANNEL HD (3)" group-title="Brazil" tvg-logo="https://vjackson.info/live/logo?channel=22322",WARNER CHANNEL HD
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://77.247.109.86:8000/a/willene/live/22322.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ== 
+
+
+
+
+#########################################################
+############## AGRO = 10 Canais ####################
+#########################################################
+ 
+#EXTINF: -1 título-grupo = "AGRO", Agro Brasil TV
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "AGRO", Agro Brasil TV²
+https://origin-02.nxplay.com.br/AGROBRASIL_TV/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "AGRO", Agro Brasil TV³
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "AGRO", Agro Mais
+https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "AGRO", Canal da Pecuária
+https://59f2354c05961.streamlock.net:1443/canalpecuaria/_definst_/canalpecuaria/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "AGRO", Canal do Boi
+http://177.20.208.58:8000/play/a044/index.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "AGRO", Canal Rural
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "AGRO", Nova Tv Agrotour
+https://video01.kshost.com.br:4443/marcelo6682/marcelo6682/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "AGRO", Terra Viva
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "AGRO", TV Milagro Brasil
+https://srv5.zcast.com.br/tvmilagro/tvmilagro/playlist.m3u8?ROGERIOTORRES
+ 
+ 
+#########################################################
+###### ANIME E TOKUSATSU = 8 Canais ###########
+#########################################################
+ 
+#EXTINF: -1 group-title = "ANIME E TOKUSATSU", Anime HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsLice/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsappung&deviceVersion=unkdevice&deviceVersion=unkdevice&deviceVersion=samsappung&DNETunkTunk=Version=device7&deviceTunkdevice7&OPDevice7&DNTunkDevice7&device7&device7device7device7>
+ 
+#EXTINF: -1 group-title = "ANIME E TOKUSATSU", Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ANIME E TOKUSATSU", Anime Ação HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsLicef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsappung&deviceVersion=unkdevice&deviceVersion=Wunkdevice&deviceVersion=device&deviceTDNTunkdevice7&device&device_device_device7&device7device>&DNTunkdevice7device- =% 7BPSID% 7D & AdvertisingId =% 7BPSID% 7D & us_privacy = 1YNY & samsung_app_domain =% 7BAPP_DOMAIN% 7D & samsung_app_name =% 7BAPP_NAME% 7D & profileLimit = & profileFloor = & profileFloor = & embedPartner = samsungplus = samsungplus =
+ 
+#EXTINF: -1 group-title = "ANIME E TOKUSATSU", Animestat! Em HD
+https://stmv.video.expressolider.com.br/animestation1/animestation1/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ANIME E TOKUSATSU", AZTV (ESP)
+https://azxtv.com/hls/stream.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ANIME E TOKUSATSU", CONTV Anime (ENG)
+https://contvanime-plex-ingest.cinedigm.com/masterR1080p.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ANIME E TOKUSATSU", Locomoção (ESP)
+http://51.222.85.85:81/hls/loco/index.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ANIME E TOKUSATSU", Naruto HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+ 
+#EXTINF: -1 group-title = "ANIME E TOKUSATSU", Tokusatsu HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknevice&deviceVersion=unknevice&deviceVersion=unknevice=samsungLeviceDevice=tversion=samsung&device0DeviceModel=samsung&device_0Device_=unkdevice7&ARDevice_0-4evice7>
+ 
+ 
+#########################################################
+####### CANAIS ABERTOS = 54 Canais ##############
+#########################################################
+ 
+#EXTINF: -1 group-title = "CANAIS ABERTOS", Banda HD
+https://stream-04.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm496lSYS6Iq-3W4es4ZwCbUs)/dm/3/x83vbd6/s/live-3.m3u8#cell=lnyc
+ 
+#EXTINF: -1 group-title = "CANAIS ABERTOS", Band² HD
+https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "CANAIS ABERTOS", Banda HD (PA)
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "CANAIS ABERTOS", Canal 26 HD (ESP)
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "CANAIS ABERTOS", Canal Parlamento HD (PT)
+https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "CANAIS ABERTOS", Canal Saúde
+http://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "CANAIS ABERTOS", Cultura HD (SP)
+http://origin-02.nxplay.com.br/TV_CULTURA_HD_PFZ1/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "CANAIS ABERTOS", Cultura - CATVE HD (PR)
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "CANAIS ABERTOS", Cultura - CATVE² HD (PR)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "CANAIS ABERTOS", Cultura Educação - Master TV HD
+http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "CANAIS ABERTOS", Cultura - TV Futuro
+https://streaming03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "CANAIS ABERTOS", Futura - TV o Povo HD
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "CANAIS ABERTOS", Futura - Unisc TV HD
+https://tv.unisc.br/hls/test.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "CANAIS ABERTOS", Globo HD (PR)
+http://45.226.83.14/live/RPCHD/720p.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "CANAIS ABERTOS", GNM TV
+https://59e4b6c1beddc.streamlock.net/tvgazeta/tvgazeta/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "CANAIS ABERTOS", Multi Cultura HD
+http://origin-02.nxplay.com.br/MULTICULTURA_PFZ/video.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "CANAIS ABERTOS", Porto Canal HD (PT)
+https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "CANAIS ABERTOS", Porto Canal² HD (PT)
+http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "CANAIS ABERTOS", Grava TV HD (SP)
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF: -1 group-title = "CANAIS ABERTOS", Grava TV HD (RJ)
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "CANAIS ABERTOS", TV Record (PT)
+http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "CANAIS ABERTOS", Rede Brasil HD
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "CANAIS ABERTOS", Rede Brasil HD (MT)
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "CANAIS ABERTOS", Rede Família HD
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "CANAIS ABERTOS", Rede Minas HD
+https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHO3IOQlist?ch_tFgfGiHOdunk8PROCHTOR_RESBIOQList?
+ 
+#EXTINF: -1 título-grupo = "CANAIS ABERTOS", Rede TV (ES)
+https://hls.brasilstream.com.br/live/redetv/redetv/index.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "CANAIS ABERTOS", Rede TV (RS)
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "CANAIS ABERTOS", Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "CANAIS ABERTOS", SBT Interior HD (SP)
+https://5a1c76baf08c0.streamlock.net/sbtinterior/diNiEn3SLMnV/chunklist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "CANAIS ABERTOS", SBT HD (AM)
+https://livefocamundo.com:8081/tvguajaraonline2/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "CANAIS ABERTOS", SBT HD (PI)
+http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "CANAIS ABERTOS", SBT HD (PR)
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "CANAIS ABERTOS", SESC TV HD
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index1080p.m3u8RESTOR
+ 
+#EXTINF: -1 título-grupo = "CANAIS ABERTOS", SIC Internacional HD (PT)
+http://live.impresa.pt/live/sicint/sicint.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "CANAIS ABERTOS", TV Aberta HD
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "CANAIS ABERTOS", TV Artes HD
+https://59f2354c05961.streamlock.net:1443/tvdasartes/_definst_/tvdasartes/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "CANAIS ABERTOS", TV Assembleia HD (MG)
+http://streaming.almg.gov.br:80/live/tvalmg.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "CANAIS ABERTOS", TV Assembleia HD (CE)
+http://srv6.zoeweb.tv:1935/z404-live/stream/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "CANAIS ABERTOS", TV Brasil HD
+https://edge-mg-01.eduplay.rnp.br/media/ocp (r (SOtSyQ) t (AAAAAAAAAAA) p (d (ADo) k (EBE) m (LNaSUMFNSGQs1YBnM8XhLQ) n (a (kLbutb9pjfAzl8) n (kLbutb9jpjgAzl8) n (kLbutb9jpgAzl8sqlRm) rrg) 'a) s (t-aZqqGIQgBm6ZHJp3tHyyjZ (CVF))) s (t (eT8) b (6P9w9Nu8wcNIUaKqkTKqXRWNHWIhMz8mxUoA4mgo1tqnqVYwaZMCmldOaMbaZB0n33FR3ttihZ1JvOivSGdZIuhde-5ZIl_f4tK0pFaa_lpv5gVXuaKHBhpJxYHQpAySe8UfuTry1gihrKpUq-DVrvTLAVcN_NYL-OR5gME)' t (CCA) b (Q_39q61nTExyyL-LZijmcTvd7twmucXBiaA))) / live_720_index.m3u8
+ 
+#EXTINF: -1 título-grupo = "CANAIS ABERTOS", TV Brasil² HD
+https://www.dailymotion.com/video/x82pp99
+ 
+#EXTINF: -1 título-grupo = "CANAIS ABERTOS", TV Brasil 2 HD
+http://origin-02.nxplay.com.br/TV_BRASIL_2/index.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "CANAIS ABERTOS", TV Camera HD
+https://stream3.camara.gov.br/tv1/manifest.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "CANAIS ABERTOS", TV Camara HD (SP)
+https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "CANAIS ABERTOS", TV Escola HD
+https://edge-df-01.eduplay.rnp.br/media/ocp(r(-up5PQ)t(AAAAAAAAAAA)p(d(ADo)k(EBE)m(8TF0e-YyHE71UfnmOYOFDA)n(a(ozOW -4v4TOPRR0ipVzWUnaaZeSi5e2ua) s (NCK) 'a (VSM-xoq4gzxFn-VaxUzMufbL) s (wZk))) s (t (E7k) b (oXqtZWIMCDVwg0yxrQe0zueeAAIblLPNVoZ-G06C_xLWtLEFfeboLJ0mNTjouGny22hgEiK6D0DA71BL63gF0y42USnTLgWVW5Mg3Eg4EzxFM1-9k84D4EkV0gyGd4vrAjqeWvnP9f6_tbfOORDVJ8GPYx6gnFp2TdOwCcnQ)' t (CEO) b (xI0q2x9MvTlVqrASW1l0YdCCPm8Evz0iMcok))) / live_540_index. m3u8
+ 
+#EXTINF: -1 group-title = "CANAIS ABERTOS", TVE HD
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "CANAIS ABERTOS", TVE² HD
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "CANAIS ABERTOS", TV Gazeta HD
+http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "CANAIS ABERTOS", TV Paraná Turismo HD
+http://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "CANAIS ABERTOS", TV Parana Turismo² HD
+http://200.189.113.201/hls/tve.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "CANAIS ABERTOS", TV UFG HD
+http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8?ROGERIOTORRES
+ 
+ 
+#########################################################
+####### DOCUMENTARIOS = 24 Canais ################
+#########################################################
+ 
+#EXTINF: -1 group-title = "DOCUMENTARIOS", Assim é Portugal
+https://livefocamundo.com:8081/tvmaxrio/index.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "DOCUMENTARIOS", Ghost TV
+https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "DOCUMENTARIOS", Histórico 2 HD
+http://d1wwtskvr1r98k.cloudfront.net/a3f915286ca6481d9a63ca0b0da41c79/index_1.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "DOCUMENTARIOS", Investigação HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&DNTunkdevice&device_Tunkdevice0&device&device7Device_Device7Device7Device7device7device7evicdeversion7-cd-gtamsungdevicedevicedevicdevice7evicdevice7evicdevice7evicedevicdevice7evicdevicedevicedevice7evicedevicedevice7devnevicdevice7devnevicdevice7-device-devicdevracer- do-
+ 
+#EXTINF: -1 group-title = "DOCUMENTARIOS", Inwild TV HD (ENG)
+https://inwild-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "DOCUMENTARIOS", Inwonder TV HD (ENG)
+https://inwonder-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "DOCUMENTARIOS", Love Nature HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsLice/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsappung&deviceVersion=unkdevice&deviceVersion=unkdevice&deviceVersion=samsappung&DNTunktversion7&device7&deviceVersion7Tunkdevice7&device&device&device7device7&device7device7>
+ 
+#EXTINF: -1 group-title = "DOCUMENTARIOS", Love Nature 4K (ESP)
+http://177.20.208.58:8000/play/a03r/index.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "DOCUMENTARIOS", Love Nature HD (ENG)
+http://bamus-spa-roku.amagi.tv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "DOCUMENTARIOS", Love Nature 4K (ENG)
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "DOCUMENTARIOS", Misterios HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsappung&deviceVersion=unkdevice&deviceVersion=unknevice&deviceVersion=samsappung&DNTunktversion=samsapp=0DeviceVersion=samsappung&deviceVersion&unkdevice7&OPDevice7&deviceBacerdocopa7&device7&device7device7>
+ 
+#EXTINF: -1 group-title = "DOCUMENTARIOS", NASA TV (ENG)
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "DOCUMENTARIOS", Naturescape HD
+https://samsung-br.ott-channels.stingray.com/naturescape/master.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "DOCUMENTARIOS", Paisagens HD
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604a8dedbca75b0007b1c753/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner= rokuChannel & appName = rokuchannel & is_lat = 1 & bmodel = bm1 & content = channel & platform = web & tags = ROKU_CONTENT_TAGS & coppa = false & content_type = livefeed & rdid = channel & genre = ROKU_ADS_CONTENT_GENRE & content_rating = channel_ADS_CONTENT_GENRE & content_rating = canal_ADS_CONTENTS = channel_RID_CONTENT = channel_ ROKUENT = channel_ONTENTRating_content = live & rdid = channel & genre = ROKU_ADS_CONTENT_GENRE & content_rating = canal_ADS_CONTENTS = channel_ID_CONTENTE
+ 
+#EXTINF: -1 group-title = "DOCUMENTARIOS", Phoenix TV HD
+https://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "DOCUMENTARIOS", Rakuten Documentaries HD (PT)
+https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "DOCUMENTARIOS", Travel Box Brasil HD
+http://origin-02.nxplay.com.br/TRAVEL_HD/video.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "DOCUMENTARIOS", TV Hum
+https://59f2354c05961.streamlock.net:1443/tvumdigital/_definst_/tvumdigital/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "DOCUMENTARIOS", TVideoNews
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "DOCUMENTARIOS", Urban TV Docs HD
+https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "DOCUMENTARIOS", Vida Real HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsd9ec194100070c7449/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsd9ec194100070c7449/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceTunkdevice7&device=Tunkdevice&device=Tunkdevice7&device=Tunkdevice7Edevice&device&device7Device&Device&device7Device&device7&device=Tunkdevice6
+ 
+#EXTINF: -1 group-title = "DOCUMENTARIOS", Wild Earth HD (ENG)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-escapetonature-wildearth-samsungbr/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "DOCUMENTARIOS", XR Health HD
+https://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8?ROGERIOTORRES
+ 
+ 
+#########################################################
+####### ESPORTES = 47 Canais #######################
+#########################################################
+ 
+#EXTINF: -1 group-title = "ESPORTES", Abu Dhabi Sports 1 HD (ARA)
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", Abu Dhabi Sports 2 HD (ARA)
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", Abu Dhabi Sports 3 HD (ARA)
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", Adventure Sports Network HD (ENG)
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", All Elite Wrestling HD (ESP)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion&device&device0Device&device0Device7DeviceDevice&Device&device7Device&Device7Edevice0
+ 
+#EXTINF: -1 group-title = "ESPORTES", Todos os esportes
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", Bahrain Sport 1 (ARA)
+http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", Bellator MMA HD (ENG)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&DNTunkdevice&device0&device=Vunkdevice0Device&nokdevice7Device&device7device7device7device7device7device7device7device7device7device7.nevice_&nvickdevice-0-device7-
+ 
+#EXTINF: -1 group-title = "ESPORTES", Best Cable Sports Peru (ESP)
+https://tv.siete.us/bestcablesports/bestcablesports/index.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", BMTV HD
+https://srv5.zcast.com.br/bmtv/bmtv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", Boxing HD (ENG)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceTunkdeversion&device&device=Tunkdevice7&deviceVersion7&DNTunkdevice7&deviceVersion7DeviceDevice&Device&device7Device&Device&device7&device&device&device7&device_Device&device7&device&device7Device7&device_device7&device7device7device7device_&device_device7device7_device7_Device-app-zdevice7&Devicedevice7&AR- app8
+ 
+#EXTINF: -1 group-title = "ESPORTES", Canal 11 (PT)
+https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", Channel Fight HD (ENG)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68
+ 
+#EXTINF: -1 group-title = "ESPORTES", DeporTV HD (ESP)
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", Dubai Sport HD (ARA)
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", Dubai Sports 2 HD (ARA)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", Dubai Sports 3 HD (ARA)
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", EDGEsport (ENG)
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", EDGEsport² (ENG)
+https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", Eleven Sports HD (ENG)
+https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", Fight Network (ENG)
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", Fight TV HD (ENG)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+ 
+#EXTINF: -1 group-title = "ESPORTES", Fighting Spirit TV HD (ENG)
+https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", Fish TV HD
+http://168.205.87.198:8555/live/123456/123456/62.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", Fox Sports HD (ESP)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", Fox Sports HD (ENG)
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", FreeSports HD (ENG)
+https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", Fuel TV HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d088516ea8000739076a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId =% 7BPSID% 7D & AdvertisingId =% 7BPSID% 7D & us_privacy = 1YNY & samsung_app_domain =% 7BAPP_DOMAIN% 7D & samsung_app_name =% 7BAPP_NAME% 7D & profileLimit = & profileFloor = & profileFloor = & embedPartner = samsungplus = samsungplus =
+ 
+#EXTINF: -1 group-title = "ESPORTES", Fuel TV HD (ENG)
+https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", Hard Knocks HD (ENG)
+HTTPS
+ 
+#EXTINF: -1 group-title = "ESPORTES", Horizon Sports HD (ENG)
+https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", Insight TV HD (ENG)
+https://insight-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", Introuble TV HD (ENG)
+https://introuble-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", MMA Junkie HD (ENG)
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", MMA TV HD (ENG)
+https://mmatv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61327d317542b31350435482_mmatv-live/a504c826-6950-4b5b-a518-171d9aef07ee/4.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", Motorvision HD
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", Nitro TV HD
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", Oman Sport HD (ARA)
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", Poker TV HD (ENG)
+http://51.210.199.17/hls/stream.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", Red Bull TV HD (ENG)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", Red Bull TV² HD (ENG)
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", Sharjah Sports HD (ARA)
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", Sport 1 (ucr)
+https://95-213-224-183.livesports24.online/sport1ua.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", Sport Rússia (RUS)
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", Stadium HD (ENG)
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", TYC Sports HD (ESP)
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", TNT Sports 1 HD
+http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", TNT Sports 1² HD
+http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", TNT Sports 2 HD
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", TNT Sports 3 HD
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", TNT Sports 4 HD
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", TNT Sports 5 HD
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", TVS Classic Sports (ENG)
+http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESPORTES", Viasat Sport HD (ENG)
+http://persik.by/stream/2944/263250/10249.m3u8?ROGERIOTORRES
+ 
+ 
+#########################################################
+####### ESTILO DE VIDA = 16 Canais ##############
+#########################################################
+ 
+#EXTINF: -1 group-title = "ESTILO DE VIDA", Arte 1 HD
+http://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_1.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESTILO DE VIDA", Arte 1² HD
+http://origin-02.nxplay.com.br/ARTE1_NX/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESTILO DE VIDA", Chef TV HD
+http://canaishd.servidor.tv:8080/michel12/12michel/53519
+ 
+#EXTINF: -1 título-grupo = "ESTILO DE VIDA", Estilo De Vida HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f8841a4865da0007421177/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+ 
+#EXTINF: -1 group-title = "ESTILO DE VIDA", Fashion TV HD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESTILO DE VIDA", Fashion Box HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f516730b78b7600079294f5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&device=Tunkdevice&deviceVersion7&device=Tunkdevice&DNTunkdevice7&deviceVersion7Device&device&device7Device7&deviceDevice7&DeviceDevice7&device=Tunkdevice7
+ 
+#EXTINF: -1 group-title = "ESTILO DE VIDA", Hollywire HD
+https://hollywire-samsung-3-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESTILO DE VIDA", Life Channel HD
+https://hls.brasilstream.com.br/live/lifechannel/lifechannel/tracks-v1a1/mono.m3u8?token=4365564105550557000
+ 
+#EXTINF: -1 group-title = "ESTILO DE VIDA", Lifetime HD
+http://d31ii3fk8fd7mh.cloudfront.net/e99907efe2284822af0f0953d29a88a3/index_3.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESTILO DE VIDA", Lupa Arte + Musica HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600b248969c6580007e91a2d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&device=Tunkdevice&deviceVersion7&deviceTunkdevice7&DNTunkdevice7&deviceTunkdevice7&deviceVersion7DeviceModel=samsung&DNTunkdevice=Tunkdevice6
+ 
+#EXTINF: -1 título-grupo = "ESTILO DE VIDA", Mestre Chefe HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknevice&deviceVersion=unknevice&deviceVersion=unknevice=samsungLeviceDevice=TDNTown7&deviceTDNT0device=samsung&device_0Device_=samsungLevice7&device_0Ddevice_&DNdevice-0Ddevice=samsung7appdevice_0Dddevice_&DNdevice_device-=samsungDevice7TDNTdd.at.-
+ 
+#EXTINF: -1 group-title = "ESTILO DE VIDA", People Are Awesome HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515d080e738d000739e19c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+ 
+#EXTINF: -1 group-title = "ESTILO DE VIDA", Tastemade HD
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&approVersion=channel&neldeviceTnl=deversion=1.0&neldeviceTnl=deversion=1.0&neldeviceTDnchannel&neldeviceTnl=deversion=1.0&neldevice1.0&appVersion=channel&neldeviceTneldeversion=Deviceku&neldevice1.0&appVersion=1.0deviceTneldeversion=Deviceku&neldevice1.0&Dnchanneldeversiondeversion=1.0_device_deversiondeversion=1.01.0&neldeversiondeversiondeversion-1.0 rokuChannel & appName = rokuchannel & is_lat = 1 & bmodel = bm1 & content = channel & platform = web & tags = ROKU_CONTENT_TAGS & coppa = false & content_type = livefeed & rdid = channel & genre = ROKU_ADS_CONTENT_GENRE & content_rating = channel_ADS_CONTENT_GENRE & content_rating = canal_ADS_CONTENTS = channel_RID_CONTENT = channel_ ROKUENT = channel_ONTENTRating_content = live & rdid = channel & genre = ROKU_ADS_CONTENT_GENRE & content_rating = canal_ADS_CONTENTS = channel_ID_CONTENTE
+ 
+#EXTINF: -1 group-title = "ESTILO DE VIDA", Tastemade² HD
+https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESTILO DE VIDA", Weather Spy HD
+https://jukin-weatherspy-1.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "ESTILO DE VIDA", World Fashion Channel
+https://wfcint.mediacdn.ru/cdn/wfcint/playlist.m3u8?ROGERIOTORRES
+ 
+ 
+#########################################################
+####### FILMES E SÉRIES = 61 Canais #############
+#########################################################
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", A&E HD
+https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_1.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Aliança Catarinense HD
+https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "FILMES E SÉRIES", A Mulher Bionica - Série de TV
+https://stmv1.srvif.com/tvserie2/tvserie2/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", As Panteras - Série de TV
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Being Mary Jane HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&DNTunkdevice&deviceDevice&device0&device7Device0Device7device7Device_Device7device7device7device7device7device7.nevice7&appdevice7-device7-
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", BET Pluto HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&DNTunkdevice&hl=pt_BR&deviceVersion7Edevice&device0Application0DeviceVersion7Edevice&device&device7Device&DeviceDevice7Appsion&device&devia7
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Canal 24 Horas
+https://59f1cbe63db89.streamlock.net:1443/canal24horastv/_definst_/canal24horastv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Canal 1
+https://stmv1.srvif.com/channel1/channel1/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Chips - Séries de TV
+https://stmv1.srvif.com/tvserie4/tvserie4/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Cidade HD
+https://stmv1.srvstm.com/webradiocidade/webradiocidade/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Cindie Lite HD
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-cindie-samsungbr/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Cine Comedia HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&device=Tunkdevice&device=Tunkdevice&device=Tunkdevice7&deviceVersion7Tunkdevice7&DNTunkdevice7&device&device7Device&device=Gunkdevice7Device&Device&device7Device&device&device7&device&device7Device&device=Gunkdevice7&device=Tunkdevice7&device_device7device7&device7device7&device_device7>
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Cine Drama HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion&deviceDevice&device&device0Device7Edevice&device7Edevice&DNevice7
+ 
+#EXTINF: -1 título-grupo = "FILMES E SÉRIES", Cine Família HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&device&wunkdevice0Device&device&device0Device&device0Device7Edevice_Device7Edevice&device7Device7Edevice7Device2
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Cine Lite Classic HD
+https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Cine Natal HD
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8a11ce2a4559000782a583/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&approVersion=kuhantision&neldevice1.0&approChannel=kuchantision&neldevice=kuhantision=kuchantnel&neldevice=kuhantision1.0&device1.01.hanneldeviceTneldevice-versiondeversion=1.01.0&neldevice- rokuChannel & appName = rokuchannel & is_lat = 1 & bmodel = bm1 & content = channel & platform = web & tags = ROKU_CONTENT_TAGS & coppa = false & content_type = livefeed & rdid = channel & genre = ROKU_ADS_CONTENT_GENRE & content_rating = channel_ADS_CONTENT_GENRE & content_rating = & ROKU_ONTENTRating_canal = canal_RID_CONTENT = studio_ID_CONTENT = channel_ATRating via & ROKU_ENTRADA = channel_ONTENTRating_canal via & ROKUENT_CONTENTRating_canal = canal_DID = canal & genre = ROKU_ADS_CONTENT_GENRE & content_rating = canal_ADS_CONTENTS = canal_RID_CONTENT = & ROKUENT = channel_ONTENTRating_canal
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Cine NERD HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=DNTunkdice&deviceVersion=unknown&deviceVersion=unknown&deviceVersion=unknown7&deviceVersion=unknown7&device_Device_device7-
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Cine Romance HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsLice/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsappung&deviceVersion=unkdevice&deviceVersion=unkdevice&deviceVersion=samsappung0DDNTunkt=device&OPDevice=DeviceBlance7&device_0DeviceBlance7&device_0Device_device_&DNevice_0Device>
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Cine Sucessos HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&device=Tunkdevice&device=Tunkdevice7&device=Tunkdevice0&deviceVersion7Device&device7&deviceModel=samsung&DNTunkdevice7Tunkdevice7&device=Tunkdevice7Device&device7&device=Tunkdevice7Edevice&device7&device&device7Device&device=Gunkdevice7&deviceDevice=Gunkdevice&device=Tunkdevia7
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Cine Terror HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Classique TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Classique TV 2
+https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Classique Western TV
+https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Colina TV
+https://srv1.zcast.com.br/paulohenrique7705/paulohenrique7705/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Dark Flix HD
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Dark Matter HD
+https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Entorno Sul Web TV
+http://video02.kshost.com.br/manoel2072/manoel2072/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Film & Arts HD
+http://origin-02.nxplay.com.br/Film_Arts_Brasil/video.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "FILMES E SÉRIES", Filmes Ação HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Filmes Nacionais HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Filmes Online 1 HD
+https://novo.bitstreaming.info:1936/8066/8066/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "FILMES E SÉRIES", Filmes Suspense HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsappung&deviceVersion=unknevice&deviceVersion=unkdevice&deviceVersion=samsappung0DNTunkdevice7&ARDevice&deviceVersion=device7&deviceDevice&device7&device_device7&device7device7>
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", GLN TV HD
+https://srv2.zcast.com.br/glnfilmes/glnfilmes/chunklist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", TV Gospel Movie
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "FILMES E SÉRIES", Guerra, Sombra e Agua Fresca - Série TV
+https://stmv1.srvif.com/tvserie5/tvserie5/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Jeannie é um Genio HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsAppung&deviceVersion=unkdevice&deviceVersion=Device&deviceVersion=samsappung0DeviceVersion=samsappung&deviceVersion=unkdevice7&deviceDevice&DNTunkdevice7&OPDevice&device=Tunkdevice7&device&device&device=DeviceBaconvite7&device&device=DeviceBaceron&device7&device&device_device_version=
+ 
+#EXTINF: -1 título-grupo = "FILMES E SÉRIES", Jornada Nas Estrelas - Série de TV
+https://stmv1.srvif.com/tvserie3/tvserie3/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "FILMES E SÉRIES", Kuriakos Filmes
+http://c2.manasat.com:1935/kcine/kcine2/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "FILMES E SÉRIES", TV HD de Londrina
+https://video01.kshost.com.br/clodoaldo3320/clodoaldo3320/chunklist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "FILMES E SÉRIES", Liberdade TV HD
+https://5cf4a2c2512a2.streamlock.net/tvliberdade/tvliberdade/chunklist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", MyTime Movies HD
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Nashville HD
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgate-nashville-bpo-samsungbr/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Osorio HD
+https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Paramount HD
+http://d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index_1.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Planalto Norte HD
+https://video01.logicahost.com.br/tvplanalto/tvplanalto/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "FILMES E SÉRIES", Rede TV Sul HD
+https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Retro HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&device=Tunkdevice&deviceVersion7&device&deviceVersion7Tunkdevice&DNTunkdevice7Tunkdevice7&Device&device7&deviceDevice7&device&device&device7Apopp&device=Tunkdevice6
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Runtime HD
+https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", SBC TV
+https://srv6.zcast.com.br/sbctv/sbctv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Série HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceTunkdevice&device&device=Tunkdevice7&deviceVersion7&device&device7Device&device_Tunkdevice7Edevice&Device7&device7Edevice&device7&device&devia7
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Soul Cine HD
+https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Tela Viva TV HD
+https://srv3.zcast.com.br/telavivatv/telavivatv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Telecine Action
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Telemundo Telenovelas HD (ESP)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Top TV Sul
+https://srv2.zcast.com.br/tvtopsul/tvtopsul/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "FILMES E SÉRIES", TVJN Filmes
+https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", TV Naza
+https://stmv1.srvif.com/tvnaza/tvnaza/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", TV Nova Play HD
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", UniTV
+http://unitvaovivo.ufrgs.br:8080/live.ogg?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Urban Movies HD
+https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "FILMES E SÉRIES", Urban Series HD
+https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.com/playlist.m3u8?ROGERIOTORRES
+ 
+ 
+################################################
+####### GEEK = 31 Canais ##################
+################################################
+ 
+ 
+#EXTINF: -1 group-title = "GEEK", Bons Tempos TV
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "GEEK", BR Super TV
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "GEEK", Imperial TV HD
+https://5d2c98775bafe.streamlock.net/8098/8098/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "GEEK", Jackie Chan HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceTunkdevice7&device=Tunkdevice&device=Tunkdevice7&deviceVersion7Device&device0&device7DeviceDevice=samsung&deviceTunkdevice7&device=Tunkdevice7&device=Tunkdevia7
+ 
+#EXTINF: -1 group-title = "GEEK", Jetsons TV
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "GEEK", Carregando TV
+https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "GEEK", Rede Clone TV HD
+https://stmv5.samcast.com.br/abnerbom1543/abnerbom1543/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "GEEK", Retro Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "GEEK", South Park HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsappung&deviceVersion=unknevice&deviceVersion=unkdevice0DeviceModel=samsappung&deviceVersion=unkdevice7&deviceVersion=unkdevice7&OPDevice&DNTunkdevice7&OPDevice7&OPDevice_Tunkdevice7&opdevice7>
+ 
+#EXTINF: -1 group-title = "GEEK", Summer TV HD
+https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "GEEK", TV Alagonet
+https://stmv2.voxtvhd.com.br/alagonet/alagonet/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "GEEK", TV CEI
+https://stmv3.samcast.com.br/eduardo7982/eduardo7982/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "GEEK", TV Encauca
+https://srv1.paineldevideo.com/encaucafm/encaucafm/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "GEEK", TV Gallo HD
+https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "GEEK", TV Ita News
+https://stmv1.samcast.com.br/ronaldo7151/ronaldo7151/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "GEEK", TV KidMais
+https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "GEEK", TV Mais Brasil HD
+https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "GEEK", TV Max 90
+https://cdn.jmvstream.com/w/AVJ-9778/playlist/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "GEEK", TV Pombal
+https://stmv1.srvif.com/tvpombal/tvpombal/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "GEEK", TV Potengi
+https://stmv4.samcast.com.br/jeova3318/jeova3318/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "GEEK", TV Recreio HD
+https://video01.logicahost.com.br/tvrecreio/tvrecreio/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "GEEK", TV Vale Das Artes
+https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "GEEK", Urban TV Kids HD
+https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "GEEK", Vila TV
+https://596639ebdd89b.streamlock.net/8072/8072/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "GEEK", TV vintage
+https://stmv6.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "GEEK", Web TV Cine HD
+https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "GEEK", Web TV Xtreme
+https://stmv5.samcast.com.br/everton7487/everton7487/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "GEEK", YEEAAH TV HD
+http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8?ROGERIOTORRES
+ 
+ 
+################################################
+####### INFANTIL = 19 Canais ###########
+################################################
+ 
+#EXTINF: -1 group-title = "INFANTIL", A vida moderna de Rocko HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceTunkdevice7&deviceTunkdevice&deviceVersion7&deviceDevice7&deviceVersion7DeviceModel=samsung&device=Tunkdevice7&deviceDevice7&device=DeviceVersion7Device&Device&device7Etunkdevice7&DeviceVersion7&device&device&device7Etunkdevice7
+ 
+#EXTINF: -1 group-title = "INFANTIL", As Pistas de Blue HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&DNTunkdevice&deviceDevice&device0Aparent0&deviceVersion7Edevice_Device7Edevice7&device7device7devicedevice7device7device7device7device7device7device7-
+ 
+#EXTINF: -1 group-title = "INFANTIL", Babyfirst HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModeldice=samsung%&device=Tunkdevice=samsung&deviceVunkdevice=samsung&deviceVunkdevice0Device=Device&device0Device&device0Device=Device=samsung=DNTunkdevice0Apt-on-Vdevice7Edevice0-app-h-h-h-h-h-h-r-v-device7
+ 
+#EXTINF: -1 group-title = "INFANTIL", Chroma TV HD
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "INFANTIL", Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "INFANTIL", Junior TV HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsLice&deviceVersion=unkdevice&deviceVersion=unkdevice&deviceVersion=samsappung0DeviceModel=samsappung&deviceVersion=unkdevice7&deviceVersion=Wunkdevice&deviceVersion7&device&device=Tunknevice7&device&device&device&device7&device&dnevice7&deviceBaconhome7
+ 
+#EXTINF: -1 group-title = "INFANTIL", Kids HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&device&deviceDevice&device&device0Device7Device&device0&device7Edevice7Edevice7Device7Edevice7Device7
+ 
+#EXTINF: -1 group-title = "INFANTIL", Kuriakos Kids (PT)
+http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "INFANTIL", Nick HD
+http://d1wwtskvr1r98k.cloudfront.net/629363a30ff040d5adaafc49ee84f17c/index_1.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "INFANTIL", Nick Classico HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknevice&deviceVersion=unknevice&deviceVersion=unknevice=samsungTDNapp=TDNTown7&deviceVersion=unknevice7TDnevice=samsungLevice7&deviceTDNTdn=device_&DNevice_0Device_device_device_device_0device_device-&DNevice7>
+ 
+#EXTINF: -1 título-grupo = "INFANTIL", Nick Jr. Club HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsLice&deviceVersion=unkdevice&deviceVersion=unkdevice&deviceVersion=samsappung0DeviceVersion=samsappung&deviceVersion=Wunkdevice6
+ 
+#EXTINF: -1 group-title = "INFANTIL", Nickteen HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion&device=samsung&deviceVersion7Edevice&device&device0Device7Edevice&DNTunkdevice7
+ 
+#EXTINF: -1 título-grupo = "INFANTIL", O Reino Infantil HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsLice&deviceVersion=unkdevice&deviceVersion=device&deviceVersion=samsappung&deviceVersion=samsappung0DeviceVersion&device7&deviceDevice&device&device&device&device7&device&device&device7&deviceBarc -Device7&device&device_device_device7&device7&device_device_device7>
+ 
+#EXTINF: -1 group-title = "INFANTIL", Família Rakuten (PT)
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "INFANTIL", Ra-Tim-Bum
+http://177.20.208.58:8000/play/a029/index.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "INFANTIL", Toon Goggle HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
+ 
+#EXTINF: -1 título-grupo = "INFANTIL", TV R HD
+https://video01.soultv.com.br/tvr/tvr/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "INFANTIL", Turma da Mônica HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion&device=samsung&deviceVersion7Edevice&device&device0Device0&device7DeviceDevice&Device7
+ 
+ 
+################################################
+####### JORNALISMO = 20 Canais #########
+################################################
+ 
+#EXTINF: -1 group-title = "JORNALISMO", Band News HD
+https://evpp.mm.uol.com.br/geob_band/bandnewstv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "JORNALISMO", Bloomberg TV (ENG)
+https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "JORNALISMO", Canal 324 HD (CAT)
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "JORNALISMO", CBS News (ENG)
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "JORNALISMO", CNN Brasil HD
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "JORNALISMO", CNN International HD (ENG)
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "JORNALISMO", Euronews HD (PT)
+https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "JORNALISMO", France24 HD (ESP)
+http://static.france24.com/live/F24_ES_LO_HLS/live_ios.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "JORNALISMO", Jovem Pan News HD
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_5.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "JORNALISMO", Jovem Pan Pluto HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceTunkdevice&device&device&device7&device=Tunkdevice7&deviceVersion7Device7Device7DeviceModel=samsung&DNTunkdevice7device7device7&device_device7device7device7device7device7device7-7- -voc-a-versão7&ARdevice7devicedeversion7devicedevice7devicedevice7devicedeversiondevicdevice7-devicdevice7-devicedevice-de-v-l-version7-
+ 
+#EXTINF: -1 group-title = "JORNALISMO", RAI News24 HD (ITA)
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "JORNALISMO", Record News HD
+http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "JORNALISMO", Record News² HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId =% 7BPSID% 7D & AdvertisingId =% 7BPSID% 7D & us_privacy = 1YNY & samsung_app_domain =% 7BAPP_DOMAIN% 7D & samsung_app_name =% 7BAPP_NAME% 7D & profileLimit = & profileFloor = & profileFloor = & embedPartner = samsungplus = samsungplus =
+ 
+#EXTINF: -1 group-title = "JORNALISMO", Record News (ES)
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "JORNALISMO", Reuters HD
+https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "JORNALISMO", STV Noticias (PT)
+http://dcunilive36-lh.akamaihd.net/i/dclive_1@668002/master.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "JORNALISMO", TVI 24H (PT)
+https://video-auth2.iol.pt/live_edge/tvi24_abr/edge_servers/tvi24-480p/chunks.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "JORNALISMO", Yahoo! Finance Live (ENG)
+https://yahoo-plex.amagi.tv/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/1280x720_2890800/index.m3u8?ROGERIOTORRES
+ 
+ 
+################################################
+####### MUSICAS = 52 Canais #############
+################################################
+ 
+#EXTINF: -1 group-title = "MUSICAS", 1HD Música
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MUSICAS", 30A Music
+http://30a-tv.com/music.m3u8?fluxustv.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MUSICAS", Afrobeats HD
+https://stream.ecable.tv/afrobeats/index.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MUSICAS", Alternativa Web TV Avaí
+https://stmv3.samcast.com.br/alternativatvivainova/alternativatvivainova/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MUSICAS", America Latino HD
+http://origin-02.nxplay.com.br/AMERICOLATINO/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MUSICAS", Catedral do Rock
+https://stmv1.srvstm.com/cedraldorock/cedraldorock/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MUSICAS", Classic Hits HD
+http://origin-02.nxplay.com.br/classichit/video.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MUSICAS", Clubbing TV HD
+https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MUSICAS", ColdPlay HD
+https://play-akamai.pongalo.com/coldplay-glastonbury/coldplay-glastonbury_1-1/hls_2500.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MUSICAS", Canal de música country
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MUSICAS", FURG TV HD
+http://stream.furg.br:80/hls/furgtv.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MÚSICAS", TV Gospel Music
+https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MUSICAS", H! Tts HD
+http://origin-02.nxplay.com.br/HITTS/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MUSICAS", Italianissimo HD
+https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MUSICAS", Karaokê HD
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05ad/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&approVersion=kuhantision&neldevice=kuhantision=kuchantis&neldevice=kuhantision=kuchantision=1.0&approChantision=kuchantis&neldevice1.01.04eviceTnelTversiondeviceVersion=1.0&nelDochantision=kuchantis- rokuChannel & appName = rokuchannel & is_lat = 1 & bmodel = bm1 & content = channel & platform = web & tags = ROKU_CONTENT_TAGS & coppa = false & content_type = livefeed & rdid = channel & genre = ROKU_ADS_CONTENT_GENRE & content_rating = channel_ADS_CONTENT_GENRE & content_rating = & ROKU_ONTENTRating_canal = canal_RID_CONTENT = studio_ID_CONTENT = channel_ATRating via & ROKU_ENTRADA = channel_ONTENTRating_canal via & ROKUENT_CONTENTRating_canal = canal_DID = canal & genre = ROKU_ADS_CONTENT_GENRE & content_rating = canal_ADS_CONTENTS = canal_RID_CONTENT = & ROKUENT = channel_ONTENTRating_canal
+ 
+#EXTINF: -1 group-title = "MUSICAS", Kiss TV
+https://cast.cdnseguro.com:19360/8094/8094.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MUSICAS", Loop 80's HD
+https://loop-80s-2.roku.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MUSICAS", Loop 90's HD
+https://loop-90s-2.roku.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MUSICAS", M2O HD
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MUSICAS", Mega HD
+http://origin-02.nxplay.com.br/MEGA/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MUSICAS", MTV Biggest Pop HD
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner= rokuChannel & appName = rokuchannel & is_lat = 1 & bmodel = bm1 & content = channel & platform = web & tags = ROKU_CONTENT_TAGS & coppa = false & content_type = livefeed & rdid = channel & genre = ROKU_ADS_CONTENT_GENRE & content_rating = channel_ADS_CONTENT_GENRE & content_rating = & ROKU_ONTENTRating_canal = canal_RID_CONTENT = studio_ID_CONTENT = channel_ATRating via & ROKU_ENTRADA = channel_ONTENTRating_canal via & ROKUENT_CONTENTRating_canal = canal_DID = canal & genre = ROKU_ADS_CONTENT_GENRE & content_rating = canal_ADS_CONTENTS = canal_RID_CONTENT = & ROKUENT = channel_ONTENTRating_canal
+ 
+#EXTINF: -1 group-title = "MUSICAS", MTV Live HD
+http://origin-02.nxplay.com.br/MTVLIVE/video.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MUSICAS", MTV Spankin 'New HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4dalivestitch/master.m3u8?deviceType=samsung-tv&deviceMake=samsung&deviceLodel=samsungVunk=pt-BR&deviceDevice=samsung&device&device=samsung&device_Tunkdevice=samsung0&deviceDeviceDevice=samsung0&device0Application0Edevice=samsung0 eDevicePliveDevice=samsung0&deviceao-relatoria0Applicativo0Aparat&deviato-V-dt-on-Vdevis7&App-lt-on-vd-hdevia-V-Hdevice7&Avsamsung e -vunkdevicedevice7devicedevice7evicedevice7evicedevicedevicedevicedevicedevice7-
+ 
+#EXTINF: -1 group-title = "MUSICAS", Music Box Brasil HD
+https://origin-02.nxplay.com.br/MUSIC_HD/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MUSICAS", Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MUSICAS", Nature TV
+https://stmv1.srvif.com/nattv/nattv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MUSICAS", Ocko Express HD
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MUSICAS", Ocko Star HD
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MÚSICAS", Portal News Web TV
+https://stmv1.srvstm.com/portalnews/portalnews/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MÚSICAS", Qello Concerts HD
+https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MUSICAS", Qwest Classical HD
+https://qwest-classic-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MUSICAS", Qwest Jazz e Beyond HD
+https://qwest-jazz-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MUSICAS", Qwest TV Mix HD
+https://qwest-mix-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MÚSICAS", Rádio Capital
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MUSICAS", Radio Mix Cidade HD
+https://stmv1.srvstm.com/gustavocampelo/gustavocampelo/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "MÚSICAS", Rede RC
+https://59f2354c05961.streamlock.net:1443/rederc/_definst_/rederc/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MÚSICAS", Retro Plus
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MUSICAS", Rock TV
+http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MUSICAS", Sexy KpopTV HD
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MUSICAS", Mostra HD
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b91e0692f770007d9f33f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner= rokuChannel & appName = rokuchannel & is_lat = 1 & bmodel = bm1 & content = channel & platform = web & tags = ROKU_CONTENT_TAGS & coppa = false & content_type = livefeed & rdid = channel & genre = ROKU_ADS_CONTENT_GENRE & content_rating = channel_ADS_CONTENT_GENRE & content_rating = & ROKU_ONTENTRating_canal = canal_RID_CONTENT = studio_ID_CONTENT = channel_ATRating via & ROKU_ENTRADA = channel_ONTENTRating_canal via & ROKUENT_CONTENTRating_canal = canal_DID = canal & genre = ROKU_ADS_CONTENT_GENRE & content_rating = canal_ADS_CONTENTS = canal_RID_CONTENT = & ROKUENT = channel_ONTENTRating_canal
+ 
+#EXTINF: -1 group-title = "MUSICAS", Spirit TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MUSICAS", Top Mix TV
+https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MUSICAS", Top TV
+https://cast.cdnseguro.com:19360/8092/8092.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "MÚSICAS", TV A Folha
+https://video02.kshost.com.br/elton3601/elton3601/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "MÚSICAS", TV Alvorada Sertaneja
+http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MUSICAS", Vevo 2K HD
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersdice=1.0&apphankuCartel&neldevice=1.0&apphankuCadeversion&neledevice=1.0&apphankuCadversiondeversion=1.0&approCuideversion&neldevice=1.0&apphankuCaddeversion=1.0&neldevic_deversiondeversiondeversiondeversion=1.0&approku- ku-relatoria&neldevner- rokuChannel & appName = rokuchannel & is_lat = 1 & bmodel = bm1 & content = channel & platform = web & tags = ROKU_CONTENT_TAGS & coppa = false & content_type = livefeed & rdid = channel & genre = ROKU_ADS_CONTENT_GENRE & content_rating = channel_ADS_CONTENT_GENRE & content_rating = & ROKU_ONTENTRating_canal = canal_RID_CONTENT = studio_ID_CONTENT = channel_ATRating via & ROKU_ENTRADA = channel_ONTENTRating_canal via & ROKUENT_CONTENTRating_canal = canal_DID = canal & genre = ROKU_ADS_CONTENT_GENRE & content_rating = canal_ADS_CONTENTS = canal_RID_CONTENT = & ROKUENT = channel_ONTENTRating_canal
+ 
+#EXTINF: -1 group-title = "MUSICAS", Vevo 70's HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersiondevice&device&device&device&deviceDevice&device_device7&deviceModel=samsung&DNTunkdevice7Tunkdevice7&device7device7device_ =% 7BPSID% 7D & AdvertisingId =% 7BPSID% 7D & us_privacy = 1YNY & samsung_app_domain =% 7BAPP_DOMAIN% 7D & samsung_app_name =% 7BAPP_NAME% 7D & profileLimit = & profileFloor = & profileFloor = & embedPartner = samsungplus = samsungplus =
+ 
+#EXTINF: -1 group-title = "MUSICAS", Vevo 80's HD
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&approVersion=kadversion&neldeviceTDnchannel&neldevice1.0&approVersion=1.0deviceTneldeversion=1.0&neldeviceTDnchannel&neldevice1.0&deversionocurekudevice&neldeversion=Device-kudevice1.0device_ rokuChannel & appName = rokuchannel & is_lat = 1 & bmodel = bm1 & content = channel & platform = web & tags = ROKU_CONTENT_TAGS & coppa = false & content_type = livefeed & rdid = channel & genre = ROKU_ADS_CONTENT_GENRE & content_rating = channel_ADS_CONTENT_GENRE & content_rating = & ROKU_ONTENTRating_canal = canal_RID_CONTENT = studio_ID_CONTENT = channel_ATRating via & ROKU_ENTRADA = channel_ONTENTRating_canal via & ROKUENT_CONTENTRating_canal = canal_DID = canal & genre = ROKU_ADS_CONTENT_GENRE & content_rating = canal_ADS_CONTENTS = canal_RID_CONTENT = & ROKUENT = channel_ONTENTRating_canal
+ 
+#EXTINF: -1 group-title = "MUSICAS", Vevo 90's HD
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner= rokuChannel & appName = rokuchannel & is_lat = 1 & bmodel = bm1 & content = channel & platform = web & tags = ROKU_CONTENT_TAGS & coppa = false & content_type = livefeed & rdid = channel & genre = ROKU_ADS_CONTENT_GENRE & content_rating = channel_ADS_CONTENT_GENRE & content_rating = & ROKU_ONTENTRating_canal = canal_RID_CONTENT = studio_ID_CONTENT = channel_ATRating via & ROKU_ENTRADA = channel_ONTENTRating_canal via & ROKUENT_CONTENTRating_canal = canal_DID = canal & genre = ROKU_ADS_CONTENT_GENRE & content_rating = canal_ADS_CONTENTS = canal_RID_CONTENT = & ROKUENT = channel_ONTENTRating_canal
+ 
+#EXTINF: -1 group-title = "MUSICAS", VEVO Classica HD
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f779951372da90007fd45e8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&build1eversion=DNT-1189 842e-ed7bad763363 & deviceMake = Chrome & deviceModel = web & deviceType = web & deviceVersion = unknown & includeExtendedEvents = false & sid = d0c6b789-884d-4edf-bde4-b9619b8ad48c & userId = & serverSideAds = true
+ 
+#EXTINF: -1 group-title = "MÚSICAS", Vevo Country HD
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&approVersion=kuhantision&neldevice=kuhantision=kuchantis&neldevice=kuhantision=kuchantis&neldevice1.01.01.hanneldeviceVersiondeversion=1.0&nelTversion=kuchantisl&device1.01.0 e nneldevice1- rokuChannel & appName = rokuchannel & is_lat = 1 & bmodel = bm1 & content = channel & platform = web & tags = ROKU_CONTENT_TAGS & coppa = false & content_type = livefeed & rdid = channel & genre = ROKU_ADS_CONTENT_GENRE & content_rating = channel_ADS_CONTENT_GENRE & content_rating = & ROKU_ONTENTRating_canal = canal_RID_CONTENT = studio_ID_CONTENT = channel_ATRating via & ROKU_ENTRADA = channel_ONTENTRating_canal via & ROKUENT_CONTENTRating_canal = canal_DID = canal & genre = ROKU_ADS_CONTENT_GENRE & content_rating = canal_ADS_CONTENTS = canal_RID_CONTENT = & ROKUENT = channel_ONTENTRating_canal
+ 
+#EXTINF: -1 group-title = "MUSICAS", Vevo Pop HD
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=890&deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat= & deviceLon = & app_name = & appName = web & buildVersion = & appStoreUrl = & architecture = & includeExtendedEvents = false & marketingRegion = US & serverSideAds = false
+ 
+#EXTINF: -1 group-title = "MUSICAS", VH1 I Love Reality
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7154fa8326b6ce4ec31f2e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=0&buildVersDNTaebice-11&architecture=0&buildVersDNT116-11 a87c-2ba0b5b8041d & deviceMake = Chrome & deviceModel = web & deviceType = web & deviceVersion = unknown & includeExtendedEvents = false & sid = f9c8bf79-8759-4e47-a808-d6b5e45f63a8 & userId = & serverSideAds = true
+ 
+#EXTINF: -1 group-title = "MUSICAS", Web TV Music
+https://srv5.zcast.com.br/pedro3742/pedro3742/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "MUSICAS", Zapping Music HD
+https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_0_sles.m3u8
+ 
+ 
+#########################################################
+####### VARIEDADES = 76 Canais ####################
+#########################################################
+ 
+#EXTINF: -1 título-grupo = "VARIEDADES", Aish TV Brasil HD
+https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", Adesso TV HD
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", AWC Channel HD
+https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", BRZ Brasi TV HD
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", BS TV HD
+https://596639ebdd89b.streamlock.net/tvonline/tvonline/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", Canal 10
+http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", Canal 25 HD
+https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", Canal 38 News Vale Notícias HD
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", Canal I + TV
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", Canal Smart
+https://5a57bda70564a.streamlock.net/smart/smart.sdp/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "VARIEDADES", Canal TV Rio
+https: // 59 f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", TV Central
+https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "VARIEDADES", Com Brasil HD
+https://596639ebdd89b.streamlock.net/8032/8032/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", Comedia HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknevice&deviceVersion=unknevice=samsungDeviceTDNTDn=version=unknevice0&deviceVersion=unknevice=samsungTDNApp7&deviceVersion=unknevice&DNappdevice0&DNdevice=Tunkdevice7device7&ddevice_device_device_device7>
+ 
+#EXTINF: -1 group-title = "VARIEDADES", Comedy Central HD
+http://d1wwtskvr1r98k.cloudfront.net/e957ddc8e14c4fe1a45bb76ead75006f/index_1.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", Comedy Central - Plutão HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&device&deviceDevice&device&device0Device7Edevice0&device7Device7Device-cd0
+ 
+#EXTINF: -1 group-title = "VARIEDADES", Conect TV HD
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", CTV HD
+https://5d2c98775bafe.streamlock.net/8020/8020/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", D + TV HD
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", Demand Africa HD
+https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", Ditty TV HD (ENG)
+https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", E! HD
+http://d1wwtskvr1r98k.cloudfront.net/637de7ec0ab74fdc95ce3382677e2eb1/index_1.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", Elemental Channel HD
+https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", Elytv
+https://stmv1.srvsite.com/ely/ely/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", Estilo TV HD
+https://596639ebdd89b.streamlock.net/estilo/estilo/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", EuTV HD
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", FailArmy HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceTunknevice&deviceVersion7&device=Tunkdevice0DeviceVersion7&device&deviceDevice0DeviceModel=samsung&device=Tunkdevice7&device=DeviceDevice7&device&device7Tunkdevice6
+ 
+#EXTINF: -1 group-title = "VARIEDADES", TV interior
+https://5cf4a2c2512a2.streamlock.net/interiortv9/interiortv9/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", ISTV HD
+https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", Master Show TV HD
+http://mastershowtv.videovox.pw/master6123/master6123/chunklist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", MRL TV HD
+https://srv5.zcast.com.br/mrltv/mrltv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", MTV HD
+http://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index_1.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", MTV Você é o único? HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&device=Tunkdevice&device=Tunkdevice&device=Tunkdevice7&device=Tunkdevice7&device=Tunkdevice7&deviceDevice7Edevice7&device&device7Device&device7&device=Tunkdevia7
+ 
+#EXTINF: -1 group-title = "VARIEDADES", MTV Pluto TV HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsLice9ef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsappung&deviceVersion=unknevice&deviceVersion=unkdevice&deviceVersion=samsappung&DNTunkTown7&deviceTunkdevice7&device&device_tunkdevice7&device7&device7&device7device7>
+ 
+#EXTINF: -1 group-title = "VARIEDADES", Multivision HD (ESP)
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "VARIEDADES", Mundo TV
+https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", Nosy Casos HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9b096236af340008da3779/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceTunkdeversion&device&device=Tunkdevice7&device=Tunkdevice7&device=Tunkdevice7&deviceVersion7Edevice&device7&device&device7Etunkdevice7
+ 
+#EXTINF: -1 group-title = "VARIEDADES", Nosy Escandalos HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9b05a99547eb0007676b02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsAppung&deviceVersion=unkdevice&deviceVersion=unkdevice&deviceVersion=samsappung0DeviceVersion=samsappung&deviceVersion=Device&device&deviceVersion=Device&device&device&device&device7&device&device_device7&device_device7&device>
+ 
+#EXTINF: -1 group-title = "VARIEDADES", Nova Gazeta HD (desligado)
+http://video02.kshost.com.br/sueli3485/sueli3485/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", Novo Tempo HD
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "VARIEDADES", O encantador De Cães HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsDevice&deviceVersion&deviceTunkdevice&device=Tunkdevice0&deviceVersion7Edevice&deviceDevice7&deviceDevice&DeviceDevice7&DNTunkdevice7&Device&device7Device&device&device7device7device7device7&device_device7device7device7device_&device7device7&device7device7device7- =% 7BPSID% 7D & AdvertisingId =% 7BPSID% 7D & us_privacy = 1YNY & samsung_app_domain =% 7BAPP_DOMAIN% 7D & samsung_app_name =% 7BAPP_NAME% 7D & profileLimit = & profileFloor = & profileFloor = & embedPartner = samsungplus = samsungplus =
+ 
+#EXTINF: -1 group-title = "VARIEDADES", Paramount + Pluto TV HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60072798dcf437000755b4f3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+ 
+#EXTINF: -1 título-grupo = "VARIEDADES", Porta Dos Fundos HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=DNTunkdice&deviceVersion=unknown&deviceVersion=unknown7&deviceVersion=unknown7&deviceVersion=nunknown7&device7Device_doc_=samsung&deviceVersion=DNdevice7&device7device7_dnc_device7&device7device-
+ 
+#EXTINF: -1 group-title = "VARIEDADES", Rede Premium
+https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "VARIEDADES", Rede UTV Brasil HD
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "VARIEDADES", Sol Brasil HD
+https://video01.soultv.com.br/solbrasil/solbrasil/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", Sou TV HD
+https://video01.kshost.com.br:4443/tiago4725/tiago4725/playlist.m3u8
+ 
+#EXTINF: -1 group-title = "VARIEDADES", Sulanca
+https://srv3.zcast.com.br/severino6254/severino6254/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", TCM 10 HD
+https://live.tcm10.com.br/tcm10hd/stream.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", Telemax HD (ESP)
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", TeleWeb
+https://video02.kshost.com.br/acessweb7837/acessweb7837/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", The Pet Collective HD
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?deviceId=channel&deviceModel=web&devakeiceVersion=1.0&appVersion=DhannelDevice&neldeversion=1.0&deviceTneldeversion=1.0&adeviceTneldeversion=1.0&deviceTneldeversion=1.0&neldeviceTneldeversiondeversion=1.0 e nelTneld-ku-ndv ehanku-ku-ku-1.0&neldeviceTneld e 001.0&neldevneld e-1.0&appdhanku- ver-1.0&appdhankuverku- verku2-1.0&appdkuverkuverkuverkuverku1.01.0&app&app-ver- ekuverkuverkuverkuverku1.01.01.0&appdevice-a-ver-1 - rokuChannel & appName = rokuchannel & is_lat = 1 & bmodel = bm1 & content = channel & platform = web & tags = ROKU_CONTENT_TAGS & coppa = false & content_type = livefeed & rdid = channel & genre = ROKU_ADS_CONTENT_GENRE & content_rating = channel_ADS_CONTENT_GENRE & content_rating = & ROKU_ONTENTRating_canal = canal_RID_CONTENT = studio_ID_CONTENT = channel_ATRating via & ROKU_ENTRADA = channel_ONTENTRating_canal via & ROKUENT_CONTENTRating_canal = canal_DID = canal & genre = ROKU_ADS_CONTENT_GENRE & content_rating = canal_ADS_CONTENTS = canal_RID_CONTENT = & ROKUENT = channel_ONTENTRating_canal
+ 
+#EXTINF: -1 group-title = "VARIEDADES", The Pet Collective 2 HD (ENG)
+https://the-pet-collective-linear.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", TV 3 HD
+https://video01.logicahost.com.br/tv3tv/tv3tv/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", TV8 RO
+https://stmv3.samcast.com.br/jose8272/jose8272/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", TV Aracati
+https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", TV BRICS HD
+https://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "VARIEDADES", TV Carioca NET
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", TV Cidade Canal 9 HD
+https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "VARIEDADES", TV Cidade Tiradentes
+https://novo.bitstreaming.info:1936/8284/8284/chunklist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "VARIEDADES", TV Clube Web
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "VARIEDADES", TV Com Brasil HD
+https://596639ebdd89b.streamlock.net/8032/8032/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", TV Digital Birigui HD
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", TV Do Povo HD
+https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", TV FAAP HD
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", TV Galega HD
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", TV Germana HD
+https://59f1cbe63db89.streamlock.net:1443/tvgermana/_definst_/tvgermana/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", TVideo News
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", TV Japi
+https://srv2.zcast.com.br/tvjapi/tvjapi/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", TV Max HD
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", TV Metrópole HD
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", TV MOM HD
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", TV Nova Onda
+https://5c483b9d1019c.streamlock.net/8078/8078/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "VARIEDADES", TV Pantanal MS
+https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 título-grupo = "VARIEDADES", TV Rio Madeira
+https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", TV Vianney
+https://5e837408ea907.streamlock.net:1936/paroquiavianney/paroquiavianney/chunklist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", Notícias de vídeo de TV
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", Urban TV HD
+https://5ad482a77183d.streamlock.net/urbantvstreaminggmail.com/urbantvstreaminggmail.com/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", VH1 Classics HD (ESP)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602ba1cfb386d30007aecbbe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung%&device=Tunkdevice=samsung&device=Vunkdevice=samsung&deviceVunkdevice=samsung=DNTunkdevice7DeviceDevice&DNTunkdevice0&device0Device0Device&DNevice0Device=Device&device=DNTunkdevice0&DNevice0
+ 
+#EXTINF: -1 group-title = "VARIEDADES", Woohoo HD
+https://origin-02.nxplay.com.br/WOOHOO_NXPLAY/playlist.m3u8?ROGERIOTORRES
+ 
+#EXTINF: -1 group-title = "VARIEDADES", WOW TV HD (ESP)
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8?ROGERIOTORRES
+ 
+ 
+################################################
+####### YOUTUBE KODI 16 ###################
+################################################
+# Estes canais só funcionam no KODI, tem que estar com o plugin do Youtube (para o KODI) instalado, assim como o plugin "IPTV Simple / PVR" também instalado e configurado.
+ 
+#EXTINF: -1 group-title = "YOUTUBE KODI", Bob Esponja HD
+plugin: //plugin.video.youtube/play/? video_id = b6sPQ8x3kDs
+ 
+#EXTINF: -1 título-grupo = "YOUTUBE KODI", Cartoon Network Brasil HD
+plugin: //plugin.video.youtube/play/? video_id = hpXd-M9ZDCE
+ 
+#EXTINF: -1 group-title = "YOUTUBE KODI", EuroNews HD (PT)
+plugin: //plugin.video.youtube/play/? video_id = VOw7bts_rGQ & list = PLwM8wgYp7sRi5xxo_UyHNRDq1HAsqk9cD & index = 4
+ 
+#EXTINF: -1 group-title = "YOUTUBE KODI", Jovem Pan News HD
+plugin: //plugin.video.youtube/play/? video_id = uuYodSCCMNE
+ 
+#EXTINF: -1 group-title = "YOUTUBE KODI", Nick Junior HD
+plugin: //plugin.video.youtube/play/? video_id = ND4kwiGFU4A
+ 
+#EXTINF: -1 group-title = "YOUTUBE KODI", Nickelodeon HD
+plugin: //plugin.video.youtube/play/? video_id = RgqzoN5SusM
+ 
+#EXTINF: -1 título-grupo = "YOUTUBE KODI", Peppa Pig Brasil HD
+plugin: //plugin.video.youtube/play/? video_id = 6xBFTOVef2M
+ 
+#EXTINF: -1 group-title = "YOUTUBE KODI", PJ Maks HD
+plugin: //plugin.video.youtube/play/? video_id = abqkFzyGjWc
+ 
+#EXTINF: -1 group-title = "YOUTUBE KODI", Record News HD
+plugin: //plugin.video.youtube/play/? video_id = saz29dZJR04
+ 
+#EXTINF: -1 título-grupo = "YOUTUBE KODI", Rede Vida HD
+plugin: //plugin.video.youtube/play/? video_id = o3w_u1oZf3Q
+ 
+#EXTINF: -1 group-title = "YOUTUBE KODI", Ricky Zoom Brasil HD
+plugin: //plugin.video.youtube/play/? video_id = lsFm5LexHE0
+ 
+#EXTINF: -1 título-grupo = "YOUTUBE KODI", SBT HD
+plugin: //plugin.video.youtube/play/? video_id = ABVQXgr2LW4 & list = PLwM8wgYp7sRi5xxo_UyHNRDq1HAsqk9cD & index = 3
+ 
+#EXTINF: -1 título-grupo = "YOUTUBE KODI", TV A Crítica HD
+plugin: //plugin.video.youtube/play/? video_id = ksRHHGUN0Wk
+ 
+#EXTINF: -1 título-grupo = "YOUTUBE KODI", TV Aparecida HD
+plugin: //plugin.video.youtube/play/? video_id = 1KIucmaYkmU
+ 
+#EXTINF: -1 titulo-grupo = "YOUTUBE KODI", TV Justiça HD
+plugin: //plugin.video.youtube/play/? video_id = aFTesbPwc7I
+ 
+#EXTINF: -1 group-title = "YOUTUBE KODI", TV Senado HD
+plugin: //plugin.video.youtube/play/? video_id = 8DyvZAm_73E
+ 
+ 
+###########################################################
+####### ADDON DWIGHT FARROKH LISTAS GRATIS ######
+###########################################################
+# Estes canais só funcionam no KODI 18.9, isso porque ele depende do plugin "f4mTester" para o KODI instalado, assim como o plugin "IPTV Simple / PVR" também instalado e configurado.
+ 
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Jovem Pan News HD
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = https: //panflix.cdn.upx.com/out/v1/8db04b5b75d24204a65faeb43fc7e6a0/index6a0. m3u8 | Origin = https: //jovempan.com.br | Referer = https: //jovempan.com.br
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", A&E
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 113.m3u8
+ 
+#EXTINF: -1 título-grupo = "DWIGHT FARROKH", Agro Brasil
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 263.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Agro Canal
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 264.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", AMC
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 223.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Animal Planet
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 114.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Arte 1
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 115.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", AXN
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 116.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Baby TV
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 117.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Banda
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 224.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Banda (RN)
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 294.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Banda (TO)
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 299.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Band News
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 118.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Band Sports
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 119.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", BIS
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 120.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Boomerang
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 121.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Canal 21
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 265.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Canal Comunitario
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 267.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Canal Do Boi
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 266.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Canal Rural
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 268.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Canal Saude
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 284.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Canal Sony
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 123.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Canção Nova
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 65.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Cartoon Network
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 124.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Cine Brasil
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 269.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Cine SKY 01
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 48.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Cine SKY 02
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 49.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Cine SKY 03
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 50.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Cine SKY 04
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 51.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Cine SKY 05
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 52.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Cine SKY 06
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 53.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Cine SKY 07
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 54.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Cine SKY 08
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 55.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Cine SKY 09
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 56.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Cine SKY 10
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 57.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Cinemax
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 125.m3u8
+ 
+#EXTINF: -1 título-grupo = "DWIGHT FARROKH", CNN Brasil
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 225.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Combate
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 126.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Comedy Central
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 127.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Cultura
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 128.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Curta
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 129.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", DAZN
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 226.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Discovery Channel
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 130.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Discovery Home & Health
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 131.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", ID de descoberta
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 132.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Discovery Kids
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 133.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Discovery Science
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 134.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Discovery Theatre
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 135.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Discovery Turbo
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 136.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Discovery World
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 137.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Disney Channel
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 138.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Disney JR.
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 139.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Disney XD
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 140.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", E!
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 141.m3u8
+ 
+#EXTINF: -1 título-grupo = "DWIGHT FARROKH", Educação
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 285.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", ESPN
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 142.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", ESPN 2
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 143.m3u8
+ 
+#EXTINF: -1 título-grupo = "DWIGHT FARROKH", ESPN Brasil
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 144.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", ESPN Extra
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 145.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Euro News
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 270.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Moda
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 82.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Filmes e Artes
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 227.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Fish TV
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 146.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Food Network
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 147.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", FOX
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 148.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", FOX Life
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 149.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", FOX Premium 1
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 150.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", FOX Premium 2
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 151.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", FOX Sports
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 152.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", FOX Sports 2
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 153.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Futura
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 228.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", FX
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 229.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Gazeta
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 230.m3u8
+ 
+#EXTINF: -1 título-grupo = "DWIGHT FARROKH", Globo
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 231.m3u8
+ 
+#EXTINF: -1 título-grupo = "DWIGHT FARROKH", Globo (SP)
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 15.m3u8
+ 
+#EXTINF: -1 título-grupo = "DWIGHT FARROKH", Globo (RJ)
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 13.m3u8
+ 
+#EXTINF: -1 título-grupo = "DWIGHT FARROKH", Globo (DF)
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 3.m3u8
+ 
+#EXTINF: -1 título-grupo = "DWIGHT FARROKH", Globo (SC)
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 5.m3u8
+ 
+#EXTINF: -1 título-grupo = "DWIGHT FARROKH", Globo (MG)
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 6.m3u8
+ 
+#EXTINF: -1 título-grupo = "DWIGHT FARROKH", Globo (RN)
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 7.m3u8
+ 
+#EXTINF: -1 título-grupo = "DWIGHT FARROKH", Globo (AM)
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 11.m3u8
+ 
+#EXTINF: -1 título-grupo = "DWIGHT FARROKH", Globo (RS)
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 12.m3u8
+ 
+#EXTINF: -1 título-grupo = "DWIGHT FARROKH", Globo² (PR)
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 14.m3u8
+ 
+#EXTINF: -1 título-grupo = "DWIGHT FARROKH", Globo (PR)
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 112.m3u8
+ 
+#EXTINF: -1 título-grupo = "DWIGHT FARROKH", Globo (GO)
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 16.m3u8
+ 
+#EXTINF: -1 título-grupo = "DWIGHT FARROKH", Globo (BH)
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 17.m3u8
+ 
+#EXTINF: -1 título-grupo = "DWIGHT FARROKH", Globo (PA)
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 18.m3u8
+ 
+#EXTINF: -1 título-grupo = "DWIGHT FARROKH", Globo (MA)
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 19.m3u8
+ 
+#EXTINF: -1 título-grupo = "DWIGHT FARROKH", Globo - Nordeste
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 75.m3u8
+ 
+#EXTINF: -1 título-grupo = "DWIGHT FARROKH", Globo - TV Anhanguera
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 303.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Globo News
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 232.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Gloob
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 154.m3u8
+ 
+#EXTINF: -1 título-grupo = "DWIGHT FARROKH", Gloobinho
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 215.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", GNT
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 155.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", HBO
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 156.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", HBO 2
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 157.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Família HBO
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 158.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", HBO Mundi
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 159.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", HBO Plus
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 160.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", HBO Pop
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 161.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Assinatura HBO
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 162.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", HBO Xtreme
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 163.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", HGTV
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 164.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", História
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 165.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", História 2
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 166.m3u8
+ 
+#EXTINF: -1 título-grupo = "DWIGHT FARROKH", InterTV Cabugi - Globo
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 295.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Life Time
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 167.m3u8
+ 
+#EXTINF: -1 título-grupo = "DWIGHT FARROKH", Mais Globosat
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 235.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Megapix
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 168.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", MTV
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 169.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", MTV Live
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 236.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Multishow
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 170.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Music Box Brasil
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 171.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Nat Geo
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 172.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Nat Geo Kids
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 173.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Nat Geo Wild
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 174.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", NBR TV
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 271.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Nick
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 175.m3u8
+ 
+#EXTINF: -1 título do grupo = "DWIGHT FARROKH", Nick JR.
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 176.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", OFF
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 177.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Paramount
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 178.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Play Kids
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 216.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Play TV
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 217.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Polishop
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 272.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Clubes de estreia
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 184.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Premiere 2
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 179.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Premiere 3
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 180.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Estreia 4
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 181.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Estreia 5
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 182.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Premiere 6
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 183.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Estreia 7
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 237.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Prime Box Brasil
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 185.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Gravar TV
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 300.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Registro (SP)
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 33.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Registro (RJ)
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 31.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Registro (BA)
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 23.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Registro (DF)
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 25.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Gravar (GO)
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 26.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Registro (AM)
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 22.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Registro (MG)
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 32.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Registro² (MG)
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 27.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Registro (PA)
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 30.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Registro (RN)
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 298.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Record News
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 28.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Record News (TO)
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 301.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Rede Genesis
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 273.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Rede Gospel
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 274.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Rede Minas
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 275.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Rede Seculo 21
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 276.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Rede Super
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 277.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Rede Seculo
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 289.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Rede TV
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 69.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Rede Vida
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 218.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", RIT TV
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 70.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", SBT
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 238.m3u8
+ 
+#EXTINF: -1 título-grupo = "DWIGHT FARROKH", SBT (RN)
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 296.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", SBT (TO)
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 302.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Espaço
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 187.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", SporTV
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 188.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", SporTV 2
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 189.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", SporTV 3
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 190.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Studio Universal
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 191.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", SYFY
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 192.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", TBC
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 278.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", TBS
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 193.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Ação Telecine
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 194.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Culto Telecino
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 195.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Telecine Fun
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 196.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Telecine Pipoca
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 197.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Telecine Premium
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 198.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Telecine Touch
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 199.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", TLC
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 200.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", TNT
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 201.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Série TNT
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 202.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Tooncast
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 203.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Travelbox
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 240.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", TV Alepe
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 72.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", TV Arapuan
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 98.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", TV Brasil
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 241.m3u8
+ 
+#EXTINF: -1 título-grupo = "DWIGHT FARROKH", TV Brasil 2
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 279.m3u8
+ 
+#EXTINF: -1 título-grupo = "DWIGHT FARROKH", TV Cabo Branco (PB)
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 100.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", TV Camara
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 222.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", TV Cidade
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 308.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", TV Correio (PB)
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 101.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", TV Diario
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 309.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", TV Escola Digital
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 280.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", TV Evangelizar
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 91.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", TV Guararapes
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 73.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", TV Horizonte
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 281.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", TV Jangadeiro
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 90.m3u8
+ 
+#EXTINF: -1 título-grupo = "DWIGHT FARROKH", TV Jornal
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 76.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", TV Miramar
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 102.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", TV Mundial
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 304.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", TV Nazare
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 282.m3u8
+ 
+#EXTINF: -1 título-grupo = "DWIGHT FARROKH", TV Nova Nordeste
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 62.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", TV Novo Tempo
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 242.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", TV Pai Eterno
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 103.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", TV RA-TIM-BUM
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 204.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", TV Reme
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 291.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", TV RioSul
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 283.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", TV Taroba
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 109.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", TV Tribuna
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 77.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", TV UFPB TV
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 104.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", TV União
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 92.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", TV Verde Mares
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 306.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", TV Verde Vale
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 293.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", TV universal
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 205.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", UNIVESP
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 292.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", VH1
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 206.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Viva
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 207.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Warner Channel
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 208.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Woohoo
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 243.m3u8
+ 
+#EXTINF: -1 group-title = "DWIGHT FARROKH", Zoomoo
+plugin: //plugin.video.f4mTester/? streamtype = HLSRETRY; name = DWIGHT FARROKH LISTAS GRATIS; & amp; buffer = 60000; url = http: //45.224.115.214: 80 / live / damaris / 123456 / 244.m3u8
+ 
+ 
+AGRADEÇO AO "DWIGHT FARROKH" POR ESTA MARAVILHOSA LISTA "https://pasteall.org/DyMd/raw?fbclid=IwAR3uJU1myRUsYJoBqANF1YIwjw2-ri21T4JDH44791cIQwgXPxCLi.
+AnasorTEXT, um lugar para salvar e compartilhar textos e codigos.
+
+Entrar ou Cadastre-se para editar e acomparnhar os seus pastes.
+
+NOVO TEXTO BRUTO
