@@ -3862,8 +3862,6 @@ http://api.magiaiptv.com/live/800261/138645/p1_Vikings
 #EXTINF:-1    tvg-id="" tvg-name="" tvg-logo=""https://chungstudio.github.io/logo/eleven-sports-1-hd.png"" group-title="ESPORTES", ELEVEN SPORT 1
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
-#EXTINF:-1   tvg-id="" tvg-name="" tvg-logo=""https://chungstudio.github.io/logo/eleven-sports-1-hd.png"" group-title="ESPORTES", ELEVEN SPORT 1
-http://46.249.32.53:8080/hls/ch11.m3u8
 
 #EXTINF:-1   tvg-id="" tvg-name="" tvg-logo=""https://chungstudio.github.io/logo/eleven-sports-2-hd.png"" group-title="ESPORTES", ELEVEN SPORT 2
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
@@ -3875,7 +3873,7 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="PAULISTAO PLAY" tvg-logo="http://srv.painel.live:8080/images/9b21a6356aca8caedea2a013457173ad.png" group-title="ESPORTES",PAULISTAO PLAY
-http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/113952.m3u8
+https://playlists.mycujoo.football/eu/ckxot8qb1e6bb0g8n58v3e2uq/720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PAULISTAO PLAY" tvg-logo="http://srv.painel.live:8080/images/9b21a6356aca8caedea2a013457173ad.png" group-title="ESPORTES",PAULISTAO PLAY
 http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/113954.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PAULISTAO PLAY" tvg-logo="http://srv.painel.live:8080/images/9b21a6356aca8caedea2a013457173ad.png" group-title="ESPORTES",PAULISTAO PLAY
