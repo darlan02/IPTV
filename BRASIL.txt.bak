@@ -1982,8 +1982,21 @@ http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/113954.m3u8
 http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/113955.m3u8
 
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="ESPORTES",ELEVEN 4
-http://cdn99.one:80/984854/6b4zmQ/75026.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="ESPORTES",ELEVEN 5
-http://cdn99.one:80/984854/6b4zmQ/77583.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="ESPORTES",ELEVEN 6
+https://playlists.mycujoo.football/eu/ckxota488e6e40g8nwf6757nj/720p/playlist.m3u8
 http://cdn99.one:80/984854/6b4zmQ/77584.ts?checkedby:iptvcat.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
