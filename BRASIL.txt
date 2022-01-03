@@ -1,11 +1,4 @@
 #EXTM3U
- 
-#################################################### TV Aberta
-
-
-
-
- 
 #EXTINF: -1 tvg-id = "GLOBO RJ" tvg-logo = "https://imgur.com/Sgpzemb.png" group-title = "ABERTO", GLOBO RJ
 http://50.7.34.155:2200/BR/Globo_HD_RJ-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
  
@@ -95,8 +88,6 @@ https://cast.cdnseguro.com:19360/8092/8092.m3u8
 https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
  
  
-############################################################### ################################ ESPORTES CANAIS
- 
  
 #EXTINF: -1 tvg-id = "SporTV" tvg-name = "SporTV" tvg-logo = "https://imgur.com/bwqLqyg.png" group-title = "ESPORTES", SporTV
 http://50.7.34.155:2200/BR/Sportv_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhullfnNlfHJofQ%3Dn%3D%3Fmd5
@@ -124,7 +115,7 @@ http://50.7.34.155:2200/BR/Fox_Sports_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndp
 http://50.7.34.155:2200/BR/Premiere_Clubes_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3Dm%3D%3Full5
  
  
-#################### ################################ VARIEDADES
+
  
 
 #EXTINF: -1 tvg-id = "A&E" tvg-name = "MTV" tvg-logo = "https://cdn.freebiesupply.com/images/large/2x/ae-logo-black-and-white.png" group-title = "VARIEDADES", A&E
@@ -147,7 +138,7 @@ http://50.7.34.155:2201/BR/Discovery_Channel_HD-br/tracks-v1a1/mono.m3u8?token=f
 http://origin-02.nxplay.com.br/Film_Arts_Brasil/playlist.m3u8
  
 
-############################################################### ################################# FILMES E SERIES
+
  
 #EXTINF: -1 tvg-id = "A&E" tvg-name = "A&E" tvg-logo = "https://imgur.com/EYAmbe4.png" group-title = "FILMES E SÉRIES", A & E
  
@@ -1977,14 +1968,16 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PAULISTAO PLAY" tvg-logo="http://srv.painel.live:8080/images/9b21a6356aca8caedea2a013457173ad.png" group-title="ESPORTES",ELEVEN
 https://playlists.mycujoo.football/eu/ckxot8qb1e6bb0g8n58v3e2uq/720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PAULISTAO PLAY" tvg-logo="http://srv.painel.live:8080/images/9b21a6356aca8caedea2a013457173ad.png" group-title="ESPORTES",ELEVEN 2
-http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/113954.m3u8
+https://playlists.mycujoo.football/eu/ckxc7lvm84rz20g8nif4keivm/720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PAULISTAO PLAY" tvg-logo="http://srv.painel.live:8080/images/9b21a6356aca8caedea2a013457173ad.png" group-title="ESPORTES",ELEVEN 3
-http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/113955.m3u8
+https://playlists.mycujoo.football/eu/ckxc3xb5z2yf60hbqti13wn56/480p/playlist.m3u8
 
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="ESPORTES",ELEVEN 4
 https://playlists.mycujoo.football/eu/ckxota488e6e40g8nwf6757nj/720p/playlist.m3u8
-http://cdn99.one:80/984854/6b4zmQ/77584.ts?checkedby:iptvcat.com
 
+
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="ESPORTES",ELEVEN 5
+https://playlists.mycujoo.football/eu/ckxc2zi2t4mo20g8nt0mmxi7g/720p/playlist.m3u8
 
 
 
