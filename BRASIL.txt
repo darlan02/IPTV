@@ -7,8 +7,8 @@ http://50.7.34.155:2200/BR/Globo_HD_RJ-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
 
 
-#EXTINF:-1 group-title="ABERTO",Band SP
-http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w1050678701.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "http://img2g.hdawiyr1g.xyz/gateway/files/439a8620-a2ac-11e9-b260-003048de22c4" código-pai = "" group-title = "BAND", ​​BAND
+http://api.magiaiptv.com/live/800261/138645/m3_3zFNpotNh0Q0iR_1080p
 
 
 #EXTINF: -1 tvg-id = "RECORD SP" tvg-name = "RECORD SP" tvg-logo = "https://i.imgur.com/mQo0UoK.png" group-title = "ABERTO", RECORD SP 
@@ -41,6 +41,10 @@ http://77.247.109.86:8000/a/willene/live/50061.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjo
 #EXTINF: -1 tvg-id = "GLOBO RPC" tvg-logo = "https://imgur.com/Sgpzemb.png" group-title = "GLOBO", GLOBO RPC
 http://45.226.83.14:80/live/RPCHD/720p.m3u8
   
+#EXTINF:-1 group-title="BAND",Band SP
+http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w1050678701.m3u8
+
+
  
 #EXTINF: -1 tvg-id = "RECORD RJ" tvg-name = "RECORD RJ" tvg-logo = "https://i.imgur.com/mQo0UoK.png" group-title = "RECORD", RECORD RJ
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_480_av-b.m3u8
@@ -1004,7 +1008,7 @@ http://77.247.109.86:8000/a/willene/live/22289.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjo
 #EXTINF:-1 tvg-name="SYFY (3)" group-title="FILMES E SÉRIES" tvg-logo="https://vjackson.info/live/logo?channel=22290",SYFY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://77.247.109.86:8000/a/willene/live/22290.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ== 
-#EXTINF:-1 tvg-name="TBS HD (6)" group-title="FILMES E SÉRIES" tvg-logo="https://vjackson.info/live/logo?channel=32511",TBS HD
+#EXTINF:-1 tvg-name="TBS HD (6)" group-title="DOCUMENTARIOS" tvg-logo="https://vjackson.info/live/logo?channel=32511",TBS HD
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://77.247.109.86:8000/a/willene/live/32511.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ== 
 #EXTINF:-1 tvg-name="TC ACTION (3)" group-title="FILMES E SÉRIES" tvg-logo="https://vjackson.info/live/logo?channel=13442",TC ACTION
@@ -2710,9 +2714,7 @@ http://api.magiaiptv.com/live/800261/138645/m3_aEZNYVBM7gwkXuemhyKdcC62_720p
 http://api.magiaiptv.com/live/800261/138645/m3_3zFNpotNh0Q0iR_720p
 #EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "http://img2g.hdawiyr1g.xyz/gateway/files/12b3d817-e8b2-4233-8216-4d23973ce6cb" parent-code = "" group-title = "BAND", ​​BAND HDTV +
 http://api.magiaiptv.com/live/800261/138645/m3_3zFNpotNh0Q0iR_720p_2M
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "http://img2g.hdawiyr1g.xyz/gateway/files/439a8620-a2ac-11e9-b260-003048de22c4" código-pai = "" group-title = "BAND", ​​BAND HDTV UHD
-http://api.magiaiptv.com/live/800261/138645/m3_3zFNpotNh0Q0iR_1080p
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "http://img2g.hdawiyr1g.xyz/gateway/files/fbe670ad-8e7e-41f2-9f77-6ef809bb741e" parent-code = "" group-title = "BAND", ​​NOTÍCIAS DA BANDA
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "http://img2g.hdawiyr1g.xyz/gateway/files/fbe670ad-8e7e-41f2-9f77-6ef809bb741e" parent-code = "" group-title = "BAND", ​​BAND NEWS
 http://api.magiaiptv.com/live/800261/138645/m3_wM1DcpyixXePdVU8F2ogE6KT_720p
 #EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "http://img2g.hdawiyr1g.xyz/gateway/files/7ec045dc-9547-4ee7-9b18-1fd6a681ddf3" parent-code = "" group-title = "JORNALISMO", ​​BAND NEWS +
 http://api.magiaiptv.com/live/800261/138645/m3_wM1DcpyixXePdVU8F2ogE6KT_720p_2M
@@ -3370,7 +3372,7 @@ http://api.magiaiptv.com/live/800261/138645/m2_Fc8If8FyKAK47vjnG_1080p
 http://api.magiaiptv.com/live/800261/138645/m2_4YAiHGmv6RCqIdET3VzPaKjU_720p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/8711ae42-e568-44f2-ac5c-144352508648" parent-code="" group-title="FILMES E SÉRIES", SYFY
 http://api.magiaiptv.com/live/800261/138645/m1_G24UuG3uNWoYwG_720p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/2b0ecf7f-c5f9-4fdd-b332-743b0141c562" parent-code="" group-title="DOCUMETARIOS", TBS HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/2b0ecf7f-c5f9-4fdd-b332-743b0141c562" parent-code="" group-title="DOCUMENTARIOS", TBS HD
 http://api.magiaiptv.com/live/800261/138645/p1_tbs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/9dbfc690-5ac9-4a3e-aed1-829a5258c1f0" parent-code="" group-title="DOCUMENTARIOS", TBS HD+
 http://api.magiaiptv.com/live/800261/138645/p2_tbs_265
@@ -3412,7 +3414,7 @@ http://api.magiaiptv.com/live/800261/138645/p3_LKHjjtaXmjpQXTrPHjO
 http://api.magiaiptv.com/live/800261/138645/p3_HpdM1hXf25sjTpqp
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/31c5bf29-c14f-4d9b-be9e-897852da9ffc" parent-code="" group-title="FILMES E SÉRIES", Telecine Touch UHD
 http://api.magiaiptv.com/live/800261/138645/m2_X1oPbHVx1IJxY5Mhqr_1080p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/e340a47f-94ed-4e1a-8f8c-41eb3f64757e" parent-code="" group-title="DOCUMETARIOS", TLC HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/e340a47f-94ed-4e1a-8f8c-41eb3f64757e" parent-code="" group-title="DOCUMENTARIOS", TLC HD
 http://api.magiaiptv.com/live/800261/138645/m3_7cvjeTrmGuLBSUHYx4K0zWlQ_720p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/e340a47f-94ed-4e1a-8f8c-41eb3f64757e" parent-code="" group-title="DOCUMENTARIOS", TLC HD+
 http://api.magiaiptv.com/live/800261/138645/m3_7cvjeTrmGuLBSUHYx4K0zWlQ_720p
@@ -3568,7 +3570,7 @@ http://api.magiaiptv.com/live/800261/138645/m1_pSYqAdr245K7Wh3QEP_720p
 http://api.magiaiptv.com/live/800261/138645/m3_3zFNpotNh0Q0iR_720p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/12b3d817-e8b2-4233-8216-4d23973ce6cb" parent-code="" group-title="BAND", BAND HDTV+
 http://api.magiaiptv.com/live/800261/138645/m3_3zFNpotNh0Q0iR_720p_2M
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/6f4bc37d-1221-4ca6-beab-9aab2defe12b" parent-code="" group-title="VARIEDADESS", BBB 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/6f4bc37d-1221-4ca6-beab-9aab2defe12b" parent-code="" group-title="VARIEDADES", BBB 1 HD
 http://api.magiaiptv.com/live/800261/138645/m1_jEFNwvhSJIGHIAc7A_720p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/18785d02-020c-4f93-bbc6-e73232501e93" parent-code="" group-title="ABERTO", Boa Vontade TV
 http://api.magiaiptv.com/live/800261/138645/m2_caNKuFc0fWMFFRMgJj_720p
@@ -3734,7 +3736,7 @@ http://api.magiaiptv.com/live/800261/138645/m3_x3cAq6sf4uIWAcZ_720p
 http://api.magiaiptv.com/live/800261/138645/m2_CJTwqeVasdfPasdlan_720p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/03147d22-9a29-462c-9800-c02fb3594694" parent-code="" group-title="RELIGIOSO", TV Rede Gospel
 http://api.magiaiptv.com/live/800261/138645/m2_CJghVRqweveGgaqpel_720p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/71f14025-bc8b-4df0-aae7-0eaf462582ca" parent-code="" group-title="LEGISLATIVOS", TV Senado
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/71f14025-bc8b-4df0-aae7-0eaf462582ca" parent-code="" group-title="LEGISLATIVO", TV Senado
 http://api.magiaiptv.com/live/800261/138645/m4_Pu6pRskc1ilGxJaKFgNeWqCO_720p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/cffe9eb8-1e22-47c5-9cd5-246fa1c5368d" parent-code="" group-title="ABERTO", TV TEM BAURU
 http://api.magiaiptv.com/live/800261/138645/m2_TVATRIABUANASAANTOS_720p
@@ -4246,9 +4248,9 @@ http://api.magiaiptv.com/live/800261/138645/m1_HErPMBJzfC3aYZ9wAWejul5_720p
 http://api.magiaiptv.com/live/800261/138645/m1_HErPMBJzfC3aYZ9wAWejul5_720p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/722786dd-923a-4edc-b940-3f824c2d544c" parent-code="" group-title="FILMES E SÉRIES", STUDIO UNIVERSAL HD
 http://api.magiaiptv.com/live/800261/138645/m2_4YAiHGmv6RCqIdET3VzPaKjU_720p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/2b0ecf7f-c5f9-4fdd-b332-743b0141c562" parent-code="" group-title="FILMES E SÉRIES", TBS HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/2b0ecf7f-c5f9-4fdd-b332-743b0141c562" parent-code="" group-title="DOCUMENTARIOS", TBS HD
 http://api.magiaiptv.com/live/800261/138645/p1_tbs
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/9dbfc690-5ac9-4a3e-aed1-829a5258c1f0" parent-code="" group-title="FILMES E SÉRIES", TBS HD+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/9dbfc690-5ac9-4a3e-aed1-829a5258c1f0" parent-code="" group-title="DOCUMENTARIOS", TBS HD+
 http://api.magiaiptv.com/live/800261/138645/p2_tbs_265
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/4cba449a-2bb6-442d-9a14-c0169405acb5" parent-code="" group-title="FILMES E SÉRIES", TCM
 http://api.magiaiptv.com/live/800261/138645/m3_pj4cLmD0b6X3vC5Swglds82_720p
@@ -4559,31 +4561,31 @@ http://api.magiaiptv.com/live/800261/138645/p1_Vikings
 #######################
 
 
-#EXTINF:-1 group-title="ABERTO",Band SC
+#EXTINF:-1 group-title="BAND",Band SC
 http://179.125.119.154:8000/play/a01h/index.m3u8
 
-#EXTINF:-1 group-title="ABERTO",Band SP
+#EXTINF:-1 group-title="BAND",Band SP
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w1050678701.m3u8
 
-#EXTINF:-1 group-title="ABERTO",Globo SC
+#EXTINF:-1 group-title="GLOBO",Globo SC
 http://179.125.119.154:8000/play/a015/index.m3u8
 
-#EXTINF:-1 group-title="ABERTO",Globo SP
+#EXTINF:-1 group-title="GLOBO",Globo SP
 http://200.4.97.162:8000/play/a01t/index.m3u8
 
-#EXTINF:-1 group-title="ABERTO",Record SC
+#EXTINF:-1 group-title="RECORD",Record SC
 http://179.125.119.154:8000/play/a01j/index.m3u8
 
-#EXTINF:-1 group-title="ABERTO",Record SP
+#EXTINF:-1 group-title="RECORD",Record SP
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
-#EXTINF:-1 group-title="ABERTO",Rede TV!
+#EXTINF:-1 group-title="REDE TV",Rede TV!
 http://177.20.208.58:8000/play/a03x/index.m3u8
 
-#EXTINF:-1 group-title="ABERTO",SBT SC
+#EXTINF:-1 group-title="SBT",SBT SC
 http://179.125.119.154:8000/play/a017/index.m3u8
 
-#EXTINF:-1 group-title="ABERTO",SBT SP
+#EXTINF:-1 group-title="SBT",SBT SP
 http://187.94.148.10:8090/play/a00w/index.m3u8
 
 
@@ -4913,7 +4915,7 @@ http://200.4.96.59:8003/play/a01y/index.m3u8
 #EXTINF:-1 group-title="ABERTO",Cultura
 http://177.20.208.58:8000/play/a01x/index.m3u8
 
-#EXTINF:-1 group-title="DACUMENTARIOS",Discovery Channel
+#EXTINF:-1 group-title="DOCUMENTARIOS",Discovery Channel
 http://168.205.87.198:8555/live/adriana/123456/33.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery H&H
