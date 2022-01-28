@@ -1,42 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="GLOBO",Globo
-https://live-as-01-13.video.globo.com/d/s/hls-globo-imp/hls-globo-imp_1573/playlist.m3u8
-
-#EXTINF:-1 group-title="GLOBO",Globo
-https://live-as-08-24.video.globo.com/d/s/hls-globo-imp/hls-globo-imp_1049/playlist.m3u8
-
-#EXTINF:-1 group-title="GLOBO",Globo
-https://live-as-08-24.video.globo.com/d/s/hls-globo-imp/hls-globo-imp_655/playlist.m3u8
-
-#EXTINF:-1 group-title="GLOBO",Globo
-https://live-as-08-24.video.globo.com/d/s/hls-globo-imp/hls-globo-imp_410/playlist.m3u8
-
-#EXTINF:-1 group-title="GLOBO",Globo
-https://live-as-08-24.video.globo.com/d/s/hls-globo-imp/hls-globo-imp_176/playlist.m3u8
-
-
-
 
 #EXTINF: -1 tvg-id = "SBT SP" tvg-name = "SBT SP" tvg-logo = "https://imgur.com/E0VqV6w.png" group-title = "ABERTO", SBT 
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
 
-
 #EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "http://img2g.hdawiyr1g.xyz/gateway/files/439a8620-a2ac-11e9-b260-003048de22c4" código-pai = "" group-title = "BAND", ​​BAND
 http://api.magiaiptv.com/live/800261/138645/m3_3zFNpotNh0Q0iR_1080p
-
 
 #EXTINF: -1 tvg-id = "RECORD SP" tvg-name = "RECORD SP" tvg-logo = "https://i.imgur.com/mQo0UoK.png" group-title = "ABERTO", RECORD SP 
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-b.m3u8
 
-
 #EXTINF:-1 tvg-id="GLOBO MG" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="Canais | ABERTO",Globo MG
 http://168.205.87.198:8555/live/1499/123456/70.m3u8
-
-
-
-#EXTINF:-1 tvg-id="GLOBO BA" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="Canais | ABERTO",Globo BA
-https://canal1.proxy.tokplay.com.br/videos/TV_BAHIA/format720p_TV_BAHIA.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB 22 SD
 http://vipeiptv.com:8080/Lara123/Lara123/1006799
@@ -47,11 +22,8 @@ http://187.85.237.26:8825/ipvt_002
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://imgur.com/a4lEiwk.png" group-title="Canais | VARIEDADES",Multishow HD
 http://vipeiptv.com:8080/Amarildo90/Amarildo90/856709
 
-
-
 #EXTINF: -1 tvg-id = "conectv" tvg-logo = "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/454924e01d06c3bc20131e8514187305.webp" group-title = "ABERTO", conectv
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
-
  
 #EXTINF: -1 tvg-id = "TV CULTURA" tvg-logo = "https://i.imgur.com/FSMTaN1.png" group-title = "ABERTO", TV CULTURA
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1120193815.m3u8
