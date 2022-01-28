@@ -49,6 +49,11 @@ http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w1050678701.m3u8
 #EXTINF:-1 group-title="ESPORTES",CAMPEONATO CARIOCA
 https://cdn.esporteone.com/LIVEFC4SD/video.m3u8?md5=yMrcK_GmJTd5_GUD4iV2QQ&expires=1643301662
 
+#EXTINF:-1 group-title="ESPORTES",CAMPEONATO CARIOCA
+https://cdn.esporteone.com/MULTICANAISSD/video.m3u8?md5=HYk0X4l5va8Z_5XArvYfEQ&expires=1643301555
+
+#EXTINF:-1 group-title="ESPORTES",CAMPEONATO CARIOCA
+https://cdn.esporteone.com/MULTICANAISSD/video.m3u8?md5=K0TJmwN86ajTUmbS1wv2mg&expires=1643301843
 
 #EXTINF: -1 tvg-id = "RECORD RJ" tvg-name = "RECORD RJ" tvg-logo = "https://i.imgur.com/mQo0UoK.png" group-title = "RECORD", RECORD RJ
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_480_av-b.m3u8
