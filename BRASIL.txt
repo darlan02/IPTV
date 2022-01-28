@@ -3,6 +3,20 @@
 #EXTINF:-1 group-title="GLOBO",Globo
 https://live-as-01-13.video.globo.com/d/s/hls-globo-imp/hls-globo-imp_1573/playlist.m3u8
 
+#EXTINF:-1 group-title="GLOBO",Globo
+https://live-as-08-24.video.globo.com/d/s/hls-globo-imp/hls-globo-imp_1049/playlist.m3u8
+
+#EXTINF:-1 group-title="GLOBO",Globo
+https://live-as-08-24.video.globo.com/d/s/hls-globo-imp/hls-globo-imp_655/playlist.m3u8
+
+#EXTINF:-1 group-title="GLOBO",Globo
+https://live-as-08-24.video.globo.com/d/s/hls-globo-imp/hls-globo-imp_410/playlist.m3u8
+
+#EXTINF:-1 group-title="GLOBO",Globo
+https://live-as-08-24.video.globo.com/d/s/hls-globo-imp/hls-globo-imp_176/playlist.m3u8
+
+
+
 
 #EXTINF: -1 tvg-id = "SBT SP" tvg-name = "SBT SP" tvg-logo = "https://imgur.com/E0VqV6w.png" group-title = "ABERTO", SBT 
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8

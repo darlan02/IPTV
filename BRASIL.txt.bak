@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="GLOBO",Globo SP
-http://200.4.97.162:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="GLOBO",Globo
+https://live-as-01-13.video.globo.com/d/s/hls-globo-imp/hls-globo-imp_1573/playlist.m3u8
 
 
 #EXTINF: -1 tvg-id = "SBT SP" tvg-name = "SBT SP" tvg-logo = "https://imgur.com/E0VqV6w.png" group-title = "ABERTO", SBT 
@@ -16,12 +16,6 @@ http://api.magiaiptv.com/live/800261/138645/m3_3zFNpotNh0Q0iR_1080p
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-b.m3u8
 
 
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="Canais | ABERTO",Globo SP
-http://45.177.139.68:80/GLOBO_SP_NX/tracks-v1a1/mono.m3u8?token=
-
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="Canais | ABERTO",Globo RJ
-https://livebr-globo.myedgecast.com/nu/globo-res/globo-res-audio_1=96000-video=1476992.m3u8?hdnts=-fOtOXFh9o2AHaguxKPlH8_3p473ozbjyJtLO4EFlg_AjplulwJxVepz2zajFcxz7kNmhNYThX_7OSE5vA6=0QF_7kNmhNYThX_7OSE5vA6=
-
 #EXTINF:-1 tvg-id="GLOBO MG" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="Canais | ABERTO",Globo MG
 http://168.205.87.198:8555/live/1499/123456/70.m3u8
 
@@ -32,9 +26,6 @@ https://canal1.proxy.tokplay.com.br/videos/TV_BAHIA/format720p_TV_BAHIA.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB 22 SD
 http://vipeiptv.com:8080/Lara123/Lara123/1006799
-
-#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALIDADE",BBB 22 HD
-http://vipeiptv.com:8080/live/Amarildo90/Amarildo90/1006694.m3u8
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://imgur.com/a4lEiwk.png" group-title="Canais | VARIEDADES",Multishow SD
 http://187.85.237.26:8825/ipvt_002
