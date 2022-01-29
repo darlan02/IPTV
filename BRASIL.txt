@@ -1,81 +1,27 @@
 #EXTM3U
 
-##############################################
-########### AGRO = 10 Canais #################
-##############################################
-
-#EXTINF:-1 group-title="AGRO", Agro Brasil TV
-https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="AGRO", Agro Brasil TV²
-https://origin-02.nxplay.com.br/AGROBRASIL_TV/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="AGRO", Agro Brasil TV³
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="AGRO", Agro Mais
-https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="AGRO", Canal do Boi
-http://177.20.208.58:8000/play/a044/index.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="AGRO", Canal Rural
-https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="AGRO", Nova Tv Agrotour
-https://video01.kshost.com.br:4443/marcelo6682/marcelo6682/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="AGRO", Terra Viva
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="AGRO", TV Milagro Brasil
-https://srv5.zcast.com.br/tvmilagro/tvmilagro/playlist.m3u8?ROGERIOTORRES
-
 
 ##############################################
-###### ANIME E TOKUSATSU = 8 Canais ##########
+###### CANAIS ABERTOS ############
 ##############################################
 
-#EXTINF:-1 group-title="ANIME E TOKUSATSU", Anime HD
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 group-title="ANIME E TOKUSATSU", Anime TV
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ANIME E TOKUSATSU", Anime Ação HD
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="ANIME E TOKUSATSU", CONTV Anime (ENG)
-https://contvanime-plex-ingest.cinedigm.com/masterR1080p.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ANIME E TOKUSATSU", Loading TV
-https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ANIME E TOKUSATSU", Naruto HD
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
-
-#EXTINF:-1 group-title="ANIME E TOKUSATSU", Tokusatsu HD
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 
-##############################################
-###### CANAIS ABERTOS = 54 Canais ############
-##############################################
+#EXTINF: -1 tvg-id = "SBT SP" tvg-name = "SBT SP" tvg-logo = "https://imgur.com/E0VqV6w.png" group-title = "CANAIS ABERTOS", SBT 
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "http://img2g.hdawiyr1g.xyz/gateway/files/439a8620-a2ac-11e9-b260-003048de22c4" código-pai = "" group-title = "CANAIS ABERTOS", ​​BAND
+http://api.magiaiptv.com/live/800261/138645/m3_3zFNpotNh0Q0iR_1080p
+
+#EXTINF: -1 tvg-id = "RECORD SP" tvg-name = "RECORD SP" tvg-logo = "https://i.imgur.com/mQo0UoK.png" group-title = "CANAIS ABERTOS", RECORD SP 
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-b.m3u8
+
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Band HD (SP)
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w1050678701.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Band HD
 http://api.magiaiptv.com/live/800261/138645/m3_3zFNpotNh0Q0iR_1080p
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", Band HD (PA)
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", Canal 26 HD (ESP)
-https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", Canal Parlamento HD (PT)
-https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Canal Saude
 http://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8?ROGERIOTORRES
@@ -98,9 +44,6 @@ https://streaming03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", Futura - TV o Povo HD
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Futura - Unisc TV HD
-https://tv.unisc.br/hls/test.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="CANAIS ABERTOS", Globo HD
 http://200.4.97.162:8000/play/a01t/index.m3u8?ROGERIOTORRES
 
@@ -109,12 +52,6 @@ https://59e4b6c1beddc.streamlock.net/tvgazeta/tvgazeta/playlist.m3u8?ROGERIOTORR
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Multi Cultura HD
 http://origin-02.nxplay.com.br/MULTICULTURA_PFZ/video.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", Porto Canal HD (PT) 
-https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", Porto Canal² HD (PT) 
-http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD (SP)
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?sd=10&rebase=on
@@ -125,10 +62,7 @@ https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD (MT)
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Record TV (PT)
-http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", Rede Brasil HD
+EXTINF:-1 group-title="CANAIS ABERTOS", Rede Brasil HD
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede Brasil HD (MT)
@@ -137,16 +71,13 @@ https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlis
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede Familia HD
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Rede Minas HD
-https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV (SP)
 http://177.20.208.58:8000/play/a03p/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV (ES)
 https://hls.brasilstream.com.br/live/redetv/redetv/index.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV (RS) [erro]
+#EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV (RS) 
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede Vida
@@ -197,9 +128,6 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Camara HD (SP)
 https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", TV Escola HD
-https://edge-ro-01.eduplay.rnp.br/media/ocp(r(AqzEfw)t(Fs5A7FobyKw)p(d(KHg)k(ViI)m(84-i6UIaLeH5knegbWp_rw)n(a(lQElGuYVSiIjFzL2KQcme1eaWorHBr-Bo8cB)s(lhY)'a(4k0OIQMjstyqJHHlGeBaeam9)s(yas)))s(t(bAo)b(k01J-A91wRRgL9iW8hc2VC7DqhC88luAtExYpLKoBwux6-cy9puTXS9cSbdmJ2NO4Idh7jXMAjfD6GeGVDfqRYid8_Da5QmkvegoELCJowfmnYBD88ozrPbo_V2Ed1OGqfDs6NYjP1N4T330e3t2KR_50ybMBk7wUCjm3E7MU1aEqQ)'t(cAM)b(Q1Hpn9kPMvtq4J16qiLdXZkWJS-YdIjW_tRP)))/live_540_index.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="CANAIS ABERTOS", TVE HD
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8?ROGERIOTORRES
 
@@ -223,24 +151,87 @@ http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8?ROGERIOTORRES
 
 
 ##############################################
-###### DOCUMENTARIOS = 24 Canais #############
+###### DOCUMENTARIOS #############
 ##############################################
 
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", Assim é Portugal
-https://livefocamundo.com:8081/tvmaxrio/index.m3u8?ROGERIOTORRES
+#EXTINF:-1 tvg-name="ANIMAL PLANET HD (6)" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", Ghost TV
-https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8?ROGERIOTORRES
+#EXTINF:-1 tvg-name="CANAL SONY (3)" group-title="DOCUMENTARIOS" tvg-logo="https://vjackson.info/live/logo?channel=22171",CANAL SONY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", Investigação HD
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD (3)" group-title="DOCUMENTARIOS" tvg-logo="https://vjackson.info/live/logo?channel=22179",DISCOVERY CHANNEL HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", Inwild TV HD (ENG)
-https://inwild-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", Inwonder TV HD (ENG)
-https://inwonder-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
+http://77.247.109.86:8000/a/willene/live/51001.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ==
+#EXTINF:-1 tvg-name="DISCOVERY SCIENCE (3)" group-title="DOCUMENTARIOS" tvg-logo="https://vjackson.info/live/logo?channel=22184",DISCOVERY SCIENCE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+
+http://77.247.109.86:8000/a/willene/live/22184.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ==
+#EXTINF:-1 tvg-name="DISCOVERY THEATER HD (6)" group-title="DOCUMENTARIOS",DISCOVERY THEATER HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+
+http://77.247.109.86:8000/a/willene/live/51002.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ==
+#EXTINF:-1 tvg-name="DISCOVERY TURBO FHD (6)" group-title="DOCUMENTARIOS" tvg-logo="https://vjackson.info/live/logo?channel=32297",DISCOVERY TURBO FHD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+
+http://77.247.109.86:8000/a/willene/live/32297.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ==
+#EXTINF:-1 tvg-name="DISCOVERY TURBO HD (3)" group-title="DOCUMENTARIOS",DISCOVERY TURBO HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+
+http://77.247.109.86:8000/a/willene/live/22179.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ==
+#EXTINF:-1 tvg-name="DISCOVERY H&H HD (6)" group-title="DOCUMENTARIOS",DISCOVERY H&H HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+
+#EXTINF:-1 tvg-name="DISCOVERY WORLD HD (6)" group-title="FILMES E SÉRIES",DISCOVERY WORLD HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://77.247.109.86:8000/a/willene/live/51004.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ==
+
+#EXTINF:-1 tvg-name="HISTORY CHANNEL (3)" group-title="DOCUMENTARIOS" tvg-logo="https://vjackson.info/live/logo?channel=22230",HISTORY CHANNEL 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://77.247.109.86:8000/a/willene/live/22230.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ==
+
+#EXTINF:-1 tvg-name="HISTORY 2 HD (6)" group-title="DOCUMENTARIOS" tvg-logo="https://vjackson.info/live/logo?channel=32412",HISTORY 2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://77.247.109.86:8000/a/willene/live/32412.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ==
+
+#EXTINF:-1 tvg-name="HISTORY CHANNEL (3)" group-title="DOCUMENTARIOS" tvg-logo="https://vjackson.info/live/logo?channel=22230",HISTORY CHANNEL 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://77.247.109.86:8000/a/willene/live/22230.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ==
+
+#EXTINF:-1 tvg-name="HISTORY CHANNEL HD (3)" group-title="DOCUMENTARIOS" tvg-logo="https://vjackson.info/live/logo?channel=22231",HISTORY CHANNEL HD  
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://77.247.109.86:8000/a/willene/live/22231.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ==
+
+#EXTINF:-1 tvg-name="HISTORY CHANNEL HD (6)" group-title="DOCUMENTARIOS" tvg-logo="https://vjackson.info/live/logo?channel=32414",HISTORY CHANNEL HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://77.247.109.86:8000/a/willene/live/32414.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ==
+
+#EXTINF:-1 tvg-name="INVESTIGA (3)" group-title="DOCUMENTARIOS" tvg-logo="https://vjackson.info/live/logo?channel=28475",INVESTIGA 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://77.247.109.86:8000/a/willene/live/28475.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ==
+
+#EXTINF:-1 tvg-name="INVESTIGATION DISCOVERY HD (6)" group-title="DOCUMENTARIOS" tvg-logo="https://vjackson.info/live/logo?channel=32418",INVESTIGATION DISCOVERY HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+
+#EXTINF:-1 tvg-name="NAT GEO FHD (6)" group-title="DOCUMENTARIOS" tvg-logo="https://vjackson.info/live/logo?channel=32439",NAT GEO FHD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://77.247.109.86:8000/a/willene/live/32439.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ==
+
+#EXTINF:-1 tvg-name="TBS HD (6)" group-title="DOCUMENTARIOS" tvg-logo="https://vjackson.info/live/logo?channel=32511",TBS HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://77.247.109.86:8000/a/willene/live/32511.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ== 
+
+
+#EXTINF:-1 group-title="DOCUMENTARIOS",Animal Planet
+http://200.4.96.59:8002/play/a0fe/index.m3u8
+
+
+#EXTINF:-1 group-title="DOCUMENTARIOS",Discovery Channel
+http://168.205.87.198:8555/live/adriana/123456/33.m3u8
+
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Love Nature HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
@@ -254,211 +245,43 @@ http://bamus-spa-roku.amagi.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="DOCUMENTARIOS", Love Nature 4K (ENG/ESP)
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", Minha Estranha Obsessão HD
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61843f5e491af10007f7eefa/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
-
-#EXTINF:-1 group-title="DOCUMENTARIOS", Misterios HD
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
-
-#EXTINF:-1 group-title="DOCUMENTARIOS", NASA TV (ENG)
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="DOCUMENTARIOS", Naturescape HD
-https://samsung-br.ott-channels.stingray.com/naturescape/master.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="DOCUMENTARIOS", Paisagens HD
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604a8dedbca75b0007b1c753/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 group-title="DOCUMENTARIOS", Phoenix TV HD
-https://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="DOCUMENTARIOS", Rakuten Documentaries HD (PT)
-https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="DOCUMENTARIOS", TVideoNews
-https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="DOCUMENTARIOS", Urban TV Docs HD
-https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="DOCUMENTARIOS", Vida Real HD
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
-
-#EXTINF:-1 group-title="DOCUMENTARIOS", Wild Earth HD (ENG)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-escapetonature-wildearth-samsungbr/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="DOCUMENTARIOS", XR Health HD
-https://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8?ROGERIOTORRES
-
 
 ##############################################
-###### ESPORTES = 47 Canais ##################
+###### ESPORTES  ##################
 ##############################################
-
-#EXTINF:-1 group-title="ESPORTES", Abu Dhabi Sports 1 HD (ARA)
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Abu Dhabi Sports 2 HD (ARA)
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Abu Dhabi Sports 3 HD (ARA)
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Adventure Sports Network HD (ENG)
-https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", All Elite Wrestling HD (ESP)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 #EXTINF:-1 group-title="ESPORTES", All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESPORTES", Bahrain Sport 1 (ARA)
-http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="ESPORTES", Band Sports HD
 https://origin-02.nxplay.com.br/band_spor_139913_1_/tracks-v2a1/index.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESPORTES", Bellator MMA HD (ENG)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
-
-#EXTINF:-1 group-title="ESPORTES", Best Cable Sports Peru (ESP)
-https://tv.siete.us/bestcablesports/bestcablesports/index.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", BMTV HD
+#EXTINF: -1 tvg-id = "SporTV" tvg-name = "SporTV" tvg-logo = "https://imgur.com/bwqLqyg.png" group-title = "ESPORTES", SporTV
+http://50.7.34.155:2200/BR/Sportv_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhullfnNlfHJofQ%3Dn%3D%3Fmd5
+ 
+#EXTINF: -1 tvg-id = "SporTV 2" tvg-name = "SporTV 2" tvg-logo = "https://imgur.com/ZpjPkqS.png" group-title = "ESPORTES", SporTV 2
+http://50.7.34.155:2200/BR/Sportv_2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhullfnNlfHJofQ%3Dn%3D%3Fmd5
+ 
+#EXTINF: -1 tvg-id = "SporTV 3" tvg-name = "SporTV 3" tvg-logo = "https://imgur.com/ttHpdGp.png" group-title = "ESPORTES", SporTV 3
+http://50.7.34.155:2200/BR/Sportv_3_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5
+ 
+#EXTINF: -1 tvg-id = "COMBATE" tvg-name = "COMBATE" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/f/f9/Combate_Flat_Sem_Slogan_png.png" group-title = "ESPORTES", COMBATE
+http://50.7.34.155:2200/BR/Combate_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhullfnNlfHJofQ%3Dn%3D%3Fmd5
+ 
+#EXTINF: -1 tvg-id = "ESPN BRASIL" tvg-name = "ESPN BRASIL" tvg-logo = "https://imgur.com/v2IPkLE.png" group-title = "ESPORTES", ESPN BRASIL HD
+http://50.7.34.155:2200/BR/ESPN_Brasil_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+ 
+#EXTINF: -1 tvg-id = "BAND SPORTS" tvg-name = "BAND SPORTS" tvg-logo = "https://imgur.com/QaZ2nxB.png" group-title = "ESPORTES", BAND SPORTS
+https://origin-02.nxplay.com.br/band_spor_139913_1_/tracks-v2a1/index.m3u8
+ 
+#EXTINF: -1 tvg-id = "FOX SPORTS" tvg-name = "FOX SPORTS" tvg-logo = "https://imgur.com/gORNXUG.png" group-title = "ESPORTES", FOX SPORTS
+http://50.7.34.155:2200/BR/Fox_Sports_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhullfnNlfHJofQ%3Dn%3D%3Fmd5
+ 
+#EXTINF: -1 tvg-id = "PREMIERE CLUBES" tvg-name = "PREMIERE CLUBES" tvg-logo = "https://imgur.com/rMBQXOV.png" group-title = "ESPORTES", PREMIERE CLUBES
+http://50.7.34.155:2200/BR/Premiere_Clubes_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3Dm%3D%3Full5
+ 
+#EXTINF:-1 group-title="ESPORTES", FLUMINENSE HD
 https://srv5.zcast.com.br/bmtv/bmtv/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Boxing HD (ENG)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
-
-#EXTINF:-1 group-title="ESPORTES", Canal 11 (PT)
-https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Channel Fight HD (ENG)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68
-
-#EXTINF:-1 group-title="ESPORTES", DeporTV HD (ESP)
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Dubai Sport HD (ARA)
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Dubai Sports 2 HD (ARA)
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Dubai Sports 3 HD (ARA)
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", EDGEsport (ENG)
-https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Eleven Sports HD (ENG)
-https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Eleven Sports 1 HD (ENG)
-https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
-
-#EXTINF:-1 group-title="ESPORTES", Eleven Sports 2 HD (ENG)
-https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
-
-#EXTINF:-1 group-title="ESPORTES", ESPN 2
-https://transcoder-itatiba-01.nxplay.com.br/ESPN_INT/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Fight Network (ENG)
-https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Fight TV HD (ENG)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
-
-#EXTINF:-1 group-title="ESPORTES", Fighting Spirit TV HD (ENG)
-https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Fish TV HD
-http://168.205.87.198:8555/live/123456/123456/62.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Fox Sports HD (ESP)
-https://lnc-fox-sports-espanol.tubi.video/index_4.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Fox Sports² HD (ESP)
-https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Fox Sports HD (ENG)
-http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Fuel TV HD
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d088516ea8000739076a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="ESPORTES", Fuel TV HD (ENG)
-https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Hard Knocks HD (ENG)
-https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Horizon Sports HD (ENG)
-https://horizonsports-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_6197d095934e486f077c20b4_horizonsports-live-1/c.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Insight TV HD (ENG)
-https://insight-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Introuble TV HD (ENG)
-https://introuble-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", KBP Sports HD (ENG)
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", MMA Junkie HD (ENG)
-https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", MMA TV HD (ENG)
-https://mmatv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61327d317542b31350435482_mmatv-live/a504c826-6950-4b5b-a518-171d9aef07ee/4.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", MotorRacing HD (ENG)
-https://motorracingchannel-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_6197d0c11c6c6042f12c5d32_motorracingchannel-live-1/c.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Motorvision HD
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Nitro TV HD
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Oman Sport HD (ARA)
-https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Red Bull TV HD (ENG)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Red Bull TV² HD (ENG)
-https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", RS News Sports HD
-https://alanza.iptv2022.com/RS_NEWS_SPORTS/tracks-v1a1/mono.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", RS News Sports 2 HD
-https://alanza.iptv2022.com/RS_NEWS_SPORTS2/tracks-v1a1/mono.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Sharjah Sports HD (ARA)
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Spartan TV HD (ENG)
-https://spartantv-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_618c22cb691f690b620235d2_spartantv-live-1/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", SportTV 2 (PT)
-https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
-
-#EXTINF:-1 group-title="ESPORTES", SportTV 3 (PT)
-https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV3_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
-
-#EXTINF:-1 group-title="ESPORTES", Sport 1 (UCR)
-https://95-213-224-183.livesports24.online/sport1ua.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Sport Russia (RUS)
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Stadium HD (ENG)
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", TYC Sports HD (ESP)
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", TNT Sports 1 HD
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?ROGERIOTORRES
@@ -478,55 +301,242 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8?ROGERIOTORRE
 #EXTINF:-1 group-title="ESPORTES", TNT Sports 5 HD
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESPORTES", TVS Classic Sports (ENG)
-http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8?ROGERIOTORRES
+#EXTINF:-1 tvg-name="PREMIERE 2" group-title="ESPORTES" tvg-logo="https://vjackson.info/live/logo?channel=22255",PREMIERE 2 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://77.247.109.86:8000/a/willene/live/22255.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ== 
+
+#EXTINF:-1 tvg-name="PREMIERE 2 HD" group-title="ESPORTES" tvg-logo="https://vjackson.info/live/logo?channel=22256",PREMIERE 2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://77.247.109.86:8000/a/willene/live/22256.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ== 
+
+#EXTINF:-1 tvg-name="PREMIERE 4" group-title="ESPORTES" tvg-logo="https://vjackson.info/live/logo?channel=22259",PREMIERE 4 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://77.247.109.86:8000/a/willene/live/22259.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ== 
+
+#EXTINF:-1 tvg-name="PREMIERE 5 HD" group-title="ESPORTES" tvg-logo="https://vjackson.info/live/logo?channel=22261",PREMIERE 5 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://77.247.109.86:8000/a/willene/live/22261.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ== 
+
+#EXTINF:-1 tvg-name="PREMIERE 6" group-title="ESPORTES" tvg-logo="https://vjackson.info/live/logo?channel=22262",PREMIERE 6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://77.247.109.86:8000/a/willene/live/22262.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ== 
+
+#EXTINF:-1 tvg-name="PREMIERE CLUBES" group-title="ESPORTES" tvg-logo="https://vjackson.info/live/logo?channel=22266",PREMIERE CLUBES 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://77.247.109.86:8000/a/willene/live/22266.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ== 
+
+#EXTINF:-1 tvg-name="PREMIERE CL HD" group-title="ESPORTES" tvg-logo="https://vjackson.info/live/logo?channel=22267",PREMIERE CLUBES HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://77.247.109.86:8000/a/willene/live/22267.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ== 
+
+#EXTINF:-1 tvg-name="PREMIERE FC 1 HD" group-title="ESPORTES" tvg-logo="https://vjackson.info/live/logo?channel=51021",PREMIERE FC 1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://77.247.109.86:8000/a/willene/live/51021.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ== 
+
+#EXTINF:-1 tvg-name="PREMIERE FC 3 HD" group-title="ESPORTES" tvg-logo="https://vjackson.info/live/logo?channel=51023",PREMIERE FC 3 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://77.247.109.86:8000/a/willene/live/51023.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ== 
+
+#EXTINF:-1 tvg-name="PREMIERE FC 5 HD" group-title="ESPORTES" tvg-logo="https://vjackson.info/live/logo?channel=51025",PREMIERE FC 5 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://77.247.109.86:8000/a/willene/live/51025.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ== 
+
+#EXTINF:-1 tvg-name="PREMIERE FC 6 HD" group-title="ESPORTES" tvg-logo="https://vjackson.info/live/logo?channel=51025,PREMIERE FC 6 HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://77.247.109.86:8000/a/willene/live/51026.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ==
+
+#EXTINF:-1 tvg-name="SPORT TV" group-title="ESPORTES" tvg-logo="https://vjackson.info/live/logo?channel=22282",SPORT TV 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://77.247.109.86:8000/a/willene/live/22282.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ==
+
+#EXTINF:-1 tvg-name="SPORT TV" group-title="ESPORTES" tvg-logo="https://vjackson.info/live/logo?channel=22282",SPORT TV HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://77.247.109.86:8000/a/willene/live/22287.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ==
+
+#EXTINF:-1 tvg-name="SPORTV HD (BACKUP) (6)" group-title="ESPORTES" tvg-logo="https://vjackson.info/live/logo?channel=50087",SPORTV FULL HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://77.247.109.86:8000/a/willene/live/50087.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ== 
+
+#EXTINF:-1 tvg-name="SPORT TV 2" group-title="ESPORTES" tvg-logo="https://vjackson.info/live/logo?channel=22283",SPORT TV 2 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://77.247.109.86:8000/a/willene/live/22283.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ==
+http://77.247.109.86:8000/a/willene/live/32502.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ==  
+
+#EXTINF:-1 tvg-name="SPORT TV 3" group-title="ESPORTES" tvg-logo="https://vjackson.info/live/logo?channel=22285",SPORT TV 3 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://77.247.109.86:8000/a/willene/live/22285.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ==
+
+#EXTINF:-1 tvg-name="SPORT TV3" group-title="ESPORTES" tvg-logo="https://vjackson.info/live/logo?channel=13441",SPORT TV 3 HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://77.247.109.86:8000/a/willene/live/13441.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ==
+
+
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="ESPORTES",SporTV SD
+http://tntmais.com:80/fernando1/fernando123/176
+
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="ESPORTES",SporTV FHD
+http://50.7.34.155:2200/BR/Sportv_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="ESPORTES",SporTV 2
+http://50.7.34.155:2200/BR/Sportv_2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title="ESPORTES",SporTV 3
+http://50.7.34.155:2200/BR/Sportv_3_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+
+
+#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://imgur.com/HIiZUQN.png" group-title="ESPORTES",Combate FHD
+http://50.7.34.155:2200/BR/Combate_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://imgur.com/1QaofaO.png" group-title="ESPORTES",ESPN SD
+https://transcoder-itatiba-01.nxplay.com.br/ESPN_BR/video.m3u8
+
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://imgur.com/1QaofaO.png" group-title="ESPORTES",ESPN HD
+http://50.7.34.155:2200/BR/ESPN_Brasil_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://imgur.com/fggtC7Y.png" group-title="ESPORTES",ESPN 2 SD
+https://transcoder-itatiba-01.nxplay.com.br/ESPN_INT/video.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://imgur.com/fggtC7Y.png" group-title="ESPORTES",ESPN 2 HD
+http://cdn.connectbr.com.br:80/ESPN/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="ESPORTES",ESPN 3
+http://50.7.34.155:2201/BR/ESPN2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="ESPORTES",ESPN 4
+http://50.7.34.155:2200/BR/Fox_Sports_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN EXTRA HD" tvg-logo="https://imgur.com/exEDct8.png" group-title="ESPORTES",ESPN EXTRA
+http://50.7.34.155:2201/BR/espnextra-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://imgur.com/QaZ2nxB.png" group-title="ESPORTES",Band Sports
+https://origin-02.nxplay.com.br/band_spor_139913_1_/tracks-v2a1/index.m3u8
+
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://imgur.com/QaZ2nxB.png" group-title="ESPORTES",Band Sports HD
+http://168.205.87.198:8555/live/1499/123456/176.m3u8
+
+#EXTINF:-1 tvg-id="OFF" tvg-logo="https://imgur.com/QPqeAcj.png" group-title="ESPORTES",OFF
+http://50.7.34.155:2201/BR/OFF_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-logo="https://imgur.com/NPCMbYc.png" group-title="ESPORTES",FOX SPORTS 2 
+http://50.7.34.155:2201/BR/Fox_Sports_2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-logo="https://imgur.com/rMBQXOV.png" group-title="ESPORTES",Premiere Clubes
+http://50.7.34.155:2200/BR/Premiere_Clubes_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/rSdruZe.png" group-title="ESPORTES",TNT SPORTS
+http://glxlmn026c.singularcdn.net.br/playout_01/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/rSdruZe.png" group-title="ESPORTES",TNT SPORTS 2
+http://glxlmn026c.singularcdn.net.br/playout_02/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/rSdruZe.png" group-title="ESPORTES",TNT SPORTS 3
+http://glxlmn026c.singularcdn.net.br/playout_03/playlist-480p.m3u8
+
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "http://image.hdawiyr1g.xyz/gateway/files/6b63cb53-5eac-4e46-863d-38b7e45fb521" código-pai = "" group-title = "ESPORTES", ​​Sport TV +
+http://api.magiaiptv.com/live/800261/138645/m3_UCWbpolpkgstvp_1080p
+
+
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "http://image.hdawiyr1g.xyz/gateway/files/1b5b32c4-6d50-4997-b9d6-7b7e4d158df9" parent-code = "" group-title = "ESPORTES", ​​Sport TV 1
+http://api.magiaiptv.com/live/800261/138645/m3_DFwhzUuzfistv1_1080p
+
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "http://image.hdawiyr1g.xyz/gateway/files/7709aba8-08b6-41d2-8052-4299fadb66b8" parent-code = "" group-title = "ESPORTES", ​​Sport TV 2
+http://api.magiaiptv.com/live/800261/138645/m3_FZukotDQWYstv2_1080p
+
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "http://image.hdawiyr1g.xyz/gateway/files/6ab4b1df-0245-43ce-abc6-525759e26f04" parent-code = "" group-title = "ESPORTES", ​​Sport TV 3
+http://api.magiaiptv.com/live/800261/138645/m3_eAb6FoNigKstv3_720p_2M
+
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "http://image.hdawiyr1g.xyz/gateway/files/782c5f24-521b-46a9-8a62-7713322dcbba" parent-code = "" group-title = "ESPORTES", ​​Sport TV 4
+http://api.magiaiptv.com/live/800261/138645/m3_eargH0Pv9qstv4_720p_2M
+
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "http://image.hdawiyr1g.xyz/gateway/files/ecc88d27-d185-48b1-992a-74e2f21c9909" pai-código = "" group-title = "ESPORTES", ​​Sport TV 5
+http://api.magiaiptv.com/live/800261/138645/m3_L4QIjJorwjstv5_1080p
+
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "http://image.hdawiyr1g.xyz/gateway/files/4e6e31aa-96bc-4ac1-a5bc-9796655e7c47" parent-code = "" group-title = "ESPORTES", ​​SporTV2 HD
+http://api.magiaiptv.com/live/800261/138645/m2_ylU0WsVR9po4ChFn7J3vkMxb_720p
+
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "http://image.hdawiyr1g.xyz/gateway/files/50152dee-46de-41b2-8e4d-b5b0418e8b4e" parent-code = "" group-title = "ESPORTES", ​​SporTV2 HD +
+http://api.magiaiptv.com/live/800261/138645/m2_ylU0WsVR9po4ChFn7J3vkMxb_720p_2M
+
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "http://image.hdawiyr1g.xyz/gateway/files/0f6c3be7-f8e0-48f1-bd57-9efa2930a184" parent-code = "" group-title = "ESPORTES", ​​SporTV2 UHD
+http://api.magiaiptv.com/live/800261/138645/m2_ylU0WsVR9po4ChFn7J3vkMxb_1080p
+
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "http://image.hdawiyr1g.xyz/gateway/files/6a7b6011-12c5-443b-8fba-8d3c35e0d7b8" parent-code = "" group-title = "ESPORTES", ​​SporTV3
+http://api.magiaiptv.com/live/800261/138645/m2_9DOg0PQW1aF8hTGrmHf6oqkV_720p
+
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "http://image.hdawiyr1g.xyz/gateway/files/8975ec12-9926-418c-8a45-d01715ae4bb3" parent-code = "" group-title = "ESPORTES", ​​SporTV3 HD +
+http://api.magiaiptv.com/live/800261/138645/m2_9DOg0PQW1aF8hTGrmHf6oqkV_720p_2M
+
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "http://image.hdawiyr1g.xyz/gateway/files/a5ffe3f9-224e-4705-a068-45970abd84fd" código-pai = "" group-title = "ESPORTES", ​​SporTV3 UHD
+http://api.magiaiptv.com/live/800261/138645/m1_vzd4MQvFCKUahymwGL_1080p
+
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "http://image.hdawiyr1g.xyz/gateway/files/95d4f8d5-dc92-4e14-8580-8e73da261c0e" parent-code = "" group-title = "ESPORTES", ​​SporTV HD
+http://api.magiaiptv.com/live/800261/138645/p2_AD5dvVfj6egLHxBwARO
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/d2a72655-a33c-4c59-b3e4-d8b3e15102f0" parent-code="" group-title="ESPORTES", SporTV HD+
+http://api.magiaiptv.com/live/800261/138645/p3_jUB9PDqLPI4ma3xxj
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/2f347b4a-1694-44f6-827d-ebd4d4c847df" parent-code="" group-title="ESPORTES", SporTV UHD
+http://api.magiaiptv.com/live/800261/138645/m1_welG1zUJ8o7XxE78c_1080p
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/311a22e0-02be-49f0-b21d-ec2323baaa05" parent-code="" group-title="ESPORTES", ST☆R+ 2 HD
+http://api.magiaiptv.com/live/800261/138645/m1_e8e0475e7548d3b1_720p
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/6a2330b3-8524-4639-af31-eea7bcee377e" parent-code="" group-title="ESPORTES", ST☆R+ 3 HD
+http://api.magiaiptv.com/live/800261/138645/m1_9b0bf85a96462778_720p
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/6da04136-e1b9-4450-b2e2-ef7562b6eee2" parent-code="" group-title="ESPORTES", ST☆R+ 4 HD
+http://api.magiaiptv.com/live/800261/138645/m2_ee92c0f83475cfae7c8_720p
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/7bb54630-d5d6-450e-997c-3ab0c78c31e3" parent-code="" group-title="FILMES E SÉRIES", ST☆R HD
+http://api.magiaiptv.com/live/800261/138645/m3_B7hFXSnaqw2EJk3Ic6pPyi5Y_720p
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/b33825da-8001-420d-ba49-1544395902fd" parent-code="" group-title="FILMES E SÉRIES", ST☆R HD+
+http://api.magiaiptv.com/live/800261/138645/m3_B7hFXSnaqw2EJk3Ic6pPyi5Y_720p_2M
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/421e96fc-dce3-4969-875b-2cc62c3ca0e2" parent-code="" group-title="FILMES E SÉRIES", ST☆R+ HD
+http://api.magiaiptv.com/live/800261/138645/m1_1cd2ba26a97dec106269_720p
+
+#EXTINF:-1 tvg-ID="15-361" tvg-name="SPORTV 1 HD BR" tvg-logo="http://ww.telegran.net/data/movie-new/SPORTV1HDBR.jpg" group-title="Brasil",SPORTV 1 HD BR
+http://23.237.78.179:7283/3b6bd237q0wi5fo15u7hxvh6a21jrx8hbiefrvysbn5fq22u0lttrfr43pgz876e5wl/index.m3u8?un=Magis11ene35&tm=1643041485&sn=DvPPLUhvQ0YVqPk6HThqDdTQXfp
+
+
+#EXTINF:-1 group-title="Brasil", ST☆R+ 1 HD BRA 🇧🇷
+http://api.magiaiptv.com/live/800196/128093/m1_1cd2ba26a97dec106269_720p
+
+#EXTINF:-1 group-title="Brasil", ST☆R+ 1 HD BRA 🇧🇷
+http://api.magiaiptv.com/live/800328/755275/m1_1cd2ba26a97dec106269_720p
+
+#EXTINF:-1 group-title="Brasil", ST☆R+ 2 HD BRA 🇧🇷
+http://api.magiaiptv.com/live/800196/128093/m1_e8e0475e7548d3b1_720p
+
+#EXTINF:-1 group-title="Brasil", ST☆R+ 2 HD BRA 🇧🇷
+http://api.magiaiptv.com/live/800328/755275/m1_e8e0475e7548d3b1_720p
+
+#EXTINF:-1 group-title="Brasil", ST☆R+ 3 HD BRA 🇧🇷
+http://api.magiaiptv.com/live/800196/128093/m1_9b0bf85a96462778_720p
+
+#EXTINF:-1 group-title="Brasil", ST☆R+ 3 HD BRA 🇧🇷
+http://api.magiaiptv.com/live/800328/755275/m1_9b0bf85a96462778_720p
+
+#EXTINF:-1 group-title="Brasil", ST☆R+ 4 HD BRA 🇧🇷
+http://api.magiaiptv.com/live/800196/128093/m2_ee92c0f83475cfae7c8_720p
+
+#EXTINF:-1 group-title="Brasil", ST☆R+ 4 HD BRA 🇧🇷
+http://api.magiaiptv.com/live/800328/755275/m2_ee92c0f83475cfae7c8_720p
 
 
 ##############################################
-###### ESTILO DE VIDA = 16 Canais ############
+###### ESTILO DE VIDA ############
 ##############################################
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", Arte 1 HD
 http://origin-02.nxplay.com.br/ARTE1_NX/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESTILO DE VIDA", Estilo De Vida HD
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f8841a4865da0007421177/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
- 
-#EXTINF:-1 group-title="ESTILO DE VIDA", Fashion TV HD
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESTILO DE VIDA", Fashion Box HD
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f516730b78b7600079294f5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
-
-#EXTINF:-1 group-title="ESTILO DE VIDA", Hollywire HD
-https://hollywire-samsung-3-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESTILO DE VIDA", Loupe Arte + Musica HD
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600b248969c6580007e91a2d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
-
 #EXTINF:-1 group-title="ESTILO DE VIDA", Master Chefe HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
-
-#EXTINF:-1 group-title="ESTILO DE VIDA", People Are Awesome HD
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515d080e738d000739e19c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
-
-#EXTINF:-1 group-title="ESTILO DE VIDA", Queens United TV HD
-https://cdn.connectbr.com.br/Queens/video.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESTILO DE VIDA", Tastemade HD
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 group-title="ESTILO DE VIDA", Tastemade² HD
-https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESTILO DE VIDA", U Miss HD
-https://video01.soultv.com.br/umiss/umiss/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESTILO DE VIDA", Weather Spy HD
-https://jukin-weatherspy-1.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESTILO DE VIDA", World Fashion Channel HD
-https://wfcint.mediacdn.ru/cdn/wfcint/playlist.m3u8?ROGERIOTORRES
 
 
 ##############################################
@@ -709,8 +719,56 @@ https://alanza.iptv2022.com/X_PLUS_TV/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 
+#EXTINF: -1 tvg-id = "" tvg-logo = "https://imgur.com/20R5CJg.png" group-title = "FILMES E SÉRIES", AÇÃO TC
+http://50.7.34.155:2201/BR/Telecine_Action_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3Dn%3D
+ 
+#EXTINF: -1 tvg-id = "" tvg-logo = "https://imgur.com/hImaCgw.png" group-title = "FILMES E SÉRIES", TC PIPOCA
+http://50.7.34.155:2201/BR/Telecine_Premium_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3Dm%3Dmull3D
+ 
+#EXTINF: -1 tvg-id = "TELECINE PREMIUM" tvg-name = "TELECINE PREMIUM" tvg-logo = "https://imgur.com/NJ3aQwU.png" group-title = "FILMES E SÉRIES", TC PREMIUM
+http://50.7.34.155:2201/BR/Telecine_Premium_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3Dm%3Dmull3D
+ 
+#EXTINF: -1 tvg-id = "TELECINE TOUCH" tvg-name = "TELECINE TOUCH" tvg-logo = "https://imgur.com/VG1NQyu.png" group-title = "FILMES E SÉRIES", TC TOUCH
+http://50.7.34.155:2201/BR/Telecine_Touch_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+ 
+
+#EXTINF: -1 tvg-id = "STAR HITS 1" tvg-name = "STAR HITS 1" tvg-logo = "https://imgur.com/iJ7v7ng.png" group-title = "FILMES E SÉRIES", STAR HITS 1
+http://50.7.34.155:2201/BR/Star_Hits_1_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fd5
+ 
+#EXTINF: -1 tvg-id = "STAR HITS 2" tvg-name = "STAR HITS 2" tvg-logo = "https://imgur.com/iMSrOmB.png" group-title = "FILMES E SÉRIES", STAR HITS 2
+http://50.7.34.155:2201/BR/Star_Hits_2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fd5
+ 
+#EXTINF: -1 tvg-id = "STAR LIFE" tvg-name = "STAR LIFE" tvg-logo = "https://imgur.com/HCs6aVX.png" group-title = "FILMES E SÉRIES", STAR LIFE
+http://50.7.34.155:2201/BR/Star_Life-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3Dnull3D%3Fmd5
+ 
+#EXTINF: -1 tvg-id = "FX" tvg-name = "FX" tvg-logo = "https://imgur.com/szGH75G.png" group-title = "FILMES E SÉRIES", FX
+http://50.7.34.155:2201/BR/FX_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhullfnNlfHJofQ%3Dn%3D%3Fmd5
+ 
+#EXTINF: -1 tvg-id = "CINEMAX" tvg-name = "CINEMAX" tvg-logo = "https://imgur.com/v3a4Afr.png" group-title = "FILMES E SÉRIES", CINEMAX
+http://50.7.34.155:2200/BR/Cinemax_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3Dn%3D%3Fmd5
+ 
+#EXTINF: -1 tvg-id = "HBO" tvg-name = "HBO" tvg-logo = "https://imgur.com/IKjcTJH.png" group-title = "FILMES E SÉRIES", HBO HD
+http://50.7.34.155:2200/BR/HBO_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3Dnull3D%3Fmd5
+ 
+#EXTINF: -1 tvg-id = "HBO FAMILY" tvg-name = "HBO FAMILY" tvg-logo = "https://imgur.com/2dINPFY.png" group-title = "FILMES E SÉRIES", HBO FAMILY
+http://50.7.34.155:2200/BR/HBO_Family_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fd5
+ 
+#EXTINF: -1 tvg-id = "HBO PLUS" tvg-name = "HBO PLUS" tvg-logo = "https://imgur.com/u5vGypD.png" group-title = "FILMES E SÉRIES", HBO PLUS
+http://50.7.34.155:2200/BR/HBO_Plus_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5
+ 
+#EXTINF: -1 tvg-id = "Studio Universal" tvg-name = "Studio Universal" tvg-logo = "https://imgur.com/hWKX1AN.png" group-title = "FILMES E SÉRIES", Studio Universal
+http://50.7.34.155:2201/BR/Studio_Universal_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3Dm%3D%3Fd5
+ 
+#EXTINF: -1 tvg-id = "Universal Channel" tvg-name = "Universal Channel" tvg-logo = "https://imgur.com/l97QVy2.png" group-title = "FILMES E SÉRIES", Canal Universal
+http://50.7.34.155:2201/BR/Universal_TV_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3Dm%3D%3Fd5
+ 
+#EXTINF: -1 tvg-id = "A&E" tvg-name = "A&E" tvg-logo = "https://cdn.freebiesupply.com/images/large/2x/ae-logo-black-and-white.png" group-title = "FILMES E SÉRIES", A&E
+http://50.7.34.155:2200/BR/MTV_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3Dnull3D%3Fmd5
+
+
+
 ######################################
-###### GEEK = 31 Canais ##############
+###### GEEK ##############
 ######################################
 
 
@@ -830,7 +888,7 @@ http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8?ROGERIOTORRES
 
 
 ######################################
-###### INFANTIL = 19 Canais ##########
+###### INFANTIL##########
 ######################################
 
 #EXTINF:-1 group-title="INFANTIL", Antiks Brasil HD
@@ -907,7 +965,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a694
 
 
 ######################################
-###### JORNALISMO = 20 Canais ########
+###### JORNALISMO ########
 ######################################
 
 #EXTINF:-1 group-title="JORNALISMO", Bloomberg TV (ENG)
@@ -975,9 +1033,6 @@ http://dcunilive36-lh.akamaihd.net/i/dclive_1@668002/master.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", TVI 24H (PT)
 https://video-auth2.iol.pt/live_edge/tvi24_abr/edge_servers/tvi24-480p/chunks.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="JORNALISMO", Yahoo! Finance Live (ENG)
-https://yahoo-plex.amagi.tv/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/1280x720_2890800/index.m3u8?ROGERIOTORRES
 
 
 ######################################
@@ -1175,7 +1230,7 @@ https://srv5.zcast.com.br/pedro3742/pedro3742/playlist.m3u8?ROGERIOTORRES
 
 
 ##############################################
-###### RELIGIOSO = 76 Canais ################
+###### RELIGIOSO  ################
 ##############################################
 
 #EXTINF:-1 group-title="RELIGIOSO", IMPD TV
@@ -1204,7 +1259,7 @@ https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u
 
 
 ##############################################
-###### VARIEDADES = 76 Canais ################
+###### VARIEDADES  ################
 ##############################################
 
 #EXTINF:-1 group-title="VARIEDADES", Aish TV Brasil HD
@@ -1451,16 +1506,73 @@ https://origin-02.nxplay.com.br/WOOHOO_NXPLAY/playlist.m3u8?ROGERIOTORRES
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8?ROGERIOTORRES
 
 
-######################################
-###### YOUTUBE KODI 16 ###############
-######################################
-# Estes canais só funcionam no KODI, tem que estar com o plugin do Youtube (para o KODI) instalado, assim como o plugin "IPTV Simple / PVR" também instalado e configurado.
+##############################################
+########### AGRO  #################
+##############################################
 
-#EXTINF:-1 group-title="YOUTUBE KODI", Rede Vida HD
-plugin://plugin.video.youtube/play/?video_id=o3w_u1oZf3Q
+#EXTINF:-1 group-title="AGRO", Agro Brasil TV
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="YOUTUBE KODI", TV Justiça HD
-plugin://plugin.video.youtube/play/?video_id=aFTesbPwc7I
+#EXTINF:-1 group-title="AGRO", Agro Brasil TV²
+https://origin-02.nxplay.com.br/AGROBRASIL_TV/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="YOUTUBE KODI", TV Senado HD
-plugin://plugin.video.youtube/play/?video_id=8DyvZAm_73E
+#EXTINF:-1 group-title="AGRO", Agro Brasil TV³
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="AGRO", Agro Mais
+https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="AGRO", Canal do Boi
+http://177.20.208.58:8000/play/a044/index.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="AGRO", Canal Rural
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="AGRO", Nova Tv Agrotour
+https://video01.kshost.com.br:4443/marcelo6682/marcelo6682/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="AGRO", Terra Viva
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="AGRO", TV Milagro Brasil
+https://srv5.zcast.com.br/tvmilagro/tvmilagro/playlist.m3u8?ROGERIOTORRES
+
+
+
+##############################################
+###### ANIME E TOKUSATSU ##########
+##############################################
+
+#EXTINF:-1 group-title="ANIME E TOKUSATSU", Anime HD
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 group-title="ANIME E TOKUSATSU", Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="ANIME E TOKUSATSU", Anime Ação HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="ANIME E TOKUSATSU", CONTV Anime (ENG)
+https://contvanime-plex-ingest.cinedigm.com/masterR1080p.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="ANIME E TOKUSATSU", Loading TV
+https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="ANIME E TOKUSATSU", Naruto HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 group-title="ANIME E TOKUSATSU", Tokusatsu HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+
+##############################################
+###### BBB ##########
+##############################################
+
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "http://image.hdawiyr1g.xyz/gateway/files/6f4bc37d-1221-4ca6-beab-9aab2defe12b" parent-code = "" group-title = "BBB", ​​BBB 1 HD
+http://api.magiaiptv.com/live/800261/138645/m1_jEFNwvhSJIGHIAc7A_720p
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="BBB",BBB 22 SD
+http://vipeiptv.com:8080/Lara123/Lara123/1006799
+
