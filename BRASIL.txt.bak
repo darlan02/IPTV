@@ -1929,6 +1929,29 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb
 
 
 
+#EXTINF:-1 group-title="BBB 22",BBB Cam 1
+http://ccdn.ai:80/J5yx1/679TQJtyy/146839.m3u8
+
+#EXTINF:-1 group-title="BBB 22",BBB Cam 2
+http://ccdn.ai:80/J5yx1/679TQJtyy/128603.m3u8
+
+#EXTINF:-1 group-title="BBB 22",BBB Cam 3
+http://ccdn.ai:80/J5yx1/679TQJtyy/128606.m3u8
+
+#EXTINF:-1 group-title="BBB 22",BBB Cam 4
+http://ccdn.ai:80/J5yx1/679TQJtyy/147416.m3u8
+
+#EXTINF:-1 group-title="BBB 22",BBB Cam 5
+http://ccdn.ai:80/J5yx1/679TQJtyy/147428.m3u8
+
+#EXTINF:-1 group-title="BBB 22",BBB Cam 6
+http://ccdn.ai:80/J5yx1/679TQJtyy/147204.m3u8
+
+#EXTINF:-1 group-title="BBB 22",BBB Mosaico
+http://ccdn.ai:80/J5yx1/679TQJtyy/147207.m3u8
+
+
+
 #############################
 ###### CANAIS 24 HORAS ######
 #############################
