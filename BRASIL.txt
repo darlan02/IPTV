@@ -497,34 +497,6 @@ http://api.magiaiptv.com/live/800261/138645/m3_B7hFXSnaqw2EJk3Ic6pPyi5Y_720p_2M
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/421e96fc-dce3-4969-875b-2cc62c3ca0e2" parent-code="" group-title="FILMES E SÉRIES", ST☆R+ HD
 http://api.magiaiptv.com/live/800261/138645/m1_1cd2ba26a97dec106269_720p
 
-#EXTINF:-1 tvg-ID="15-361" tvg-name="SPORTV 1 HD BR" tvg-logo="http://ww.telegran.net/data/movie-new/SPORTV1HDBR.jpg" group-title="Brasil",SPORTV 1 HD BR
-http://23.237.78.179:7283/3b6bd237q0wi5fo15u7hxvh6a21jrx8hbiefrvysbn5fq22u0lttrfr43pgz876e5wl/index.m3u8?un=Magis11ene35&tm=1643041485&sn=DvPPLUhvQ0YVqPk6HThqDdTQXfp
-
-
-#EXTINF:-1 group-title="Brasil", ST☆R+ 1 HD BRA 🇧🇷
-http://api.magiaiptv.com/live/800196/128093/m1_1cd2ba26a97dec106269_720p
-
-#EXTINF:-1 group-title="Brasil", ST☆R+ 1 HD BRA 🇧🇷
-http://api.magiaiptv.com/live/800328/755275/m1_1cd2ba26a97dec106269_720p
-
-#EXTINF:-1 group-title="Brasil", ST☆R+ 2 HD BRA 🇧🇷
-http://api.magiaiptv.com/live/800196/128093/m1_e8e0475e7548d3b1_720p
-
-#EXTINF:-1 group-title="Brasil", ST☆R+ 2 HD BRA 🇧🇷
-http://api.magiaiptv.com/live/800328/755275/m1_e8e0475e7548d3b1_720p
-
-#EXTINF:-1 group-title="Brasil", ST☆R+ 3 HD BRA 🇧🇷
-http://api.magiaiptv.com/live/800196/128093/m1_9b0bf85a96462778_720p
-
-#EXTINF:-1 group-title="Brasil", ST☆R+ 3 HD BRA 🇧🇷
-http://api.magiaiptv.com/live/800328/755275/m1_9b0bf85a96462778_720p
-
-#EXTINF:-1 group-title="Brasil", ST☆R+ 4 HD BRA 🇧🇷
-http://api.magiaiptv.com/live/800196/128093/m2_ee92c0f83475cfae7c8_720p
-
-#EXTINF:-1 group-title="Brasil", ST☆R+ 4 HD BRA 🇧🇷
-http://api.magiaiptv.com/live/800328/755275/m2_ee92c0f83475cfae7c8_720p
-
 
 ##############################################
 ###### ESTILO DE VIDA ############
@@ -1952,5 +1924,11 @@ http://ccdn.ai:80/J5yx1/679TQJtyy/147207.m3u8
 ###### FILMES ######
 #############################
 
-#EXTINF:-1 group-title="FILMES" tvg-logo="https://www.themoviedb.org/t/p/original/87CxLup9TTa8JLBB0bI43puTR2f.jpg", MATAR OU CAIR
-https://www1114.ff-03.com/token=0tJZGun1jYGtPyMIIVatMA/1643854837/170.231.0.0/117/1/c6/365d9b513d76a468a9cf7859ac1dac61-480p.mp4
+
+
+#EXTINF:-1 group-title="FILMES", 5° ONDA
+http://bit.ly/2R7bsbG
+
+#EXTINF:-1 group-title="FILMES", A ÁGUIA POUSOU
+http://bit.ly/2c9BCqv
+
