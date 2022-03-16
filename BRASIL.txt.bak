@@ -5,29 +5,14 @@
 ######        CANAIS ABERTOS     ############
 ##############################################
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Globo HD
-http://200.4.97.162:8000/play/a01t/index.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="CANAIS ABERTOS", ​​BAND HD
+http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD
-https://5a1c76baf08c0.streamlock.net/sbtinterior/w9BWYztYdR2Ng/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", Band HD (SP)
-https://stream-02.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2t65NJ5oE3A_43vOx8P3SHU)/dm/3/x80o7x4/d/live-4.m3u8#cell=lnyc
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", ​​BAND HD
-http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", RECORD SP 
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-b.m3u8
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", ​​BAND HD
-http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/chunklist.m3u8?ROGERIOTORRES
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Canal Saude
 http://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", Cultura HD (SP)
-http://origin-02.nxplay.com.br/TV_CULTURA_HD_PFZ1/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Cultura - CATVE HD (PR)
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ROGERIOTORRES
@@ -50,9 +35,6 @@ https://59e4b6c1beddc.streamlock.net/tvgazeta/tvgazeta/playlist.m3u8?ROGERIOTORR
 #EXTINF:-1 group-title="CANAIS ABERTOS", Multi Cultura HD
 http://origin-02.nxplay.com.br/MULTICULTURA_PFZ/video.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD (SP)
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?sd=10&rebase=on
-
 #EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD (RJ)
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8?ROGERIOTORRES
 
@@ -71,9 +53,6 @@ https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8?ROG
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV (SP)
 http://177.20.208.58:8000/play/a03p/index.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV (ES)
-https://hls.brasilstream.com.br/live/redetv/redetv/index.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV (RS) 
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8?ROGERIOTORRES
 
@@ -83,20 +62,11 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?ROGER
 #EXTINF: -1 group-title = "CANAIS ABERTOS", SBT 
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", SBT Interior HD (SP)
-https://5a1c76baf08c0.streamlock.net/sbtinterior/w9BWYztYdR2Ng/chunklist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (AM)
 https://livefocamundo.com:8081/tvguajaraonline2/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (MT)
-http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (PI)
 http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (PR)
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", SESC TV HD
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index1080p.m3u8?ROGERIOTORRES
@@ -115,12 +85,6 @@ http://streaming.almg.gov.br:80/live/tvalmg.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Assembleia HD (CE)
 http://srv6.zoeweb.tv:1935/z404-live/stream/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil HD
-https://6fa56255cc1a8b78f6dcfc6941498a9a.livehwc3.cn/streaming.ebc.com.br/live/ebcplay.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=83344491daa3224ca64b05a33fb69459
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil 2 HD
-http://origin-02.nxplay.com.br/TV_BRASIL_2/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Camera HD
 https://stream3.camara.gov.br/tv1/manifest.m3u8?ROGERIOTORRES
@@ -1928,3 +1892,6 @@ http://ccdn.ai:80/J5yx1/679TQJtyy/147204.m3u8
 http://ccdn.ai:80/J5yx1/679TQJtyy/147207.m3u8
 
 
+
+
+https://raw.githubusercontent.com/cleber15/cleber/main/Cleb%C3%A3o

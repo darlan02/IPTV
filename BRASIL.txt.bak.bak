@@ -248,6 +248,14 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8?ROGERIOTORRES
 ###### ESPORTES  ##################
 ##############################################
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMGvoeSTX_4zC7OU-mANBBZA9yZnuDzupikQ&usqp=CAU" group-title="ESPORTES",CARIOCÃO
+http://tv.meuserver.me:8080/665473/998445/337439
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMGvoeSTX_4zC7OU-mANBBZA9yZnuDzupikQ&usqp=CAU" group-title="ESPORTES",CARIOCÃO 2
+http://main.webhostingtoto.xyz:2095/NEW_LIVE3408907768/3649014945/987
+
+
 #EXTINF:-1 group-title="ESPORTES", All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?ROGERIOTORRES
 
@@ -1919,16 +1927,4 @@ http://ccdn.ai:80/J5yx1/679TQJtyy/147204.m3u8
 #EXTINF:-1 group-title="BBB",BBB Mosaico
 http://ccdn.ai:80/J5yx1/679TQJtyy/147207.m3u8
 
-
-#############################
-###### FILMES ######
-#############################
-
-
-
-#EXTINF:-1 group-title="FILMES", 5° ONDA
-http://bit.ly/2R7bsbG
-
-#EXTINF:-1 group-title="FILMES", A ÁGUIA POUSOU
-http://bit.ly/2c9BCqv
 
