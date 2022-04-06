@@ -383,10 +383,29 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8?ROGERIOTORRES
 ###### ESPORTES  ##################
 ##############################################
 
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 1 HD" tvg-logo="http://srv.maxptv.net:8080/images/9dce6cb9c19c0c99d595e81204256043.png" group-title="Canais I CAMPEONATOS ESTADUAIS 2022",Campeonato Carioca 1 HD
-http://51.89.98.62:8080/vitorhugo/123456/51087
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 1 SD" tvg-logo="http://srv.maxptv.net:8080/images/9dce6cb9c19c0c99d595e81204256043.png" group-title="Canais I CAMPEONATOS ESTADUAIS 2022",Campeonato Carioca 1 SD
-http://51.89.98.62:8080/vitorhugo/123456/51088
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b053ea85-84dd-44d7-9c17-5b3a4ed0b2eb" parent-code="" group-title="NooXTV", Conmebol TV 1 HD
+http://api.magiaiptv.com/live/800364/107211/m2_xrNh5O0VIHWdGhbT5J_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/6ce2d120-3713-4f65-9db4-6795fe06c4f0" parent-code="" group-title="NooXTV", Conmebol TV 2 HD
+http://api.magiaiptv.com/live/800364/107211/m3_GY9pO8alp1jpZl8lcIcqH_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/59d4dd97-6da2-479e-b03a-ec2d3f733dd3" parent-code="" group-title="NooXTV", Conmebol TV 3 HD
+http://api.magiaiptv.com/live/800364/107211/m1_6ciY4GBUyDczLxioSo_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/15eba37f-342b-42b8-87a3-f6b9f6b8dc98" parent-code="" group-title="NooXTV", Conmebol TV 4 HD
+http://api.magiaiptv.com/live/800364/107211/m1_bLyQSHesKIXQoFVH_720p
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b053ea85-84dd-44d7-9c17-5b3a4ed0b2eb" parent-code="" group-title="NooXTV", Conmebol TV 1 HD
+http://api.magiaiptv.com/live/800364/107211/m2_xrNh5O0VIHWdGhbT5J_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/6ce2d120-3713-4f65-9db4-6795fe06c4f0" parent-code="" group-title="NooXTV", Conmebol TV 2 HD
+http://api.magiaiptv.com/live/800364/107211/m3_GY9pO8alp1jpZl8lcIcqH_720p
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b053ea85-84dd-44d7-9c17-5b3a4ed0b2eb" parent-code="" group-title="NooXTV", Conmebol TV 1 HD
+http://api.magiaiptv.com/live/800364/107211/m2_xrNh5O0VIHWdGhbT5J_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/6ce2d120-3713-4f65-9db4-6795fe06c4f0" parent-code="" group-title="NooXTV", Conmebol TV 2 HD
+http://api.magiaiptv.com/live/800364/107211/m3_GY9pO8alp1jpZl8lcIcqH_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/59d4dd97-6da2-479e-b03a-ec2d3f733dd3" parent-code="" group-title="NooXTV", Conmebol TV 3 HD
+http://api.magiaiptv.com/live/800364/107211/m1_6ciY4GBUyDczLxioSo_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/15eba37f-342b-42b8-87a3-f6b9f6b8dc98" parent-code="" group-title="NooXTV", Conmebol TV 4 HD
+http://api.magiaiptv.com/live/800364/107211/m1_bLyQSHesKIXQoFVH_720p
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMGvoeSTX_4zC7OU-mANBBZA9yZnuDzupikQ&usqp=CAU" group-title="ESPORTES",CARIOCÃO
 http://tv.meuserver.me:8080/665473/998445/337439
