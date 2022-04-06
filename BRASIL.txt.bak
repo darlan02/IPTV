@@ -811,6 +811,10 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8?ROGERIOTORRES
 ###### ESPORTES  ##################
 ##############################################
 
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 1 HD" tvg-logo="http://srv.maxptv.net:8080/images/9dce6cb9c19c0c99d595e81204256043.png" group-title="Canais I CAMPEONATOS ESTADUAIS 2022",Campeonato Carioca 1 HD
+http://51.89.98.62:8080/vitorhugo/123456/51087
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 1 SD" tvg-logo="http://srv.maxptv.net:8080/images/9dce6cb9c19c0c99d595e81204256043.png" group-title="Canais I CAMPEONATOS ESTADUAIS 2022",Campeonato Carioca 1 SD
+http://51.89.98.62:8080/vitorhugo/123456/51088
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMGvoeSTX_4zC7OU-mANBBZA9yZnuDzupikQ&usqp=CAU" group-title="ESPORTES",CARIOCÃO
 http://tv.meuserver.me:8080/665473/998445/337439
