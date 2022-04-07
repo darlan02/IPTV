@@ -5,9 +5,6 @@
 ######        CANAIS ABERTOS     ############
 ##############################################
 
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="CANAIS ABERTOS",Globo RJ HD
-http://b5.vc:80/danilo10/10danilo/131163.m3u8
-
 #EXTINF:-1 group-title="CANAIS ABERTOS", ​​BAND HD
 http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/chunklist.m3u8?ROGERIOTORRES
 
@@ -221,151 +218,6 @@ http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8?ROGERIOTORRES
 ###### DOCUMENTARIOS #############
 ##############################################
 
-#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="DOCUMENTARIOS",Discovery Channel 4K FHDR
-http://b5.vc:80/danilo10/10danilo/71864.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="DOCUMENTARIOS",Discovery Channel FHD
-http://b5.vc:80/danilo10/10danilo/71862.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="DOCUMENTARIOS",Discovery Channel HD
-http://b5.vc:80/danilo10/10danilo/71865.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="DOCUMENTARIOS",Discovery Channel SD
-http://b5.vc:80/danilo10/10danilo/71866.m3u8
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="DOCUMENTARIOS",Animal Planet 4K FHDR
-http://b5.vc:80/danilo10/10danilo/71774.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="DOCUMENTARIOS",Animal Planet FHD
-http://b5.vc:80/danilo10/10danilo/71772.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="DOCUMENTARIOS",Animal Planet HD
-http://b5.vc:80/danilo10/10danilo/71775.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="DOCUMENTARIOS",Animal Planet SD
-http://b5.vc:80/danilo10/10danilo/71776.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="DOCUMENTARIOS",Arte 1 FHD [H265]
-http://b5.vc:80/danilo10/10danilo/71778.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="DOCUMENTARIOS",Arte 1 4K FHDR
-http://b5.vc:80/danilo10/10danilo/103531.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="DOCUMENTARIOS",Arte 1 FHD
-http://b5.vc:80/danilo10/10danilo/71777.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="DOCUMENTARIOS",Arte 1 HD
-http://b5.vc:80/danilo10/10danilo/71779.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="DOCUMENTARIOS",Arte 1 SD
-http://b5.vc:80/danilo10/10danilo/71780.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="DOCUMENTARIOS",Discovery Science FHD [H265]
-http://b5.vc:80/danilo10/10danilo/71876.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="DOCUMENTARIOS",Discovery Science 4K FHDR
-http://b5.vc:80/danilo10/10danilo/103511.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="DOCUMENTARIOS",Discovery Science FHD
-http://b5.vc:80/danilo10/10danilo/71875.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="DOCUMENTARIOS",Discovery Science HD
-http://b5.vc:80/danilo10/10danilo/71877.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="DOCUMENTARIOS",Discovery Science SD
-http://b5.vc:80/danilo10/10danilo/71878.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="DOCUMENTARIOS",Discovery Theater FHD [H265]
-http://b5.vc:80/danilo10/10danilo/71880.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="DOCUMENTARIOS",Discovery Theater 4K FHDR
-http://b5.vc:80/danilo10/10danilo/103510.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="DOCUMENTARIOS",Discovery Theater FHD
-http://b5.vc:80/danilo10/10danilo/71879.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="DOCUMENTARIOS",Discovery Theater HD
-http://b5.vc:80/danilo10/10danilo/71881.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="DOCUMENTARIOS",Discovery Theater SD
-http://b5.vc:80/danilo10/10danilo/71882.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="DOCUMENTARIOS",Discovery Turbo FHD [H265]
-http://b5.vc:80/danilo10/10danilo/71884.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="DOCUMENTARIOS",Discovery Turbo 4K FHDR
-http://b5.vc:80/danilo10/10danilo/90641.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="DOCUMENTARIOS",Discovery Turbo FHD
-http://b5.vc:80/danilo10/10danilo/71883.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="DOCUMENTARIOS",Discovery Turbo HD
-http://b5.vc:80/danilo10/10danilo/71885.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="DOCUMENTARIOS",Discovery Turbo SD
-http://b5.vc:80/danilo10/10danilo/71886.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="DOCUMENTARIOS",Discovery World FHD [H265]
-http://b5.vc:80/danilo10/10danilo/71888.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="DOCUMENTARIOS",Discovery World 4K FHDR
-http://b5.vc:80/danilo10/10danilo/103509.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="DOCUMENTARIOS",Discovery World FHD
-http://b5.vc:80/danilo10/10danilo/71887.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="DOCUMENTARIOS",Discovery World HD
-http://b5.vc:80/danilo10/10danilo/71889.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="DOCUMENTARIOS",Discovery World SD
-http://b5.vc:80/danilo10/10danilo/71890.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="DOCUMENTARIOS",H2 FHD [H265]
-http://b5.vc:80/danilo10/10danilo/72107.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="DOCUMENTARIOS",H2 4K FHDR
-http://b5.vc:80/danilo10/10danilo/90245.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="DOCUMENTARIOS",H2 FHD
-http://b5.vc:80/danilo10/10danilo/72106.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="DOCUMENTARIOS",H2 HD
-http://b5.vc:80/danilo10/10danilo/72108.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="DOCUMENTARIOS",H2 SD
-http://b5.vc:80/danilo10/10danilo/72109.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://a5.vc/nug" group-title="DOCUMENTARIOS",HGTV FHD [H265]
-http://b5.vc:80/danilo10/10danilo/72143.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/nug" group-title="DOCUMENTARIOS",HGTV 4K FHDR
-http://b5.vc:80/danilo10/10danilo/103493.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/nug" group-title="DOCUMENTARIOS",HGTV FHD
-http://b5.vc:80/danilo10/10danilo/72142.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/nug" group-title="DOCUMENTARIOS",HGTV HD
-http://b5.vc:80/danilo10/10danilo/72144.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/nug" group-title="DOCUMENTARIOS",HGTV SD
-http://b5.vc:80/danilo10/10danilo/72145.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="DOCUMENTARIOS",History FHD [H265]
-http://b5.vc:80/danilo10/10danilo/72147.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="DOCUMENTARIOS",History 4K FHDR
-http://b5.vc:80/danilo10/10danilo/90244.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="DOCUMENTARIOS",History FHD
-http://b5.vc:80/danilo10/10danilo/72146.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="DOCUMENTARIOS",History HD
-http://b5.vc:80/danilo10/10danilo/72148.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="DOCUMENTARIOS",History SD
-http://b5.vc:80/danilo10/10danilo/72149.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="DOCUMENTARIOS",ID FHD [H265]
-http://b5.vc:80/danilo10/10danilo/72151.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="DOCUMENTARIOS",ID 4K FHDR
-http://b5.vc:80/danilo10/10danilo/90243.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="DOCUMENTARIOS",ID FHD
-http://b5.vc:80/danilo10/10danilo/72150.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="DOCUMENTARIOS",ID HD
-http://b5.vc:80/danilo10/10danilo/72152.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="DOCUMENTARIOS",ID SD
-http://b5.vc:80/danilo10/10danilo/72153.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="DOCUMENTARIOS",Nat Geo Wild FHD [H265]
-http://b5.vc:80/danilo10/10danilo/72193.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="DOCUMENTARIOS",Nat Geo Wild 4K FHDR
-http://b5.vc:80/danilo10/10danilo/90242.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="DOCUMENTARIOS",Nat Geo Wild FHD
-http://b5.vc:80/danilo10/10danilo/72192.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="DOCUMENTARIOS",Nat Geo Wild HD
-http://b5.vc:80/danilo10/10danilo/72194.m3u8
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/natgeokids.png" group-title="DOCUMENTARIOS",Nat Geo Wild SD
-http://b5.vc:80/danilo10/10danilo/72195.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="DOCUMENTARIOS",National Geographic FHD [H265]
-http://b5.vc:80/danilo10/10danilo/72197.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="DOCUMENTARIOS",National Geographic 4K FHDR
-http://b5.vc:80/danilo10/10danilo/72198.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="DOCUMENTARIOS",National Geographic FHD
-http://b5.vc:80/danilo10/10danilo/72196.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="DOCUMENTARIOS",National Geographic HD
-http://b5.vc:80/danilo10/10danilo/72199.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="DOCUMENTARIOS",National Geographic SD
-
-
-#EXTINF:-1 tvg-logo="http://ccdn.so:80/images/a34029a486c85185ec68bcc24872f728.png" group-title="DOCUMENTARIOS",TruTV FHD
-http://b5.vc:80/danilo10/10danilo/76668.m3u8
-#EXTINF:-1 tvg-logo="http://ccdn.so:80/images/a34029a486c85185ec68bcc24872f728.png" group-title="DOCUMENTARIOS",TruTV HD
-http://b5.vc:80/danilo10/10danilo/76669.m3u8
-#EXTINF:-1 tvg-logo="http://ccdn.so:80/images/a34029a486c85185ec68bcc24872f728.png" group-title="DOCUMENTARIOS",TruTV SD
-http://b5.vc:80/danilo10/10danilo/76670.m3u8
-
 #EXTINF:-1 group-title="DOCUMENTARIOS", Love Nature HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
@@ -383,35 +235,28 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8?ROGERIOTORRES
 ###### ESPORTES  ##################
 ##############################################
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b053ea85-84dd-44d7-9c17-5b3a4ed0b2eb" parent-code="" group-title="NooXTV", Conmebol TV 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b053ea85-84dd-44d7-9c17-5b3a4ed0b2eb" parent-code="" group-title="ESPORTES", Conmebol TV 1 HD
 http://api.magiaiptv.com/live/800364/107211/m2_xrNh5O0VIHWdGhbT5J_720p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/6ce2d120-3713-4f65-9db4-6795fe06c4f0" parent-code="" group-title="NooXTV", Conmebol TV 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/6ce2d120-3713-4f65-9db4-6795fe06c4f0" parent-code="" group-title="ESPORTES", Conmebol TV 2 HD
 http://api.magiaiptv.com/live/800364/107211/m3_GY9pO8alp1jpZl8lcIcqH_720p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/59d4dd97-6da2-479e-b03a-ec2d3f733dd3" parent-code="" group-title="NooXTV", Conmebol TV 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/59d4dd97-6da2-479e-b03a-ec2d3f733dd3" parent-code="" group-title="ESPORTES", Conmebol TV 3 HD
 http://api.magiaiptv.com/live/800364/107211/m1_6ciY4GBUyDczLxioSo_720p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/15eba37f-342b-42b8-87a3-f6b9f6b8dc98" parent-code="" group-title="NooXTV", Conmebol TV 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/15eba37f-342b-42b8-87a3-f6b9f6b8dc98" parent-code="" group-title="ESPORTES", Conmebol TV 4 HD
 http://api.magiaiptv.com/live/800364/107211/m1_bLyQSHesKIXQoFVH_720p
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b053ea85-84dd-44d7-9c17-5b3a4ed0b2eb" parent-code="" group-title="NooXTV", Conmebol TV 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b053ea85-84dd-44d7-9c17-5b3a4ed0b2eb" parent-code="" group-title="ESPORTES", Conmebol TV 1 HD
 http://api.magiaiptv.com/live/800364/107211/m2_xrNh5O0VIHWdGhbT5J_720p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/6ce2d120-3713-4f65-9db4-6795fe06c4f0" parent-code="" group-title="NooXTV", Conmebol TV 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/6ce2d120-3713-4f65-9db4-6795fe06c4f0" parent-code="" group-title="ESPORTES", Conmebol TV 2 HD
 http://api.magiaiptv.com/live/800364/107211/m3_GY9pO8alp1jpZl8lcIcqH_720p
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b053ea85-84dd-44d7-9c17-5b3a4ed0b2eb" parent-code="" group-title="NooXTV", Conmebol TV 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b053ea85-84dd-44d7-9c17-5b3a4ed0b2eb" parent-code="" group-title="ESPORTES", Conmebol TV 1 HD
 http://api.magiaiptv.com/live/800364/107211/m2_xrNh5O0VIHWdGhbT5J_720p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/6ce2d120-3713-4f65-9db4-6795fe06c4f0" parent-code="" group-title="NooXTV", Conmebol TV 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/6ce2d120-3713-4f65-9db4-6795fe06c4f0" parent-code="" group-title="ESPORTES", Conmebol TV 2 HD
 http://api.magiaiptv.com/live/800364/107211/m3_GY9pO8alp1jpZl8lcIcqH_720p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/59d4dd97-6da2-479e-b03a-ec2d3f733dd3" parent-code="" group-title="NooXTV", Conmebol TV 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/59d4dd97-6da2-479e-b03a-ec2d3f733dd3" parent-code="" group-title="ESPORTES", Conmebol TV 3 HD
 http://api.magiaiptv.com/live/800364/107211/m1_6ciY4GBUyDczLxioSo_720p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/15eba37f-342b-42b8-87a3-f6b9f6b8dc98" parent-code="" group-title="NooXTV", Conmebol TV 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/15eba37f-342b-42b8-87a3-f6b9f6b8dc98" parent-code="" group-title="ESPORTES", Conmebol TV 4 HD
 http://api.magiaiptv.com/live/800364/107211/m1_bLyQSHesKIXQoFVH_720p
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMGvoeSTX_4zC7OU-mANBBZA9yZnuDzupikQ&usqp=CAU" group-title="ESPORTES",CARIOCÃO
-http://tv.meuserver.me:8080/665473/998445/337439
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMGvoeSTX_4zC7OU-mANBBZA9yZnuDzupikQ&usqp=CAU" group-title="ESPORTES",CARIOCÃO 2
-http://main.webhostingtoto.xyz:2095/NEW_LIVE3408907768/3649014945/987
 
 
 #EXTINF:-1 group-title="ESPORTES", All Sports
@@ -1908,188 +1753,6 @@ http://dnslist.ca:80/13833180/50169992/43605
 #############################
 ###### CANAIS 24 HORAS ######
 #############################
-
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",A Grande Familia
-http://dnslist.ca:80/13833180/50169992/43413
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",A Pantera Cor de Rosa
-http://ccdn.ai:80/J5yx1/679TQJtyy/135537.m3u8
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",ALF - O ETeimoso
-http://dnslist.ca:80/13833180/50169992/47465
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Bake Off Brasil - Celebridades
-http://ccdn.ai:80/J5yx1/679TQJtyy/138017.m3u8
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",BBB 22
-http://187.94.148.10:8092/play/a03l/index.m3u8
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Chaves & Chapolin
-http://168.205.87.198:8555/live/adriana/123456/159.m3u8
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Comedy Central
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Dois Homens e Meio
-http://dnslist.ca:80/13833180/50169992/43372
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Drake e Josh
-http://ccdn.ai:80/J5yx1/679TQJtyy/137622.m3u8
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Escolinha do Professor Raimundo
-http://ccdn.ai:80/J5yx1/679TQJtyy/137611.m3u8
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Estilo de Vida
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f8841a4865da0007421177/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Fail Army
-https://failarmy-linear.sinclair.wurl.com/manifest/3000.m3u8
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Familia Dinossauro
-http://dnslist.ca:80/13833180/50169992/37992
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Fashionstream
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f516730b78b7600079294f5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",He-Man
-http://dnslist.ca:80/13833180/50169992/38040
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Irmao do Jorel
-http://ccdn.ai:80/J5yx1/679TQJtyy/135567.m3u8
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Irmaos a Obra
-http://ccdn.ai:80/J5yx1/679TQJtyy/140782.m3u8
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Jeannie e um Genio
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Jovem Pan
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Kenan & Kel
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Lady Night
-http://dnslist.ca:80/13833180/50169992/77562
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",MasterChef
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Minha Obsessao Favorita
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61843f5e491af10007f7eefa/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Misterios TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Mr. Bean
-http://dnslist.ca:80/13833180/50169992/21664
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Nashville
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgate-nashville-bpo-samsungbr/playlist.m3u8
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",O Encantador de Caes
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Os Roni
-http://ccdn.ai:80/J5yx1/679TQJtyy/138964.m3u8
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Os Simpsons
-http://dnslist.ca:80/13833180/50169992/20130
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Panico na TV
-http://dnslist.ca:80/13833180/50169992/43384
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Pegadinhas
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65b02980-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca421eb5-e83c-4e34-97f4-f9566ee8dada&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",People are Awesome
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515d080e738d000739e19c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Pesadelo Na Cozinha
-http://dnslist.ca:80/13833180/50169992/77720
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Porta dos Fundos
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Silvio Santos
-http://dnslist.ca:80/13833180/50169992/43388
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Sobrenatural
-http://dnslist.ca:80/13833180/50169992/20435
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",South Park
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Ta Puxado
-http://ccdn.ai:80/J5yx1/679TQJtyy/140756.m3u8
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",The Pet Collective
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",ThunderCats
-http://dnslist.ca:80/13833180/50169992/38074
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Todo Mundo Odeia O Chris
-http://dnslist.ca:80/13833180/50169992/15811
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Toma La Da Ca
-http://ccdn.ai:80/J5yx1/679TQJtyy/138938.m3u8
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",TV Comedia
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",UltraMan
-http://dnslist.ca:80/13833180/50169992/38076
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Um Maluco No Pedaco
-http://dnslist.ca:80/13833180/50169992/18823
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Vai Que Cola
-http://dnslist.ca:80/13833180/50169992/47748
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Voce Na TV
-http://dnslist.ca:80/13833180/50169992/43391
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Voce Sabia?
-http://dnslist.ca:80/13833180/50169992/43392
-
-#EXTINF:-1 group-title="CANAIS 24 HORAS",Younger
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
-
-#############################
-###### BBB ######
-#############################
-
-
-#EXTINF:-1 group-title="BBB",BBB Cam 1
-http://ccdn.ai:80/J5yx1/679TQJtyy/146839.m3u8
-
-#EXTINF:-1 group-title="BBB",BBB Cam 2
-http://ccdn.ai:80/J5yx1/679TQJtyy/128603.m3u8
-
-#EXTINF:-1 group-title="BBB",BBB Cam 3
-http://ccdn.ai:80/J5yx1/679TQJtyy/128606.m3u8
-
-#EXTINF:-1 group-title="BBB",BBB Cam 4
-http://ccdn.ai:80/J5yx1/679TQJtyy/147416.m3u8
-
-#EXTINF:-1 group-title="BBB",BBB Cam 5
-http://ccdn.ai:80/J5yx1/679TQJtyy/147428.m3u8
-
-#EXTINF:-1 group-title="BBB",BBB Cam 6
-http://ccdn.ai:80/J5yx1/679TQJtyy/147204.m3u8
-
-#EXTINF:-1 group-title="BBB",BBB Mosaico
-http://ccdn.ai:80/J5yx1/679TQJtyy/147207.m3u8
-
-
-
-
-
-
 
 
 
