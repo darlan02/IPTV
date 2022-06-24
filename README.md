@@ -1,2 +1,0 @@
-# IPTV
- CANAIS BRASIL
