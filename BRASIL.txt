@@ -5,25 +5,20 @@
 ######        CANAIS ABERTOS     ############
 ##############################################
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" parent-code="" group-title="CANAIS ABERTOS", GLOBO RJ HD+
+http://api.magiaiptv.com/live/800364/107211/m2_kzeKgKsjyTCBUMl4_720p_2M
 
-
-#EXTINF:-1 tvg-id="GLOBO" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="CANAIS ABERTOS",Globo RS HD
-https://live-as-03-24.video.globo.com/h/0401656100995657248174216560145952748080663k3aIfweh5P_tqyQFPp6JAw/k/html5/a/F/u/2ff3a604-270c-4b2c-9a87-e272aef2b538/nu/globo-sp1/globo-sp1-audio_1=96000-video=2262976.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/12b3d817-e8b2-4233-8216-4d23973ce6cb" parent-code="" group-title="CANAIS ABERTOS", BAND HDTV
+http://api.magiaiptv.com/live/800364/107211/m3_3zFNpotNh0Q0iR_720p
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="CANAIS ABERTOS",SBT
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BAND" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="CANAIS ABERTOS",BAND
-https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d418f422-3ba5-4736-abba-8a79d9a9362c" parent-code="" group-title="CANAIS ABERTOS", Record HD
+http://api.magiaiptv.com/live/800364/107211/m1_TDMwn2WGBHS0CUpsbzhNfuo5_720p
 
-#EXTINF:-1 tvg-id="BAND" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="CANAIS ABERTOS",BAND
-https://evpp.mm.uol.com.br/geob_band/app/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RECORD" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="CANAIS ABERTOS",RECORD
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
-
-#EXTINF:-1 tvg-id="REDETV" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="CANAIS ABERTOS",REDETV TOCANTINS
-https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="CANAIS ABERTOS",Globo RS HD
+https://live-as-03-24.video.globo.com/h/0401656100995657248174216560145952748080663k3aIfweh5P_tqyQFPp6JAw/k/html5/a/F/u/2ff3a604-270c-4b2c-9a87-e272aef2b538/nu/globo-sp1/globo-sp1-audio_1=96000-video=2262976.m3u8
 
 #EXTINF:-1 tvg-logo = "https://www.lyngsat-stream.com/logo/tv/tt/tv-difusora-br.png" group-title="CANAIS ABERTOS", Difusora Imperatriz
 https://stream.amsolution.net.br:8443/live/60dceaa0637fb/index.m3u8
@@ -1028,8 +1023,6 @@ https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.c
 http://api.magiaiptv.com/live/800364/107211/m2_fqENpMkneTxmancB_720p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/5ffb89ea-214b-4cfc-82b0-174bbccf356e" parent-code="" group-title="Canais Abertos", AgroMais
 http://api.magiaiptv.com/live/800364/107211/m1_pSYqAdr245K7Wh3QEP_720p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/12b3d817-e8b2-4233-8216-4d23973ce6cb" parent-code="" group-title="Canais Abertos", BAND HDTV
-http://api.magiaiptv.com/live/800364/107211/m3_3zFNpotNh0Q0iR_720p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/12b3d817-e8b2-4233-8216-4d23973ce6cb" parent-code="" group-title="Canais Abertos", BAND HDTV+
 http://api.magiaiptv.com/live/800364/107211/m3_3zFNpotNh0Q0iR_720p_2M
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/18785d02-020c-4f93-bbc6-e73232501e93" parent-code="" group-title="Canais Abertos", Boa Vontade TV
@@ -1072,8 +1065,6 @@ http://api.magiaiptv.com/live/800364/107211/p2_EJgdlPLZH89MVH1B
 http://api.magiaiptv.com/live/800364/107211/m3_DlRn7901d45Sc3mhwNEFAXpH_720p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" parent-code="" group-title="Canais Abertos", GLOBO RJ HD
 http://api.magiaiptv.com/live/800364/107211/m2_kzeKgKsjyTCBUMl4_720p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" parent-code="" group-title="Canais Abertos", GLOBO RJ HD+
-http://api.magiaiptv.com/live/800364/107211/m2_kzeKgKsjyTCBUMl4_720p_2M
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" parent-code="" group-title="Canais Abertos", GLOBO RS HD
 http://api.magiaiptv.com/live/800364/107211/p1_moxeZCA4slSsPDI
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/1fba0b4f-b5ae-47a2-9a89-cbf66ba44f9e" parent-code="" group-title="Canais Abertos", Globo Sorocaba
@@ -1100,8 +1091,6 @@ http://api.magiaiptv.com/live/800364/107211/m2_CLWLzpeBBuzHjzgC_720p
 http://api.magiaiptv.com/live/800364/107211/m1_xzdvl4aisI1lqTzodXyS_720p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/75daa088-9d30-11e9-850f-003048de22c4" parent-code="" group-title="Canais Abertos", RBS HD
 http://api.magiaiptv.com/live/800364/107211/m2_1Tg7sxFdaIlIxFHG_720p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d418f422-3ba5-4736-abba-8a79d9a9362c" parent-code="" group-title="Canais Abertos", Record HD
-http://api.magiaiptv.com/live/800364/107211/m1_TDMwn2WGBHS0CUpsbzhNfuo5_720p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d418f422-3ba5-4736-abba-8a79d9a9362c" parent-code="" group-title="Canais Abertos", Record HD+
 http://api.magiaiptv.com/live/800364/107211/m1_TDMwn2WGBHS0CUpsbzhNfuo5_720p_2M
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/a1a63c08-fdc9-4d24-beca-5967d03119d5" parent-code="" group-title="Canais Abertos", Record TV Bélem
