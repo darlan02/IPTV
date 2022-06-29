@@ -1006,237 +1006,613 @@ https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.c
 
 
 
+#EXTINF:-1,[COLOR=white][B]ESPN EXTRA HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/8789
+
+#EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.81:1234
+#EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://pfsv.io:80/07720253/51853/250
+#EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://pfsv.io:80/07720253/51853/259
+#EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/8793
+
+#EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://pfsv.io:80/07720253/51853/261
+#EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.152:1234 
+#EXTINF:-1,[COLOR=white][B]ESPN 2 SD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.86:1234 
+#EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.128:1234
+
+#EXTINF:-1,[COLOR=white][B]ESPN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.153:1234
+#EXTINF:-1,[COLOR=white][B]ESPN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.153:1234
+#EXTINF:-1,[COLOR=white][B]ESPN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/290657
+
+#EXTINF:-1,[COLOR=white][B]ESPN 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.116:1234 
+#EXTINF:-1,[COLOR=white][B]ESPN 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.116:1234
+
+#EXTINF:-1,[COLOR=white][B]ALL SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://5cf4a2c2512a2.streamlock.net:1935/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]BAND SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.119:1234
+
+#EXTINF:-1,[COLOR=white][B]FOX SPORTS 2[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.132:1234
+#EXTINF:-1,[COLOR=white][B]BAND SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.119:1234
+#EXTINF:-1,[COLOR=white][B]FOX SPORTS 2[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.132:1234
+
+#EXTINF:-1,[COLOR=white][B]TNT SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1,[COLOR=white][B]TNT SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1,[COLOR=white][B]TNT SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1,[COLOR=white][B]TNT SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1,[COLOR=white][B]TNT SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="(+)GLOBO BRASILA" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/GLOBO-1.png" group-title="BRAZIL",GLOBO BRASILA
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76213
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="(+)GLOBO RJ" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/GLOBO-1.png" group-title="BRAZIL",GLOBO RJ
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76214
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="(+)GLOBO SP" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/GLOBO-1.png" group-title="BRAZIL",GLOBO SP
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76215
-#EXTINF:-1 tvg-id="" tvg-name="(+)GLOBO MINAS" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/GLOBO-1.png" group-title="BRAZIL",GLOBO MINAS
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76216
-#EXTINF:-1 tvg-id="" tvg-name="(+)GLOBO NORDESTE" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/GLOBO-1.png" group-title="BRAZIL",GLOBO NORDESTE
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76217
-#EXTINF:-1 tvg-id="" tvg-name="(+)GLOBO RBS PORTO ALEGRE" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/GLOBO-1.png" group-title="BRAZIL",GLOBO RBS PORTO ALEGRE
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76218
-#EXTINF:-1 tvg-id="" tvg-name="(+)GLOBO TV MIRANTE" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/GLOBO-1.png" group-title="BRAZIL",GLOBO TV MIRANTE
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76219
-#EXTINF:-1 tvg-id="" tvg-name="(+)GLOBO TV SERGIPE" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/GLOBO-1.png" group-title="BRAZIL",GLOBO TV SERGIPE
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76220
-#EXTINF:-1 tvg-id="" tvg-name="(+)RECORD" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/RECORDHD.png" group-title="BRAZIL",RECORD
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76221
-#EXTINF:-1 tvg-id="" tvg-name="(+)RECORD RJ" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/RECORDHD.png" group-title="BRAZIL",RECORD RJ
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76222
-#EXTINF:-1 tvg-id="" tvg-name="(+)RECORD SP" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/RECORDHD.png" group-title="BRAZIL",RECORD SP
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76223
-#EXTINF:-1 tvg-id="WooHoo.br" tvg-name="(+)WOOHOO" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/WOOHOOHD-1.png" group-title="BRAZIL",WOOHOO
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76224
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="(+)VIVA" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/VIVAHD-1.png" group-title="BRAZIL",VIVA
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76225
-#EXTINF:-1 tvg-id="EEntertainment.br" tvg-name="(+)E!" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/E%21.png" group-title="BRAZIL",E!
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76226
-#EXTINF:-1 tvg-id="" tvg-name="(+)EI PLUS" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/E%21.png" group-title="BRAZIL",EI PLUS
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76227
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="(+)LIFETIME" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/LIFETIMEHD-1.png" group-title="BRAZIL",LIFETIME
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76228
-#EXTINF:-1 tvg-id="FoodNetwork.br" tvg-name="(+)FOOD NETWORK" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/FOOD-NETWORKHD.png" group-title="BRAZIL",FOOD NETWORK
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76229
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="(+)GLOOB" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/GLOOBHD.png" group-title="BRAZIL",GLOOB
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76230
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="(+)GNT" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/GNTHD-1.png" group-title="BRAZIL",GNT
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76231
-#EXTINF:-1 tvg-id="" tvg-name="(+)GLOBOSAT" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/GLOBO-1.png" group-title="BRAZIL",GLOBOSAT
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76232
-#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL BRASIL" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/CANAL-BRASILHD-1.png" group-title="BRAZIL",CANAL BRASIL
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76233
-#EXTINF:-1 tvg-id="NovoTempo.br" tvg-name="(+)NOVO TEMPO" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/NOVO-TEMPOHD.png" group-title="BRAZIL",NOVO TEMPO
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76234
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="(+)REDE TV" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/REDE-TVHD-1.png" group-title="BRAZIL",REDE TV
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76235
-#EXTINF:-1 tvg-id="" tvg-name="(+)SBT CIDADE VERDE" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/SBT-1.png" group-title="BRAZIL",SBT CIDADE VERDE
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76236
-#EXTINF:-1 tvg-id="SBT.br" tvg-name="(+)SBT" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/SBT-1.png" group-title="BRAZIL",SBT
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76237
-#EXTINF:-1 tvg-id="Curta.br" tvg-name="(+)CURTA!" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/CURTAHD.png" group-title="BRAZIL",CURTA!
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76238
-#EXTINF:-1 tvg-id="" tvg-name="(+)PRIME BOX BRASIL" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/PRIME-BOX%20BRASILHD.png" group-title="BRAZIL",PRIME BOX BRASIL
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76239
-#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="(+)GLOBO NEWS" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/GLOBO-NEWSHD-1.png" group-title="BRAZIL",GLOBO NEWS
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76241
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="(+)RECORD NEWS" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/RECORDHD.png" group-title="BRAZIL",RECORD NEWS
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76242
-#EXTINF:-1 tvg-id="BandNews.br" tvg-name="(+)BAND NEWS" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/BAND-NEWSHD.png" group-title="BRAZIL",BAND NEWS
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76243
-#EXTINF:-1 tvg-id="" tvg-name="(+)CBS NEWS" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/CBS-NEWSHD-1.png" group-title="BRAZIL",CBS NEWS
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76244
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="(+)BABY" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/BABYHD-1.png" group-title="BRAZIL",BABY
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76246
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="(+)BOOMERANG" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/BOOMERANGHD.png" group-title="BRAZIL",BOOMERANG
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76247
-#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-name="(+)CARTOON NETWORK" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/cartoon-network-hd-1.png" group-title="BRAZIL",CARTOON NETWORK
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76248
-#EXTINF:-1 tvg-id="" tvg-name="(+)DISNEY CHANNEL" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/DISNEY-CHANNELHD-1.png" group-title="BRAZIL",DISNEY CHANNEL
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76249
-#EXTINF:-1 tvg-id="" tvg-name="(+)NICK" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/NICKHD.png" group-title="BRAZIL",NICK
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76252
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="(+)NICK JR" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/NICK-JRHD-1.png" group-title="BRAZIL",NICK JR
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76253
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="(+)NICKELODEON" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/NICKELODEONHD.png" group-title="BRAZIL",NICKELODEON
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76254
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="(+)TOONCAST" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/TOONCASTHD.png" group-title="BRAZIL",TOONCAST
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76255
-#EXTINF:-1 tvg-id="RaTimBum.br" tvg-name="(+)RA TIM BUM" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/RA-TIM-BUMHD-1.png" group-title="BRAZIL",RA TIM BUM
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76256
-#EXTINF:-1 tvg-id="FOXPremium1.br" tvg-name="(+)STAR HITS 1" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/FOX.png" group-title="BRAZIL",STAR HITS 1
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76258
-#EXTINF:-1 tvg-id="FOXPremium2.br" tvg-name="(+)STAR HITS 2" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/FOX.png" group-title="BRAZIL",STAR HITS 2
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76259
-#EXTINF:-1 tvg-id="HBO.br" tvg-name="(+)HBO" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/HBO.png" group-title="BRAZIL",HBO
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76260
-#EXTINF:-1 tvg-id="HBO2.br" tvg-name="(+)HBO 2" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/HBO.png" group-title="BRAZIL",HBO 2
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76261
-#EXTINF:-1 tvg-id="HBOFamily.br" tvg-name="(+)HBO FAMILY" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/HBO.png" group-title="BRAZIL",HBO FAMILY
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76262
-#EXTINF:-1 tvg-id="HBOPlusBrasil.br" tvg-name="(+)HBO PLUS" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/HBO.png" group-title="BRAZIL",HBO PLUS
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76263
-#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="(+)HBO SIGNATURE" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/HBO.png" group-title="BRAZIL",HBO SIGNATURE
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76264
-#EXTINF:-1 tvg-id="MaxPrimeBrasil.br" tvg-name="(+)MAX PRIME" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/MAX-PRIMEHD-1.png" group-title="BRAZIL",MAX PRIME
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76265
-#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="(+)PREMIERE CLUBES" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/PREMIERE-CLUBES7HD-1.png" group-title="BRAZIL",PREMIERE CLUBES
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76266
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="(+)PREMIERE 2" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/PREMIERE-CLUBES7HD-1.png" group-title="BRAZIL",PREMIERE 2
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76267
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="(+)PREMIERE 3" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/PREMIERE-CLUBES7HD-1.png" group-title="BRAZIL",PREMIERE 3
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76268
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="(+)PREMIERE 4" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/PREMIERE-CLUBES7HD-1.png" group-title="BRAZIL",PREMIERE 4
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76269
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="(+)PREMIERE 5" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/PREMIERE-CLUBES7HD-1.png" group-title="BRAZIL",PREMIERE 5
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76270
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="(+)PREMIERE 6" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/PREMIERE-CLUBES7HD-1.png" group-title="BRAZIL",PREMIERE 6
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76271
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="(+)PREMIERE 7" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/PREMIERE-CLUBES7HD-1.png" group-title="BRAZIL",PREMIERE 7
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76272
-#EXTINF:-1 tvg-id="" tvg-name="(+)TELECINE PREMIUM" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/TELECINE-TOUCH-1.png" group-title="BRAZIL",TELECINE PREMIUM
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76273
-#EXTINF:-1 tvg-id="TNT.br" tvg-name="(+)TNT" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/TNTHD-1.png" group-title="BRAZIL",TNT
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76274
-#EXTINF:-1 tvg-id="TNTSeries.br" tvg-name="(+)TNT SERIES" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/TNTHD-1.png" group-title="BRAZIL",TNT SERIES
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76275
-#EXTINF:-1 tvg-id="" tvg-name="(+)TELECINE ACTION" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/TELECINE-TOUCH-1.png" group-title="BRAZIL",TELECINE ACTION
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76276
-#EXTINF:-1 tvg-id="" tvg-name="(+)TELECINE CULT" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/TELECINE-TOUCH-1.png" group-title="BRAZIL",TELECINE CULT
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76277
-#EXTINF:-1 tvg-id="" tvg-name="(+)TELECINE FUN" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/TELECINE-TOUCH-1.png" group-title="BRAZIL",TELECINE FUN
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76278
-#EXTINF:-1 tvg-id="" tvg-name="(+)TELECINE PIPOCA" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/TELECINE-TOUCH-1.png" group-title="BRAZIL",TELECINE PIPOCA
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76279
-#EXTINF:-1 tvg-id="" tvg-name="(+)TELECINE TOUCH" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/TELECINE-TOUCH-1.png" group-title="BRAZIL",TELECINE TOUCH
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76280
-#EXTINF:-1 tvg-id="WarnerChannel.br" tvg-name="(+)WARNER CHANNEL" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/WARNER-CHANNEL-1.png" group-title="BRAZIL",WARNER CHANNEL
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76281
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="(+)AMC" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/AMCHD-1.png" group-title="BRAZIL",AMC
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76282
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="(+)ARTE 1" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/ARTE1HD-1.png" group-title="BRAZIL",ARTE 1
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76283
-#EXTINF:-1 tvg-id="AXN.br" tvg-name="(+)AXN" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/AXNHD.png" group-title="BRAZIL",AXN
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76284
-#EXTINF:-1 tvg-id="Band.br" tvg-name="(+)BAND CAMPINAS" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/BAND-CAMPINASHD.png" group-title="BRAZIL",BAND CAMPINAS
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76285
-#EXTINF:-1 tvg-id="Band.br" tvg-name="(+)BAND" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/BAND-HD.png" group-title="BRAZIL",BAND
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76286
-#EXTINF:-1 tvg-id="BandSports.br" tvg-name="(+)BAND SPORT" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/BAND-SPORTSHD-1.png" group-title="BRAZIL",BAND SPORT
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76287
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="(+)CINEMAX" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/CINEMAX-HD-1.png" group-title="BRAZIL",CINEMAX
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76288
-#EXTINF:-1 tvg-id="ComedyCentral.br" tvg-name="(+)COMEDY CENTRAL" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/COMEDY-CENTRALHD-1.png" group-title="BRAZIL",COMEDY CENTRAL
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76289
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="(+)FOX" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/FOX.png" group-title="BRAZIL",FOX
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76290
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="(+)FOX HITS" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/FOX.png" group-title="BRAZIL",FOX HITS
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76291
-#EXTINF:-1 tvg-id="FX.br" tvg-name="(+)FX" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/FX.png" group-title="BRAZIL",FX
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76292
-#EXTINF:-1 tvg-id="maxUP.br" tvg-name="(+)MAX UP" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/MAX-UPHD-1.png" group-title="BRAZIL",MAX UP
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76294
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="(+)MEGAPIX" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/MEGAPIXHD-1.png" group-title="BRAZIL",MEGAPIX
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76295
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="(+)MULTISHOW" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/MULTISHOWHD-Copie.png" group-title="BRAZIL",MULTISHOW
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76296
-#EXTINF:-1 tvg-id="Off.br" tvg-name="(+)OFF" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/OFFHD-1.png" group-title="BRAZIL",OFF
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76297
-#EXTINF:-1 tvg-id="Paramount.br" tvg-name="(+)PARAMOUNT" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/PARAMOUNTHD.png" group-title="BRAZIL",PARAMOUNT
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76298
-#EXTINF:-1 tvg-id="" tvg-name="(+)SONY CHANNEL" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/SONY-CHANNELHD-1.png" group-title="BRAZIL",SONY CHANNEL
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76299
-#EXTINF:-1 tvg-id="Space.br" tvg-name="(+)SPACE" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/SPACEHD-1.png" group-title="BRAZIL",SPACE
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76300
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="(+)STUDIO UNIVERSAL" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/STUDIO-UNIVERSAL-1.png" group-title="BRAZIL",STUDIO UNIVERSAL
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76301
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="(+)SYFY" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/syfy-hd.png" group-title="BRAZIL",SYFY
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76302
-#EXTINF:-1 tvg-id="TBS.br" tvg-name="(+)TBS" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/TBS-1.png" group-title="BRAZIL",TBS
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76303
-#EXTINF:-1 tvg-id="TCM.br" tvg-name="(+)TCM" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/TCMHD.png" group-title="BRAZIL",TCM
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76304
-#EXTINF:-1 tvg-id="TLC.br" tvg-name="(+)TLC" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/tlc-hd.png" group-title="BRAZIL",TLC
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76305
-#EXTINF:-1 tvg-id="" tvg-name="(+)UNIVERSAL" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/UNIVERSALHD.png" group-title="BRAZIL",UNIVERSAL
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76306
-#EXTINF:-1 tvg-id="" tvg-name="(+)ZOOMOO" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/ZOOMOOHD.png" group-title="BRAZIL",ZOOMOO
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76307
-#EXTINF:-1 tvg-id="AandE.br" tvg-name="(+)A&E" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/A%26E.png" group-title="BRAZIL",A&E
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76308
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="(+)SPORTV" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/SPORTVHD.png" group-title="BRAZIL",SPORTV
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76310
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="(+)SPORTV 2" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/SPORTV2HD%20.png" group-title="BRAZIL",SPORTV 2
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76311
-#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="(+)SPORTV 3" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/SPORTV3HD%20.png" group-title="BRAZIL",SPORTV 3
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76312
-#EXTINF:-1 tvg-id="FoxSports.br" tvg-name="(+)FOX SPORTS" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/FOX.png" group-title="BRAZIL",FOX SPORTS
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76313
-#EXTINF:-1 tvg-id="FoxSports2.br" tvg-name="(+)FOX SPORTS 2" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/FOX.png" group-title="BRAZIL",FOX SPORTS 2
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76314
-#EXTINF:-1 tvg-id="ESPN.br" tvg-name="(+)ESPN" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/ESPN-1.png" group-title="BRAZIL",ESPN
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76315
-#EXTINF:-1 tvg-id="" tvg-name="(+)ESPN EXTRA" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/ESPN-1.png" group-title="BRAZIL",ESPN EXTRA
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76316
-#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="(+)ESPN 2" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/ESPN-1.png" group-title="BRAZIL",ESPN 2
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76317
-#EXTINF:-1 tvg-id="ESPNBrasil.br" tvg-name="(+)ESPN BRASIL" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/ESPN-1.png" group-title="BRAZIL",ESPN BRASIL
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76318
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="(+)COMBATE" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/COMBATEHD-1.png" group-title="BRAZIL",COMBATE
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76319
-#EXTINF:-1 tvg-id="" tvg-name="(+)ALL SPORTS" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/BRASIL.png" group-title="BRAZIL",ALL SPORTS
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76320
-#EXTINF:-1 tvg-id="BandSports.br" tvg-name="(+)BAND SPORTS" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/BAND-SPORTSHD-1.png" group-title="BRAZIL",BAND SPORTS
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76321
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="(+)BIS" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/BIS-1.png" group-title="BRAZIL",BIS
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76323
-#EXTINF:-1 tvg-id="MTV.br" tvg-name="(+)MTV" tvg-logo="http://logo.panel.cx/logo/AUSTRALIA/mtv.png" group-title="BRAZIL",MTV
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76324
-#EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="(+)ANIMAL PLANET" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/ANIMALPLANET-1.png" group-title="BRAZIL",ANIMAL PLANET
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76326
-#EXTINF:-1 tvg-id="" tvg-name="(+)DISCOVERY" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/discovery.png" group-title="BRAZIL",DISCOVERY
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76327
-#EXTINF:-1 tvg-id="" tvg-name="(+)DISCOVERY CIVILIZATION" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/DISCOVERY-CIVILIZATIONHD.png" group-title="BRAZIL",DISCOVERY CIVILIZATION
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76328
-#EXTINF:-1 tvg-id="DiscoveryHomeHealth.br" tvg-name="(+)DISCOVERY H&H" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/DISCOVERYH-1.png" group-title="BRAZIL",DISCOVERY H&H
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76329
-#EXTINF:-1 tvg-id="DiscoveryKids.br" tvg-name="(+)DISCOVERY KIDS" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/DISCOVERY-KIDSHD-1.png" group-title="BRAZIL",DISCOVERY KIDS
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76330
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="(+)DISCOVERY SCIENCE" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/discovery-science-1.png" group-title="BRAZIL",DISCOVERY SCIENCE
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76331
-#EXTINF:-1 tvg-id="DiscoveryTheater.br" tvg-name="(+)DISCOVERY THEATER" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/DISCOVERYTHEAERHD-1.png" group-title="BRAZIL",DISCOVERY THEATER
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76332
-#EXTINF:-1 tvg-id="DiscoveryTurbo.br" tvg-name="(+)DISCOVERY TURBO" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/DISCOVERY-TURBOHD-1.png" group-title="BRAZIL",DISCOVERY TURBO
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76333
-#EXTINF:-1 tvg-id="DiscoveryWorld.br" tvg-name="(+)DISCOVERY WORLD" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/DISCOVERY-WORLDHD-1.png" group-title="BRAZIL",DISCOVERY WORLD
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76334
-#EXTINF:-1 tvg-id="" tvg-name="(+)HISTORY" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/HISTORYHD-1.png" group-title="BRAZIL",HISTORY
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76335
-#EXTINF:-1 tvg-id="History2.br" tvg-name="(+)H2" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/HISTORY-2-1.png" group-title="BRAZIL",H2
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76336
-#EXTINF:-1 tvg-id="" tvg-name="(+)DISCOVERY ID" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/DISCOVERY-IDHD-1.png" group-title="BRAZIL",DISCOVERY ID
-http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76337
+####################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DISCOVERY & CASAS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+http://0000000000000000000000000000
+
+
+#EXTINF:-1,[COLOR=white][B]DISCOVERY CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.80:1234 
+#EXTINF:-1,[COLOR=white][B]DISCOVERY CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.80:1234
+
+#EXTINF:-1,[COLOR=white][B]DISCOVERY TURBO HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.82:1234 
+#EXTINF:-1,[COLOR=white][B]DISCOVERY TURBO HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.82:1234
+
+#EXTINF:-1,[COLOR=white][B]DISCOVERY KIDS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.83:1234 
+#EXTINF:-1,[COLOR=white][B]DISCOVERY KIDS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.83:1234
+
+#EXTINF:-1,[COLOR=white][B]DISCOVERY SCIENCE HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.92:1234 
+
+#EXTINF:-1,[COLOR=white][B]DISCOVERY HOME & HEALTH HD[/B][/COLOR][COLOR=white][/COLOR]
+http://pfsv.io:80/07720253/51853/183
+#EXTINF:-1,[COLOR=white][B]DISCOVERY HOME & HEALTH HD[/B][/COLOR][COLOR=white][/COLOR]
+http://pfsv.io:80/07720253/51853/183
+
+#EXTINF:-1,[COLOR=white][B]DISCOVERY ANIMAL PLANET HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.118:1234
+
+#EXTINF:-1,[COLOR=white][B]HGTV BR. HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/147274
+
+
+####################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  URBAN TV BRASIL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+http://0000000000000000000000000000
+
+
+#EXTINF:-1,[COLOR=white][B]URBAN TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://200.194.238.229:8383/live/urbantv/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]URBAN TV KIDS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://200.194.238.229:8383/live/urbankids/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]URBAN TV MOVIES HD[/B][/COLOR][COLOR=white][/COLOR]
+http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]URBAN TV DOC´S HD[/B][/COLOR][COLOR=white][/COLOR]
+http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]URBAN TV SÉRIES HD[/B][/COLOR][COLOR=white][/COLOR]
+http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
+
+####################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS TV DIVERSOS / NOVOS /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+http://0000000000000000000000000000
+
+
+#EXTINF:-1,[COLOR=white][B]MKK WEB TV[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/286094
+#EXTINF:-1,[COLOR=white][B]TV MAX HD[/B][/COLOR][COLOR=white][/COLOR]
+http://59f1cbe63db89.streamlock.net:1935/tvmax/_definst_/tvmax/chunklist.m3u8
+#EXTINF:-1,[COLOR=white][B]BONS TEMPOS TV[/B][/COLOR][COLOR=white][/COLOR]
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/master.m3u8
+#EXTINF:-1,[COLOR=white][B]TV CARIOCA HD[/B][/COLOR][COLOR=white][/COLOR]
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w923241845.m3u8
+#EXTINF:0 tvg-id="ext" group-title="General",[COLOR=white][B]TV CARIOCA HD[/B][/COLOR][COLOR=white][/COLOR]
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]LOADING TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w87435097.m3u8
+#EXTINF:-1,[COLOR=white][B]RETRO CARTOON SD[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1583814293.m3u8
+#EXTINF:-1,[COLOR=white][B]CINE LIFE CLASSIC HD[/B][/COLOR][COLOR=white][/COLOR]
+https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[COLOR=white][B]REDE PREMIUM TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://alanza.iptv2022.com/REDE_PREMIUM/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TOP TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://cast.cdnseguro.com:19360/8092/8092.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Undefined",[COLOR=white][B]CANAL SAÚDE HD[/B][/COLOR][COLOR=white][/COLOR]
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",[COLOR=white][B]PEOPLE ARE AWESOME HD[/B][/COLOR][COLOR=white][/COLOR]
+https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
+
+####################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS MÚSICA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+http://0000000000000000000000000000
+
+
+#EXTINF:-1,[COLOR=white][B]K-POP TV PLAY HD[/B][/COLOR][COLOR=white][/COLOR]
+https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1609920726.m3u8
+#EXTINF:-1,[COLOR=white][B]K-POP TV PLAY HD[/B][/COLOR][COLOR=white][/COLOR]
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,[COLOR=white][B]BIS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://pfsv.io:80/07720253/51853/18
+#EXTINF:-1,[COLOR=white][B]BIS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/24621
+#EXTINF:-1,[COLOR=white][B]TRACE URBAN HD[/B][/COLOR][COLOR=white][/COLOR]
+https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
+#EXTINF:-1,[COLOR=white][B]MULTISHOW HD[/B][/COLOR][COLOR=white][/COLOR]
+http://pfsv.io:80/07720253/51853/16
+#EXTINF:-1,[COLOR=white][B]MULTISHOW HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/14528
+#EXTINF:-1,[COLOR=white][B]MTV BR. HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/147283
+
+
+
+####################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS GENERALISTAS E NOTÍCIAS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+http://0000000000000000000000000000
+
+
+#EXTINF:-1,[COLOR=white][B]CNN BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.160:1234
+#EXTINF:-1,[COLOR=white][B]CNN INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1,[COLOR=white][B]GLOBO HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.109:1234
+
+#EXTINF:-1,[COLOR=white][B]TV RECORD HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.147:1234
+#EXTINF:-1,[COLOR=white][B]RECORD NEWS HD[/B][/COLOR][COLOR=white][/COLOR] 
+http://189.91.128.146:4444/udp/227.10.20.170:1234
+
+#EXTINF:-1,[COLOR=white][B]REDE TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.122:1234
+#EXTINF:-1,[COLOR=white][B]REDE TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://stream.amsolution.net.br:8443/live/60da0c9cc05d4/index.m3u8?ROGERIOTORRES
+
+#EXTINF:-1,[COLOR=white][B]JOVEM PAN NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8?ROGERIOTORRES
+
+#EXTINF:-1,[COLOR=white][B]BAND NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.131:1234
+
+#EXTINF:-1,[COLOR=white][B]CBN SÃO PAULO HD[/B][/COLOR][COLOR=white][/COLOR]
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+
+#EXTINF:-1,[COLOR=white][B]SBT HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.120:1234 
+#EXTINF:-1,[COLOR=white][B]SBT HD[/B][/COLOR][COLOR=white][/COLOR]
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8?ROGERIOTORRES
+#EXTINF:-1,[COLOR=white][B]SBT INTERIOR HD[/B][/COLOR][COLOR=white][/COLOR]
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+
+
+####################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS SÉRIES DE TV E CINEMA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+http://0000000000000000000000000000
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TELECINE PREMIUM HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.134:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TELECINE ACTION HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.135:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TELECINE TOUCH HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.136:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TELECINE FUN HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.137:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TELECINE PIPOCA HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.87:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CINE BRASIL HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.171:1234
+#EXTINF:-1,[COLOR=white][B]STAR CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.139:1234
+#EXTINF:-1,[COLOR=white][B]PARAMOUNT NETWORK HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.140:1234
+
+
+####################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  OUTROS CANAIS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+http://0000000000000000000000000000
+
+
+#EXTINF:-1,[COLOR=white][B]CLUBINHO HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.91:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TLC[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.84:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]STUDIO UNIVERSAL[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.88:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ID[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.93:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HBO 1[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.94:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HBO 2[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.95:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HBO PLUS[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.96:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HBO FAMILY[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.97:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HBO SIGNATURE[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.98:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CINEMAX[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.101:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PREMIERE CLUBES HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.102:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]UNIVALE TV[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.103:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PFC 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.104:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PFC 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.105:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PFC 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.106:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PFC 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.107:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]AGROMINAS TV[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.108:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]INTER TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.109:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]WOOHOO[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.112:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FASHION HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.113:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PRIME SD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.114:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TRAVEL HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.115:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ANIMAL PLANET HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.118:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PFC 6 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.123:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TCM[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.124:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CANAL RURAL[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.125:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]WARNER HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.126:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SONY HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.127:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]A&E HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.129:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HISTORY HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.130:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HBO HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.133:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FX HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.138:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.139:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]IDEAL TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.143:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PFC 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.144:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVLESTE HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.151:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HBO 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.154:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HBO PLUS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.156:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HBO FAMILY HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.157:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HBO SIGNATURE HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.158:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CINEMAX HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.159:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BLOOMBERG HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.161:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SHOPTIME HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.162:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.163:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]REDE TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.164:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FUTURA HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.165:1234 
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TBS[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.166:1234
+
+
+####################################################################################################################################
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 29/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
+
+FONTE DESTA LISTA: https://github.com/WJS1978/IPTV/blob/main/iptv.m3u
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIL1ho006Jea_Lf0E91i8HE9TZjeKXIkmm2Ygqo2p6ZO3JAOwYALJ56UPiax7h1rGOFw&usqp=CAU",[COLOR=white][B]DELUXE LOUNGE[/B][/COLOR][COLOR=white][/COLOR]
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/abb4746a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=GB&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1,[COLOR=white][B]TRACE URBAN[/B][/COLOR][COLOR=white][/COLOR]
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8 
+#EXTINF:-1,[COLOR=white][B]TLC[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.84:1234
+#EXTINF:-1,[COLOR=white][B]DISCOVERY HOME & HEALTH[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.85:1234
+#EXTINF:-1,[COLOR=white][B]DISCOVERY SCIENCE[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.92:1234
+#EXTINF:-1,[COLOR=white][B]ID[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.93:1234
+#EXTINF:-1,[COLOR=white][B]TELECINE PIPOCA[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.87:1234
+#EXTINF:-1,[COLOR=white][B]TELECINE PREMIUM[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.134:1234
+#EXTINF:-1,[COLOR=white][B]TELECINE ACTION[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.135:1234
+#EXTINF:-1,[COLOR=white][B]TELECINE TOUCH[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.136:1234
+#EXTINF:-1,[COLOR=white][B]TELECINE FUN[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.137:1234
+#EXTINF:-1,[COLOR=white][B]STUDIO UNIVERSAL[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.88:1234
+#EXTINF:-1,[COLOR=white][B]MEGAPIX[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.89:1234
+#EXTINF:-1,[COLOR=white][B]DISNEY CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.90:1234
+#EXTINF:-1,[COLOR=white][B]DISNEY XD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.110:1234
+#EXTINF:-1,[COLOR=white][B]GLOOB[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.91:1234
+#EXTINF:-1,[COLOR=white][B]HBO[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.94:1234
+#EXTINF:-1,[COLOR=white][B]HBO[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.133:1234
+#EXTINF:-1,[COLOR=white][B]HBO 2[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.95:1234
+#EXTINF:-1,[COLOR=white][B]HBO+[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.96:1234
+#EXTINF:-1,[COLOR=white][B]HBO FAMILY[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.97:1234
+#EXTINF:-1,[COLOR=white][B]HBO[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.98:1234
+#EXTINF:-1,[COLOR=white][B]HBO POP[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.99:1234
+#EXTINF:-1,[COLOR=white][B]HBO EXTREME[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.100:1234
+#EXTINF:-1,[COLOR=white][B]CINEMAX[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.101:1234
+#EXTINF:-1,[COLOR=white][B]PREMIERE[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.102:1234
+#EXTINF:-1,[COLOR=white][B]PREMIERE[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.104:1234
+#EXTINF:-1,[COLOR=white][B]PREMIERE[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.105:1234
+#EXTINF:-1,[COLOR=white][B]PREMIERE[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.106:1234
+#EXTINF:-1,[COLOR=white][B]PREMIERE[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.107:1234
+#EXTINF:-1,[COLOR=white][B]PREMIERE[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.123:1234
+#EXTINF:-1,[COLOR=white][B]UNIVALE TV[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.103:1234
+#EXTINF:-1,[COLOR=white][B]CNT[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.111:1234
+#EXTINF:-1,[COLOR=white][B]WOOHOO[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.112:1234
+#EXTINF:-1,[COLOR=white][B]PRIME[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.114:1234
+#EXTINF:-1,[COLOR=white][B]TRAVEL[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.115:1234
+#EXTINF:-1,[COLOR=white][B]FISH TV[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.117:1234
+#EXTINF:-1,[COLOR=white][B]SBT[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.120:1234
+#EXTINF:-1,[COLOR=white][B]REDE TV[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.122:1234
+#EXTINF:-1,[COLOR=white][B]TCM[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.124:1234
+#EXTINF:-1,[COLOR=white][B]CANAL RURAL[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.125:1234
+#EXTINF:-1,[COLOR=white][B]WARNER[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.126:1234
+#EXTINF:-1,[COLOR=white][B]SONY[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.127:1234
+#EXTINF:-1,[COLOR=white][B]A&E[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.129:1234
+#EXTINF:-1,[COLOR=white][B]HISTORY[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.130:1234
+#EXTINF:-1,[COLOR=white][B]BAND NEWS[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.131:1234
+#EXTINF:-1,[COLOR=white][B]FX[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.138:1234
+#EXTINF:-1,[COLOR=white][B]TERRA VIVA[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.142:1234
+#EXTINF:-1,[COLOR=white][B]LOADING[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.143:1234
+#EXTINF:-1,[COLOR=white][B]TV CULTURA[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.145:1234
+#EXTINF:-1,[COLOR=white][B]NICK[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.149:1234
+#EXTINF:-1,[COLOR=white][B]GLOBO[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.150:1234
+#EXTINF:-1,[COLOR=white][B]RECORD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.151:1234
+#EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.152:1234
+#EXTINF:-1,[COLOR=white][B]HBO[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.154:1234
+#EXTINF:-1,[COLOR=white][B]HBO 2[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.155:1234
+#EXTINF:-1,[COLOR=white][B]HBO+[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.156:1234
+#EXTINF:-1,[COLOR=white][B]HBO FAMILY[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.157:1234
+#EXTINF:-1,[COLOR=white][B]HBO SIGNATURE[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.158:1234
+#EXTINF:-1,[COLOR=white][B]CINEMAX[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.159:1234
+#EXTINF:-1,[COLOR=white][B]SHOPTIME[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.162:1234
+#EXTINF:-1,[COLOR=white][B]TV5 MONDE[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.163:1234
+#EXTINF:-1,[COLOR=white][B]REDE TV[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.164:1234
+
+#EXTM3U
+
+####################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  LISTA CANAIS 2 BRASIL /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+http://0000000000000000000000000000
+
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 29/06/2022[/B][/COLOR][COLOR=orange][/COLOR] 
+
+#EXTM3U
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY KIDS
+http://189.91.128.146:4444/udp/227.10.20.83:1234
+#EXTINF:0 tvg-id="tlc-russia" group-title="Channels",TLC
+http://189.91.128.146:4444/udp/227.10.20.84:1234
+#EXTINF:0 tvg-id="Gloob.br" group-title="Channels",GLOOB
+http://189.91.128.146:4444/udp/227.10.20.91:1234
+#EXTINF:0 tvg-id="Home.uk" group-title="Channels",DISCOVERY HOME & HEALTH HD
+http://189.91.128.146:4444/udp/227.10.20.85:1234
+#EXTINF:0 tvg-id="StudioUniversal.it" group-title="Channels",STUDIO UNIVERSAL
+http://189.91.128.146:4444/udp/227.10.20.88:1234
+#EXTINF:0 tvg-id="discov_rus-hd" group-title="Channels",DISCOVERY CHANNEL HD
+http://189.91.128.146:4444/udp/227.10.20.80:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN BR HD
+http://189.91.128.146:4444/udp/227.10.20.81:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY TURBO HD
+http://189.91.128.146:4444/udp/227.10.20.82:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",PFC 2 HD
+http://189.91.128.146:4444/udp/227.10.20.104:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN INTER.
+http://189.91.128.146:4444/udp/227.10.20.86:1234
+#EXTINF:0 tvg-id="Megapix.br" group-title="Channels",MEGAPIX
+http://189.91.128.146:4444/udp/227.10.20.89:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY SCIENCE
+http://189.91.128.146:4444/udp/227.10.20.92:1234
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="Channels",TC PIPOCA HD
+http://189.91.128.146:4444/udp/227.10.20.87:1234
+#EXTINF:0 tvg-id="id-extra" group-title="Channels",ID
+http://189.91.128.146:4444/udp/227.10.20.93:1234
+#EXTINF:0 tvg-id="Hboplus.br" group-title="Channels",HBO PLUS
+http://189.91.128.146:4444/udp/227.10.20.96:1234
+#EXTINF:0 tvg-id="disney-xd-blt" group-title="Channels",DISNEY XD
+http://189.91.128.146:4444/udp/227.10.20.110:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",PFC 3 HD
+http://189.91.128.146:4444/udp/227.10.20.105:1234
+#EXTINF:0 tvg-id="HBOAdria.rs" group-title="Channels",HBO
+http://189.91.128.146:4444/udp/227.10.20.94:1234
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="Channels",PREMIERE CLUBES HD
+http://189.91.128.146:4444/udp/227.10.20.102:1234
+#EXTINF:0 tvg-id="HBO2.cz" group-title="Channels",HBO2
+http://189.91.128.146:4444/udp/227.10.20.95:1234
+#EXTINF:0 tvg-id="HBOSignature.mx" group-title="Channels",HBO SIGNATURE
+http://189.91.128.146:4444/udp/227.10.20.98:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",PFC 4 HD
+http://189.91.128.146:4444/udp/227.10.20.106:1234
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="Channels",HBO FAMILY
+http://189.91.128.146:4444/udp/227.10.20.97:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",PFC 5 HD
+http://189.91.128.146:4444/udp/227.10.20.107:1234
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Channels",CINEMAX
+http://189.91.128.146:4444/udp/227.10.20.101:1234
+#EXTINF:0 tvg-id="Maxup.br" group-title="Channels",MAX UP
+http://189.91.128.146:4444/udp/227.10.20.99:1234
+#EXTINF:0 tvg-id="Maxprime.br" group-title="Channels",MAX PRIME
+http://189.91.128.146:4444/udp/227.10.20.100:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",AGROMINAS TV
+http://189.91.128.146:4444/udp/227.10.20.108:1234
+#EXTINF:0 tvg-id="prime-md" group-title="Channels",PRIME SD
+http://189.91.128.146:4444/udp/227.10.20.114:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",INTER TV HD
+http://189.91.128.146:4444/udp/227.10.20.109:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",PFC 6 HD
+http://189.91.128.146:4444/udp/227.10.20.123:1234
+#EXTINF:0 tvg-id="Woohoo.br" group-title="Channels",WOOBOO
+http://189.91.128.146:4444/udp/227.10.20.112:1234
+#EXTINF:0 tvg-id="animal-hd" group-title="Channels",ANIMAL PLANET HD
+http://189.91.128.146:4444/udp/227.10.20.118:1234
+#EXTINF:0 tvg-id="Redetv.br" group-title="Channels",REDE TV
+http://189.91.128.146:4444/udp/227.10.20.122:1234
+#EXTINF:0 tvg-id="TCM.uk" group-title="Channels",TCM
+http://189.91.128.146:4444/udp/227.10.20.124:1234
+#EXTINF:0 tvg-id="Canalrural.br" group-title="Channels",CANAL RURAL
+http://189.91.128.146:4444/udp/227.10.20.125:1234
+#EXTINF:0 tvg-id="Sbt.br" group-title="Channels",SBT HD
+http://189.91.128.146:4444/udp/227.10.20.120:1234
+#EXTINF:0 tvg-id="FoxSports.it" group-title="Channels",FOX SPORTS HD
+http://189.91.128.146:4444/udp/227.10.20.116:1234
+#EXTINF:0 tvg-id="Bandnews.br" group-title="Channels",BAND NEWS
+http://189.91.128.146:4444/udp/227.10.20.131:1234
+#EXTINF:0 tvg-id="AyE.mx" group-title="Channels",A&E HD
+http://189.91.128.146:4444/udp/227.10.20.129:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",N/A HD
+http://189.91.128.146:4444/udp/227.10.20.133:1234
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Channels",FOX SPORTS 2
+http://189.91.128.146:4444/udp/227.10.20.132:1234
+#EXTINF:0 tvg-id="FXHD.mx" group-title="Channels",FX HD
+http://189.91.128.146:4444/udp/227.10.20.138:1234
+#EXTINF:0 tvg-id="Tcfun.br" group-title="Channels",TC FUN HD
+http://189.91.128.146:4444/udp/227.10.20.137:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",RADIO SERTANEJA
+http://189.91.128.146:4444/udp/227.10.20.141:1234
+#EXTINF:0 tvg-id="RTPi.pt" group-title="Channels",RTPi
+http://189.91.128.146:4444/udp/227.10.20.146:1234
+#EXTINF:0 tvg-id="Terraviva.br" group-title="Channels",TERRA VIVA
+http://189.91.128.146:4444/udp/227.10.20.142:1234
+#EXTINF:0 tvg-id="TVRecord.es" group-title="Channels",TV RECORD
+http://189.91.128.146:4444/udp/227.10.20.147:1234
+#EXTINF:0 tvg-id="cctv" group-title="Channels",CCTV
+http://189.91.128.146:4444/udp/227.10.20.144:1234
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Channels",ESPN HD
+http://189.91.128.146:4444/udp/227.10.20.152:1234
+#EXTINF:0 tvg-id="ESPN2.us" group-title="Channels",ESPN 2 HD
+http://189.91.128.146:4444/udp/227.10.20.153:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",NIKBR-HD
+http://189.91.128.146:4444/udp/227.10.20.149:1234
+#EXTINF:0 tvg-id="BloombergTVHD.us" group-title="Channels",BLOOMBERG HD
+http://189.91.128.146:4444/udp/227.10.20.161:1234
+#EXTINF:0 tvg-id="HBOFamilyHD.cl" group-title="Channels",HBO FAMILY HD
+http://189.91.128.146:4444/udp/227.10.20.157:1234
+#EXTINF:0 tvg-id="HBO2.pl" group-title="Channels",HBO2 HD
+http://189.91.128.146:4444/udp/227.10.20.155:1234
+#EXTINF:0 tvg-id="HBO.hu" group-title="Channels",HBO HD
+http://189.91.128.146:4444/udp/227.10.20.154:1234
+#EXTINF:0 tvg-id="Hboplus.br" group-title="Channels",HBO PLUS HD
+http://189.91.128.146:4444/udp/227.10.20.156:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",CNN BR HD
+http://189.91.128.146:4444/udp/227.10.20.160:1234
+#EXTINF:0 tvg-id="HBOSignature.us" group-title="Channels",HBO SIGNATURE HD
+http://189.91.128.146:4444/udp/227.10.20.158:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",REDE TV 1 HD
+http://189.91.128.146:4444/udp/227.10.20.164:1234
+#EXTINF:0 tvg-id="RecordNews.pt" group-title="Channels",RECORD NEWS HD
+http://189.91.128.146:4444/udp/227.10.20.170:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",AGROMINAS TV
+http://189.91.128.146:4444/udp/227.10.20.175:1234
+#EXTINF:0 tvg-id="Cinebrasiltv.br" group-title="Channels",CINE BRASIL
+http://189.91.128.146:4444/udp/227.10.20.171:1234
+#EXTINF:0 tvg-id="RAI.mx" group-title="Channels",RAI
+http://189.91.128.146:4444/udp/227.10.20.174:1234
+#EXTINF:0 tvg-id="Combate.br" group-title="Channels",COMBATE HD
+http://189.91.128.146:4444/udp/227.10.20.172:1234
+#EXTINF:0 tvg-id="Rbi.br" group-title="Channels",RBI
+http://189.91.128.146:4444/udp/227.10.20.173:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY SCIENCE
+http://189.91.128.146:4444/udp/227.10.20.177:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",CLIMATEMPO HD
+http://189.91.128.146:4444/udp/227.10.20.176:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",JP NEWS
+http://189.91.128.146:4444/udp/227.10.20.180:1234
